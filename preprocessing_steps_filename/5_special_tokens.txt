@@ -1,0 +1,1049 @@
+<s> l i <pad> v e <pad> r p o o <pad> l   ṣ ù g b ọ n   n í   a <pad> y é   ò d e   ò n i   k ò s í   a <pad> g b è g b è   t i   è n ì à   k ò   t i   l è   r í   ọ p ọ l ọ p ọ   o ú n j ẹ   y o <pad> r ù b á   r a </s>
+<s> l a <pad> t i   b i   o <pad> g ú n   ọ d ú n   s ẹ h i <pad> n   y o <pad> r ù b á   t i   p ọ s i   n i <pad> d i   à t ẹ   o ú n j ẹ   t í t à   n i   o <pad> l ú   ì l ú ọ b a </s>
+<s> à w ò r á n   à w ọ n   ọ j à   w ọ n y i   a   b ẹ r ẹ   p ẹ l ú   ọ j a   d a <pad> l s t o <pad> n   à t i   k i <pad> n g s l a <pad> n d </s>
+<s> ẹ   f o <pad> j ú   s ọ n à   f ú n   à w ọ n   ọ j a   y ó k ù </s>
+<s> ọ r ọ   y o <pad> r ù b á   y i   b a   ì j ọ b a   ì l ú ọ b a   à t i   à w ọ n   a <pad> r á   ì l ú   w i </s>
+<s> ì j ọ b a   n j a <pad> y a   n í t o <pad> r í   o <pad> w ó   t i   o   n w ọ l e   k ò   k á r í   o <pad> w ó   l a <pad> t i   ṣ e   ọ p ọ l ọ p ọ   ẹ t ọ   t i   à w ọ n   a <pad> r á   ì l ú   n r i   g b à </s>
+<s> à w ọ n   t i   o   s i   n g b a   ẹ t ọ   l ọ d ọ   ì j ọ b a   n j a <pad> y a   n í t o <pad> r í   ẹ t ọ   t i   ì j ọ b a   n d i <pad> k u   y i o   m u   ì n i <pad> r a   b á   w ọ n   n í t o <pad> r í </s>
+<s> ẹ d í n   o <pad> w ó   y i   b ọ s í   à s ì k ò   ọ w ọ n   g ó g ó   o ú n j ẹ   à t i   o <pad> h u <pad> n   ì t u <pad> r a   m í r à n </s>
+<s> d í ẹ   n í n ú   à w ọ n   à t ú n ṣ e   y i   n i   ì d é r í   o <pad> w ó   ì r à n l ọ w ọ   s i   p o u <pad> n   m ẹ r i <pad> n d i <pad> n l ọ g b ọ n   l ọ d ú n   f ú n   ì d í l é   y í y ọ   o <pad> w ó   f ú n   y à r á   t ó </s>
+<s> ṣ ó f o   à t ú n ṣ e   f ú n   i <pad> l é   ì w ò s à n   l a <pad> p a <pad> p ọ   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> y o <pad> r ù b á   n i   k ò s ọ g b ọ n   t í   o   l è d a   k ò s í w à   t í   o   l è h ù   t í   o   l è   f i   t ẹ   a <pad> y é   l ó r ù n </s>
+<s> b í   ọ p ọ   t i   n y i <pad> n   ì j ọ b a   b ẹ ẹ n i   ọ p ọ   m b u   ẹ n u   ẹ t ẹ   l u   à t ú n ṣ e   w ọ n y i   w í p é   ì j ọ b a   n g b a   l ọ w ọ   a <pad> l á ì n í   f ú n   à w ọ n </s>
+<s> y o <pad> r ù b á   n í   ẹ n i <pad> t í   ọ l ọ r u <pad> n   k ò   d ù n   n í n ú   t ó   n l a   ṣ ú g à   j ẹ d í j ẹ d í   l ó   m a   p á </s>
+<s> ọ r ọ   y o <pad> r ù b á   y i   ṣ e   à t ì l ẹ h ì n   f ú n   i <pad> w a <pad> d i   t ó   f i <pad> h à n   w í p é   ọ p ọ l ọ p ọ   è n ì y à n   t i   ì r ẹ w ẹ s ì   m b a <pad> j a   m a   m u   ọ t í   à t i   j ẹ </s>
+<s> o ú n j e   ọ l ọ r a   t i   i <pad> y ọ j a   t à b í   t í   i <pad> y ọ   ì r è k é   p ọ   n í n ú   r ẹ </s>
+<s> o ú n j e   d í d ù n   à t i   ọ t í   m í m u   k ò   l è   m ú   ì r ẹ w ẹ s ì   k ú r ò   t à b í   f a   ì d ù n n ú   ṣ ù g b ọ n   à y í p a <pad> d à   ọ k à n   s í   ì w à   r e <pad> r e   à t i </s>
+<s> ì g b ẹ k ẹ l é   n í n ú   ọ l ọ r u <pad> n   l ó   l è   m ú   i <pad> n ú   d ù n </s>
+<s> ẹ k ú   ọ d ú n   a <pad> j i <pad> n d e   o   ẹ   m a   j ẹ u <pad> n   j u   j é s ù   k u   f u <pad> n   ẹ l ẹ s ẹ   à t i   a <pad> l á ì n í   n í t o <pad> r í   n á à   t i   ẹ   b a   r i </s>
+<s> j ẹ   ẹ   r á n t í   á w ọ n   t i   k o   r i </s>
+<s> y o <pad> r ù b á   n i   a <pad> j ọ j ẹ   k ò   d ù n   b ẹ n i   k a <pad> n   o   r i </s>
+<s> n í n ú   ì w é   ì r ò y ì n   v a <pad> n g u a <pad> r d   t i   ọ j ọ   à ì k ú   o ṣ ù   k ẹ t a   ọ j ọ   ọ d ú n   k ẹ r i <pad> n l é l ó g ú n   ẹ g b a a <pad> l é m é t à l á   o <pad> l ù k ọ   à g b à   t i   è d è   a <pad> t i   à ṣ à </s>
+<s> a <pad> k í n w ù n m í   ì ṣ ọ l á   k é b ò s í   w í p é   è d è   y o <pad> r ù b á   à t i   è d è   a <pad> b í n i <pad> b í   m i <pad> r a <pad> n   l e   p a <pad> r u <pad> n   t i   a   k o   b á   k í y è s á r a </s>
+<s> ì k ì l ọ   y í   ṣ e   ì r à n l ọ w ọ   f ú n   a <pad> k i <pad> t i <pad> y a <pad> n   o <pad> l ù k ọ w é   y i   l a <pad> t i   g b é   è d è   à t i   y o <pad> r ù b á   g a   l ó r í   ẹ r ọ   a <pad> y é l u <pad> j á r a </s>
+<s> à w ọ n   ò ṣ è l ú   t ó   y ẹ   k i   w ọ n   g b é   è d è   ì l ú   w ọ n   l á r u <pad> g ẹ   n   d á   k ú n   p í   p a   è d è   r ẹ </s>
+<s> ò ṣ è l ú   i <pad> l ẹ   y o <pad> r ù b á   k o   f i   è d è   n a   ṣ e   n k a <pad> n k a <pad> n   n i   i <pad> l é ò s è l ú   w ọ n   o   s ọ   w ọ n   ò   k ọ   w ọ n   ò   k á </s>
+<s> à w ọ n   ò ṣ è l ú   a <pad> y é   à t i <pad> j ọ   b i   o <pad> l ó y è   ọ b á f ẹ m i   a <pad> w ó l ó w ọ   o <pad> l ó y è   l á d ò k è   a <pad> k í n t ọ l á   à t i   b ẹ ẹ b ẹ ẹ   l ọ   g b é   è d è   w ọ n   l á r u <pad> g ẹ   b i   ó </s>
+<s> t i   ẹ   j ẹ   w í p é   w ọ n   k à w é   w ọ n   g b o <pad> y è   r ẹ p ẹ t ẹ </s>
+<s> y o <pad> r ù b á   n í   à g b à   k ì   í   w à   l ọ j à   k ó r í   ọ m ọ   t u <pad> n t u <pad> n   w ọ </s>
+<s> ó   y ẹ   k i   à w ọ n   à g b à   k ọ   ọ m ọ   l é d è   k í   à   s i   g b a   à w ọ n   ọ m ọ   w a   n í y à n j ú   w í p é   s í   s ọ   è d è </s>
+<s> a <pad> b í n i <pad> b í   k ò   d á   ì w è   k í k à   d ú r ó   ó   f i   k ú n   ì m ọ   n i </s>
+<s> y o <pad> r ù b á   n í   ẹ b ẹ   l a   m b ẹ   ò ṣ ì k à   p é   k í   ó   t ú   ì l ú   r ẹ   ṣ e   a   b ẹ   à w ọ n   ò ṣ è l ú   i <pad> l ẹ   y o <pad> r ù b á   n i </s>
+<s> a <pad> g b è g b è   è k ì t ì   è k ó   ò g ù n   o <pad> n d ó   ọ ṣ u <pad> n   à t i   ọ y ọ   l a <pad> t i   ṣ e   ò f i <pad> n   m í   m ú   k í k ọ   à t i   k í k à   è d è   y o <pad> r ù b á   m ú l ẹ   n í </s>
+<s> g b o <pad> g b o   i <pad> l é   ì w é   n í   p à t à k ì   n í   i <pad> l é ì w é   a <pad> l a <pad> k ọ b ẹ r ẹ   i <pad> l ẹ   y o <pad> r ù b á   n í t o <pad> r í   k i   è d è   y o <pad> r ù b á   m a   b a   a   p a <pad> r ẹ </s>
+<s> e <pad> w é d ú   j ẹ   i <pad> k a <pad> n   n í n ú   ọ b ẹ   y o <pad> r ù b á   t ó   w ọ p ọ   n i   a <pad> g b è g b è   ọ y ó   ọ s u <pad> n   ò g ù n   g ẹ g ẹ b i   i <pad> l á   t i   w ọ p ọ   n i   a <pad> g b è g b è   o <pad> n d o </s>
+<s> à t i   è k ì t i </s>
+<s> f ú n   ẹ n i   t ó   n k a <pad> n j u   i <pad> l á   y á r a   l á t i   s è   j u   e <pad> w é d ú   l ọ   n í t o <pad> r í   à s ì k ò   l a <pad> t i   t ọ   e <pad> w é d ú   a <pad> t i   l a <pad> t i   f i   ì j á b ẹ </s>
+<s> j a   p ẹ   j u   r í r ẹ   à t i   s í s e   i <pad> l á   l ọ </s>
+<s> ọ p ọ l ọ p ọ   k o   r í r a   p e   w ọ n   n f i   ì g b á l ẹ   s e   ọ b ẹ   l a i   m ọ   w í p é   ì j á b ẹ   k ò   w à   f ú n   i <pad> l ẹ   g b í g b á </s>
+<s> ọ w ọ   k u <pad> k u <pad> r u   t u <pad> n t u <pad> n   t i   o   w a   f ú n   e <pad> w é d ú </s>
+<s> n i   a <pad> y é   ì g b à l ó d é   y i   d í p ò   ì j á b ẹ   a   l e   l ọ   e <pad> w é d ú   n í n ú   ẹ r ọ   a <pad> t a   ì g b à l o <pad> d e   f ú n   b i   i ṣ e <pad> j u   k a <pad> n   e <pad> l e <pad> y i   d i <pad> n </s>
+<s> à s ì k ò   s í s e   e <pad> w é d ú   k ù   s i   b i   ọ g b ọ n   ì ṣ é j ú   f ú n   e <pad> w é d ú   ọ b ẹ   e <pad> n i a   m ẹ w a </s>
+<s> e <pad> w é d ú   d ù n   p ẹ l ú   g b ẹ g ì r ì   t à b i   ọ b ẹ   a <pad> t a   l a <pad> t i   f i   j ẹ   ẹ k ọ   à m à l à   l á f ú n   à t i   o u <pad> n j ẹ   ò k è l è   y ó k ù   b i   ẹ b à   i <pad> y á n </s>
+<s> à t i   b ẹ ẹ b ẹ   l ọ </s>
+<s> l ẹ h i <pad> n   ọ d ú n   m ẹ w a   ì d á j ọ   b ẹ r ẹ   f ú n   g b ọ m ọ g b ọ m ọ   t o   j i   à w ọ n   o <pad> b i <pad> n r i <pad> n   m ẹ t a   p a <pad> m ọ   n í g b à t í   ọ w ọ   ò f i <pad> n   t ẹ   a <pad> r i e <pad> l   c a <pad> s t r o </s>
+<s> g b o <pad> g b o   a <pad> g b á r a   t o   f i   n j ẹ   à w ọ n   o <pad> b i <pad> n r i <pad> n   w ọ n y i   n i <pad> y a   d i   ò f o </s>
+<s> a <pad> r i e <pad> l   c a <pad> s t r o   n ṣ e   o <pad> j ú   a a <pad> n u   b i   ẹ n i   p é   k i   ṣ e   o <pad> h u <pad> n   l o   ṣ e   i ṣ ẹ   i <pad> b i   f ú n   ọ d ú n   m ẹ w a   o   l e </s>
+<s> d í ẹ </s>
+<s> à d ú r à   y o <pad> r ù b á   n i   k i   o <pad> l u <pad> w a   g b a <pad> n i   l ọ w ọ   ẹ n i   t ó   n ṣ ọ n i   t i   a   k o   ṣ ọ   à d ú r à   y i   g b à   f ú n   à w ọ n   o <pad> b i <pad> n r i <pad> n </s>
+<s> i ṣ ẹ   i <pad> b i   t i   ó   ṣ e   n i   i <pad> g b à   a <pad> y é   r ẹ   f i <pad> h a <pad> n   p é   o   n i   i <pad> k ù   l ó   m ọ   i <pad> k à </s>
+<s> g ẹ g ẹ   b i   i <pad> w a <pad> d i   t i   o   j á d e   l ẹ h i <pad> n   i <pad> k ú   o <pad> l ó ò g b é   y i   ó   l o   i <pad> p ò   r ẹ   n i   à w ù j ọ   l a <pad> t i   b á   ẹ d ẹ g b ẹ t a   o <pad> b i <pad> n r i <pad> n </s>
+<s> n i   à ṣ e <pad> p ọ   n i   ọ n à   t i   k ò   t ọ </s>
+<s> ò w e   y o <pad> r ù b á   t i   ó   n i   ẹ n i   t i   o   n i   o <pad> r i   r e <pad> r e   t i   k ò   n i   i <pad> w à   i <pad> w à   r ẹ   n i   y i o   b a </s>
+<s> o <pad> r i   r ẹ   j ẹ   f i <pad> h à n   p é   j i <pad> m m y   s a <pad> v i <pad> l e   f i   i <pad> w à   à b ù k ù   b a   i ṣ ẹ   r e <pad> r e   t i   ó   ṣ e   j ẹ </s>
+<s> ì ṣ ẹ l ẹ   j i <pad> m m y   s a <pad> v i <pad> l e   k ò   ṣ e   à j ò j ì   n i   i <pad> l ẹ   y o <pad> r ù b á </s>
+<s> g b é   ẹ s ẹ   l é   ì y à w ó   a <pad> r á   i <pad> l ú   f i   i <pad> p á   g b a   o <pad> k o   t à b i   i <pad> l ẹ   a <pad> r á   i <pad> l ú   l a i   s i   ẹ n i   t i   ó   l è </s>
+<s> m ú   w ọ n   ṣ ù g b ọ n   l á y é   ò d e   ò n i   ọ b a   t à b i   o <pad> l ó y è   t i   ó   b á   h u   i <pad> w à   b u <pad> r ú k ú   w ọ n y i   y i o   t ẹ </s>
+<s> o <pad> l ó y è   y o <pad> r ù b á   t i   ó   b á   f i   i <pad> p ò   t à b i   ọ l á   h u   i <pad> w à   i <pad> k à   n i   a <pad> y é   i <pad> g b à l ó d é   y i   k ò   r i   i <pad> b i   p a <pad> m ọ </s>
+<s> s i   n í t o <pad> r í   à ṣ i <pad> r i   á   t ú   n i <pad> n ú   i <pad> w é ì r ò y ì n   ẹ r ọ a <pad> s ọ r ọ m á g b è s i   ẹ r ọ   a <pad> m ó h ù n m á w ò r á n   à t i   l o <pad> r i   a <pad> y é l u <pad> j á r a </s>
+<s> k i   ṣ e   a <pad> r á   i <pad> l ú   n i <pad> k a <pad> n   l ó   l è   ṣ e   ì d á j ọ   f ú n   ọ b a   t i   ó   b á   h u   i <pad> w à   i <pad> k à   n í p a   r i <pad> r ọ   l ó y è </s>
+<s> g b o <pad> g b o   à g b á y é   n i   y i o   ṣ e   i <pad> d á j ọ   f u <pad> n   i <pad> r ú   ọ l ọ r ọ   b ẹ ẹ   y i o   t u <pad> n   f i   o <pad> j ú   b a   i <pad> l é ẹ j ọ </s>
+<s> f ú n   à p ẹ r ẹ   ọ b a   a <pad> d é b ù k ọ l á   a <pad> l l i   a <pad> l ọ w á   t i   ì l ọ w á   t i   o <pad> b i <pad> n r i <pad> n   a <pad> g ù n b á n i <pad> r ọ   f i   ẹ s ù n   k à n   p é   ó   f i   i <pad> p á   n i </s>
+<s> à ṣ e <pad> p ọ   à t i   d é j i   à k ú r ẹ   t i   w ọ n   r ọ   l ó y è   n í t o <pad> r í   i <pad> w a   à b ù k ù   o <pad> l u <pad> w a <pad> d a <pad> r e   a <pad> d e ṣ i <pad> n a </s>
+<s> g b o <pad> g b o   ẹ r a <pad> n k o   k ó   a <pad> r a   j ọ   l a <pad> t i   g b è r ò   l ó r í   à l é b ù   t í   w ọ n   r í   l á r a   ì y à w ó   w ọ n </s>
+<s> a <pad> j á   à m ọ t ẹ k ù n   ẹ k ù n   k ì n ì ú n   ọ b ọ   a <pad> k á t á   o <pad> l ó g b ò   k ẹ t ẹ k ẹ t ẹ   ì j à p á   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> a <pad> j á   n í   ì y à w ó   ò h u <pad> n   n ṣ e   à g b è r è   ẹ k ù n   n í   ì y à w ó   ò h u <pad> n   n ṣ e   à f o <pad> j ú d i   o <pad> l ó g b ò   n í   ì y à w ó   ò h u <pad> n   n j a <pad> l e   ọ b ọ   n í </s>
+<s> ì y à w ó   ò h u <pad> n   l è j à j ù   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> à w ọ n   ẹ r a <pad> n k o   y ó k ù   ṣ e   à k í y è s í   w í p é </s>
+<s> ì j à p á   k à n   m i   o <pad> r í   n i   l a i   s ọ   n k a <pad> n k a <pad> n   j u   u <pad> n </s>
+<s> k ì n ì ú n   w a   b è r è   l ọ w ọ   ì j à p á   w í p é   ṣ e   y á n í b o   k ò n í   à l é b ù   n i </s>
+<s> à j à p á   d ì d e   ó   w á   f ọ h ù n   w í p é   g b o <pad> g b o   à l é b ù   t i   g b o <pad> g b o   w ọ n   s ọ   n í p a   ì y à w ó   w ọ n   k é r é   l á r a   t i   ì y à w ó   o <pad> h u <pad> n </s>
+<s> n í t o <pad> r í   y á n í b o   k ò   n í   ì t ì j ú </s>
+<s> ẹ n i   t i   k ó   n i   ì t ì j ú   a   j a <pad> l è   a   p u <pad> r ọ   a   ṣ e   à g b è r è   a   ṣ e   à f o <pad> j ú d i   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> n i   ì l ú ọ b a   b i   ò ṣ è l ú   b á   ṣ e   o <pad> h u <pad> n   ì t ì j ú   b i   à g b è r è   j a <pad> l è   g b a   à b ẹ t ẹ l ẹ   b i   w ọ n   b á   k a   m ọ   t à b í   k ó </s>
+<s> r ò   w í p é   a ṣ í r í   f ẹ   t ú   á   g b é   ì w é   s í l ẹ   p é   ò h u <pad> n   k ò   ṣ e   m ọ   n í t o <pad> r í   k i   i <pad> p ò   ò h u <pad> n   m á   b a </s>
+<s> d i   ì d á j ọ   l ọ w ọ   ṣ ù g b ọ n   a <pad> p à n i <pad> y à n   o <pad> l è   a <pad> l á g b è r è   à t i   b ẹ ẹ b ẹ ẹ   l ọ   p ọ   n í n ú   ò ṣ è l ú   n à í j í r í à   n í t o <pad> r í   w ọ n   k ò   n i   ì t ì j ú </s>
+<s> i <pad> p ò   ò ṣ è l ú   t i <pad> w ọ n   f ú n   w ọ n   l á y è   l a <pad> t i   n i   à l é b ù   à t i   l a <pad> t i   t ẹ   ì d á j ọ   m ọ l ẹ </s>
+<s> ọ r ọ   y o <pad> r ù b á   t ó   n i   à ì n í t ì j ú   l ọ b a   g b o <pad> g b o   à l é b ù   g b a   è r ò   l a <pad> t i   r i   w í p é   a <pad> r á   ì l ú   d ì b ò   f ú n   a <pad> f í n j ú   ò ṣ è l ú   k í </s>
+<s> n i <pad> n ú   ẹ y à   m ẹ r i <pad> n d i <pad> n l o <pad> g o <pad> j i   o <pad> r i <pad> l ẹ   è d è   n à í j í r í à   ẹ y à   m ẹ f à   n i   o   w a   n i   ì p í n l ẹ   y o <pad> r ù b á   l á p a <pad> p ọ </s>
+<s> à w ọ n   ẹ y à   w ọ n y i   n i   è k ó   t i   o <pad> l ú   i <pad> l ú   r ẹ   j ẹ   ì k ẹ j à   è k i <pad> t i   t i   o <pad> l ú   i <pad> l ú   r ẹ   j ẹ   a <pad> d ó è k i <pad> t i </s>
+<s> ò g ù n   t i   o <pad> l ú   i <pad> l ú   r ẹ   j ẹ   a <pad> b ẹ ò k ú t a   o <pad> n d o   t i   o <pad> l ú   i <pad> l ú   r ẹ   j ẹ   à k ú r ẹ   ọ ṣ u <pad> n   t i   o <pad> l ú </s>
+<s> i <pad> l ú   r ẹ   j ẹ   ò ṣ o <pad> g b o   à t i   ọ y ọ   t i   o <pad> l ú   i <pad> l ú   r ẹ   j ẹ   ì b à d à n </s>
+<s> ọ p ọ   a <pad> r a   ọ ṣ u <pad> n   d i <pad> b ò   à t i   b ó j ú   t ó   i <pad> b ò   w ọ n </s>
+<s> n i   ò k è ò k u <pad> n   b i   e <pad> n i a   b a   n i   ẹ j ọ   n i   i <pad> l é ẹ j ọ   t à b i   ó   t i   ṣ e   ẹ w ọ n   r i   t à b i   h ù w à   à b ù k ù   m i <pad> r a <pad> n   i <pad> r ú </s>
+<s> ẹ n i   b ẹ ẹ   k ò   l è   g b é   à p ó t i   i <pad> b ò   ṣ ù g b ọ n   t i   k ò   b á   n i   i <pad> t i <pad> j u   t i   ó   g b é   à p ó t i   i <pad> b ò   ọ p ọ   à w ọ n </s>
+<s> è r ò   i <pad> l ú   k ò   n i   d i <pad> b ò   f ú n   i <pad> r ú   ẹ n i   b ẹ ẹ </s>
+<s> e <pad> y i   k ò   r i   b é è   n i   o <pad> r i <pad> l ẹ è d è   n à í j í r í à   n í t o <pad> r í   ẹ l ẹ w ò n   e <pad> l e <pad> r u   o <pad> l è   a <pad> p à n ì y à n   à t i   b ẹ ẹ b ẹ ẹ   l ọ   t i   ó   d i   o <pad> l ó w ó   o <pad> j i <pad> j i </s>
+<s> l ó   ń g b é   à p ó t i   i <pad> b ò   n í t o <pad> r í   w ọ n   m ọ   p é   à w ọ n   l è   f i   è r ú   d é   i <pad> p ò </s>
+<s> à w ọ n   è r ò   ẹ y à   ọ ṣ u <pad> n   f i   ò w e   y o <pad> r ù b á   t i   o   n i   ọ p ọ   n i   e ṣ ú   f i   ń y a   i <pad> g i   o <pad> k o   h à n   n i   i <pad> d i <pad> b ò </s>
+<s> t i   ó   k ọ j á   n i   ọ j ọ   à b á m ẹ t a   ọ j ọ   k ẹ s a <pad> n   o ṣ ù   k ẹ j ọ   ọ d ú n   ẹ g b à á l e <pad> m ẹ r ì n l á   w ọ n   k ò   b ẹ r ù   b i   ì j ọ b a   à p a <pad> p ọ   n à í j í r í à   t i </s>
+<s> k ó   o <pad> l ó g u <pad> n   à t i   o <pad> h u <pad> n   i <pad> j à   t i   à w ọ n   a <pad> r á   i <pad> l ú   l a <pad> t i   d a   ẹ r ù   b à   w ọ n </s>
+<s> w ọ n   t ú   j á d e   l a <pad> t i   f i   ọ p ọ   d i <pad> b ò   à t i   b ó j ú   t ó   i <pad> b ò   w ọ n   l a <pad> t i   g b é   g ó m i <pad> n à   ọ g b ẹ n i   r a u <pad> f   a <pad> r ẹ g b ẹ ṣ ọ l á   p a <pad> d à </s>
+<s> à g b á   t i   ó   k ú n   f ú n   o <pad> h u <pad> n   t i   ó   w ú l ò   b i   e <pad> p o <pad> r ọ b ì   e <pad> p o <pad> p u <pad> p a   e <pad> p o ò r ó r ó   e <pad> p o ò y ì n b ó   ọ d à   à t i   b ẹ ẹ b ẹ ẹ   l ọ   k i   p a <pad> r i <pad> w o </s>
+<s> à g b á   ò f ì f o   k ò   n i   n k a <pad> n   n i <pad> n ú   t à b i   o   n i   n k a <pad> n   d í ẹ   i <pad> r ú   à g b á   y i   b i   o   t i   w ù   k i   ó </s>
+<s> l ẹ w à   t ó   n i   a <pad> r i <pad> w o   r ẹ   m á a   ń p ọ   t i   w ọ n   b a   y i   l ó r i   a <pad> f á r á   t à b i   o <pad> r i   t i <pad> t i   ọ l ọ d à </s>
+<s> à g b á   ò f ì f o   t i   ó   l ẹ w à </s>
+<s> k ó   è l ò   b i   ẹ j à   t ú t ù   t à b i   g b i <pad> g b ẹ   e <pad> d é   p ọ n m ọ   s i <pad> n ú   i <pad> k ò k ò   e <pad> p o <pad> p u <pad> p a   y i </s>
+<s> f i   i <pad> y ọ   à t i   i <pad> y ọ   i <pad> g b à l ó d é   à t i   o <pad> m i   s i   i <pad> n ú   i <pad> k ò k ò   y i   l a <pad> t i   s e   o <pad> m i   ọ b ẹ   ì k ọ k ọ r ẹ </s>
+<s> f ọ   i ṣ u   e <pad> w ù r à   k a <pad> n </s>
+<s> b ẹ   e <pad> w ù r à   y i </s>
+<s> f i   i <pad> y ọ   b i   ṣ i <pad> b i   k é k e <pad> r é   k a <pad> n   p o   e <pad> w ù r à   r i <pad> r i <pad> n   y i </s>
+<s> l ẹ h i <pad> n   p i   p ò   d á   e <pad> w ù r à   p i   p ò   y i   s i <pad> n ú   o <pad> m i   ọ b ẹ   t i   a   t i   s è   f ú n   b i   i ṣ ẹ j ú   m ẹ d o <pad> g u <pad> n </s>
+<s> r ẹ   i <pad> n á   r ẹ   s i <pad> l ẹ   s e   f ú n   b i   o <pad> g ú n   i ṣ ẹ j ú </s>
+<s> l ẹ h i <pad> n   e <pad> y i   b u   f ú n   j i <pad> j ẹ </s>
+<s> ẹ b i   i ṣ u   n i   e <pad> w ù r à   ṣ ù g b ọ n   a   l è   p e   i ṣ u   n i   ẹ g b ọ n   e <pad> w ù r à   n í t o <pad> r í   o <pad> h u <pad> n   t i   a   l è   f i   i ṣ u   ṣ e </s>
+<s> g b a <pad> y ì   l a a <pad> r i <pad> n   g b o <pad> g b o   y o <pad> r ù b á   j u   e <pad> y i   t i   a   l è   f i   e <pad> w ù r à   ṣ e </s>
+<s> ọ p ọ l ọ p ọ   y o <pad> r ù b á   f ẹ r a <pad> n   o ú n j ẹ   ò k è l è   b i   i <pad> y á n   à t i   à m à l à   t i   o   g b a <pad> y ì   n i   ọ p ọ l ọ p ọ   i <pad> l ẹ   y o <pad> r ù b á </s>
+<s> o <pad> h u <pad> n   m i <pad> r a <pad> n   t i   w ọ n   ń f i   i ṣ u   ṣ e   n i   à s á r ó   i ṣ u   s i <pad> s è   i ṣ u   s í s u <pad> n   i ṣ u   d í n d í n   à t i   à k à r à   i ṣ u </s>
+<s> o ú n j ẹ   t i   ó   w ọ p o   l a a <pad> r i <pad> n   à w ọ n   i <pad> j ẹ b u   t i   a   ń f i   e <pad> w ù r à   ṣ e   n i   ì f ọ k ọ r ẹ   t à b i   b i   à w ọ n   ọ m ọ d é   t i   m a </s>
+<s> ń p e   ì k ọ k ọ r ẹ   ṣ ù g b ọ n   ọ p ọ   y o <pad> r ù b á   n a   f ẹ r à n   ì f ọ k ọ r ẹ </s>
+<s> a   l è   j ẹ   ì f ọ k ọ r ẹ   l á s á n   à w ọ n   m i <pad> r a <pad> n   l è   f i   j ẹ   ẹ b à </s>
+<s> a   t ú n   l è   l o   e <pad> w ù r à   l a <pad> t i   ṣ e   ọ j ọ j ọ </s>
+<s> ọ p ọ   e <pad> w ù r à   s i <pad> s è   k ò   d ù n   l a <pad> t i   j ẹ   b i   i ṣ u   g i <pad> d i </s>
+<s> ẹ   ṣ e   à y ẹ w ò   b i   a   t i   ń ṣ e   ì f ọ k ọ r ẹ   à t i   ọ j ọ j ọ   l ó j ú   i <pad> w é   y i </s>
+<s> ẹ   ṣ e   à y ẹ w ò   b i   a   t i   ń ṣ e   ì k ọ k ọ r ẹ   à t i   ọ j ọ j ọ   l ó j ú   i <pad> w é   y i </s>
+<s> ọ b ẹ   t i   e <pad> n i a   l è   y á r a   s è   j u   ọ b ẹ   i <pad> l á   n i   n í t o <pad> r í   b i   a   b á   n i   à p ọ n   k í k ù   n i <pad> l e   a   d i <pad> n </s>
+<s> à k ó k ò   t i   ó   y ẹ   k i   e <pad> n i a   f i   r ẹ   i <pad> l á   k ù </s>
+<s> ọ b ẹ   t i   a   l è   f i   o <pad> w ó   d í ẹ   s è   n i </s>
+<s> ọ r ọ   y o <pad> r ù b á   t i   ó   n i   ẹ   j á w ọ   l á p ọ n   t i   k ò   y ọ   ẹ   l ọ   d á   o <pad> m i   i <pad> l á   k a <pad> n á   j ẹ   ọ r ọ   ì y à n j ú </s>
+<s> f ú n   ẹ n i   t i   ó   b a   ń ṣ e   i ṣ ẹ   t i   k ò   n i   è r è   t à b i   ì l ọ s í w á j ú   p é   k i   i <pad> r ú   ẹ n i   b ẹ   g b i <pad> y à n j ú   à t i </s>
+<s> ṣ e   i ṣ ẹ   m i <pad> r a <pad> n   k i   ó   m á   b a   f i   à k ó k ò   ṣ ò f ò </s>
+<s> ẹ   y ẹ   è l ò   à t i   s i <pad> s e   ọ b ẹ   à p ọ n   n i   o <pad> j ú   i <pad> w é   y i </s>
+<s> ọ r ọ   y o <pad> r ù b á   n i   à l é b ù   k i   ṣ e   ẹ g à n   t à b i   a <pad> g ọ   ṣ ù g b ọ n   ẹ g à n   à t i   a <pad> g ọ   n i   f ú n   ẹ n i   t i   o <pad> j ú   r ẹ   f ọ </s>
+<s> s i   à l é b ù   a <pad> r a   r ẹ </s>
+<s> i <pad> r ú   ẹ n i   b ẹ ẹ   k ò   l è   r i   à t ú n ṣ e   t à b i   s ọ   à l è b ú   y i   d i   o <pad> h u <pad> n   i <pad> n i </s>
+<s> n i <pad> n ú   ì t à n   b i   à j à p á   t i   s ọ   ẹ l ẹ d ẹ   d i   ọ b ù n   t i   a   m ọ   s i   t i <pad> t i   d i   o <pad> n i   à j à p á   j ẹ   ẹ r a <pad> n k o   t i </s>
+<s> k ò   l è   y á r a   r i <pad> n   t à b i   n i   a <pad> g b á r a   i ṣ ẹ   à t i   ṣ e   l ó w ó   ṣ ù g b ọ n   ó   n i   ọ g b ọ n   l a <pad> t i   b o   à l é b ù   r ẹ </s>
+<s> y o <pad> r ù b á   n i   a <pad> l á g b á r a   m á   m è r ò   b a <pad> b a   ọ l e   ọ g b ọ n   j u   a <pad> g b á r a </s>
+<s> à j à p á   j ẹ   ọ l ọ g b ọ n   ẹ w ẹ   n í g b à t í   ẹ l ẹ d ẹ   j ẹ   a <pad> l á g b á r a   t i   k ò   m è r ò </s>
+<s> k ò   s i   o <pad> h u <pad> n   t i   à j à p á   l è   ṣ e   l a i   n i   i <pad> d i   t à b i   ọ g b ọ n   à r é k é r e <pad> k è   n í t o <pad> r í   e <pad> y i   ó   s ọ   a <pad> r a   r ẹ   d i </s>
+<s> ọ r ẹ   ẹ l ẹ d ẹ   n í t o <pad> r í   g b o <pad> g b o   ẹ r a <pad> n k o   y o <pad> k u   t i   j á   ọ g b ọ n   r ẹ </s>
+<s> ẹ l ẹ d ẹ   k ò   f i   ọ g b ọ n   w á   i <pad> d i   i <pad> r ú   ọ r ẹ   t i   à j à p á   j ẹ </s>
+<s> l a i <pad> p ẹ   à j à p á   l ọ   y á   o <pad> w ó   l ọ d ọ   ẹ l ẹ d ẹ   p ẹ l u   à d é h ù n   p e   o <pad> h u <pad> n   y i o   s a <pad> n   o <pad> w ó   n a   p a <pad> d à   n i   ọ j ọ   t i   o <pad> h u <pad> n </s>
+<s> d á </s>
+<s> ẹ l ẹ d ẹ   r ò   p é   ọ r ẹ   j u   o <pad> w ó   l ọ   ó   g b à   l a <pad> t i   y á   à j à p á   l ó w ó   n í t o <pad> r í   à d é h ù n   r ẹ </s>
+<s> n í g b à t í   ọ j ọ   t i   à j à p á   d á   p é   ẹ l ẹ d ẹ   r e <pad> t i   t i <pad> t i   k i   ó   w á   s a <pad> n   o <pad> w ó   t i   ó   y á   ṣ ù g b ọ n   à j à p á   k ò </s>
+<s> k ú r ò   n i   i <pad> l é   r ẹ   n í t o <pad> r í   ó   m ọ   p é   o <pad> h u <pad> n   k ò   n i   o <pad> w ó   l a <pad> t i   s a <pad> n </s>
+<s> à j à p á   f i   o <pad> h u <pad> n   p ẹ l ẹ   ṣ e   à l à y é   p é   b i   o <pad> h u <pad> n   t i   f ẹ   m a   k ó   o <pad> w ó   l ọ   f ú n   ẹ l ẹ d ẹ   n i   o <pad> l è   d á </s>
+<s> o <pad> h u <pad> n   l ọ n à   t i   w ọ n   g b a   g b o <pad> g b o   o <pad> w ó   l ọ </s>
+<s> i <pad> n ú   ẹ l ẹ d ẹ   k ò   d ù n   n í t o <pad> r í   k ò   g b a   i ṣ ẹ l ẹ   y i   g b ọ   ṣ ù g b ọ n   ó   g b a   n í g b à t í   à j à p á   t ú n   d á   ọ j ọ   m i <pad> r a <pad> n   l a <pad> t i </s>
+<s> s a <pad> n   o <pad> w ó   n a </s>
+<s> b i   ẹ l ẹ d ẹ   t i   k ú r ò   l ó   b á   a <pad> y a   r ẹ   y á n í b o   d ì m ọ p ọ   b i   o <pad> h u <pad> n   k ò   t i   n i   s a <pad> n   o <pad> w ó   p a <pad> d à </s>
+<s> ó   n i   b i   ọ j ọ   b á   p é   b i   y á n í b o   b á   t i   g b ọ   ì r ó   ẹ l ẹ d ẹ   k ó   y i   o <pad> h u <pad> n   p a <pad> d à   k i   ó   b ẹ r ẹ </s>
+<s> s i   l ọ   ẹ g ú s í   n i   à y à   o <pad> h u <pad> n   l a i   d ú r ó   b i   ẹ l ẹ d ẹ   b á   w ọ l é   b è r è   o <pad> h u <pad> n </s>
+<s> n i   ọ j ọ   t i   à j à p á   d á   p é   ẹ l ẹ d ẹ   d é   l a <pad> t i   g b a   o <pad> w ó   r ẹ   y á n í b o   ṣ e   b i   ọ k ọ   r ẹ   t i   w i </s>
+<s> o   y ẹ   k i   i <pad> g b i <pad> n   m ọ   i <pad> w ọ n   a <pad> r a   r ẹ   l a <pad> t i   m ọ   p é   i <pad> r ú   ì w o   o <pad> h u <pad> n   k ò   w à   f ú n   o <pad> h u <pad> n   i <pad> j à   l a i </s>
+<s> s i   b ẹ ẹ   w ọ n   á   t ẹ   i <pad> g b i <pad> n   p a </s>
+<s> a   l è   l o   ò w e   y o <pad> r ù b á   t i   ó   n i   a   s ọ r ọ   ẹ r a <pad> n   t i   o   n i   ì w o   ì g b í n   y ọ j ú   y i   f ú n   à w ọ n </s>
+<s> ẹ k ọ   w ọ n y i   a   l è   f i   b á   ẹ n i   t i   ó   b á   j ọ   a <pad> r a   r ẹ   l ó j ú   w i   a i <pad> m ọ   i <pad> w ọ n   a <pad> r a   ẹ n i   l é w u </s>
+<s> ọ g b ọ n   w à   n i <pad> n u   m i   m ọ   a <pad> g b á r a   à t i   à b ù k ù   a <pad> r a   ẹ n i   k i   á   l o   o <pad> h u <pad> n   t i   a   n i   f ú n   o <pad> h u <pad> n   t i </s>
+<s> ó   y ẹ   b i   a   b á   l o   ì m ọ   ò ṣ ì ṣ ẹ   f ú n   i <pad> r ú   i ṣ ẹ   t i   w ọ n   m ọ   á   d i <pad> n   à k ó k ò   à t i </s>
+<s> ì n á w ó   k ù   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> f ú n   à p ẹ r ẹ   i <pad> l é   t i   ó   n i   ò r ù l é   i <pad> l ẹ k ù n   à t i   f è r è s é   à d ì r ò   à t i   à d ò g á n   o <pad> m i   k i   b a   j ẹ   o <pad> m i   ẹ r ọ   o <pad> m i </s>
+<s> ẹ   y ẹ   à w ọ n   o <pad> r ú k ọ   à t i   à w ò r á n   à w ọ n   ọ p ọ l ọ p ọ   o <pad> h u <pad> n   t i   a   l è   r i   n i   à y í k á   i <pad> l é   n i   o <pad> j ú   e <pad> w é   y i </s>
+<s> n i   a <pad> y é   à t i <pad> j ọ   ẹ s ẹ   n i   g b o <pad> g b o   è r ò   m a   n l o   l a <pad> t i   r i <pad> n   l a <pad> t i   ì l ú   k a <pad> n   s i   k e <pad> j i   n í g b à t í   ọ k ọ   ì g b à l ó d é   k ò </s>
+<s> t i   w ọ p ọ </s>
+<s> i <pad> l é   ọ b a   à t i   ì j ò y è   n i   a   t i   l e   r i   ẹ ṣ i <pad> n   n í t o <pad> r í   ẹ ṣ i <pad> n   k ò   l è   r i <pad> n   n i <pad> n u   i <pad> g b ó   k ì j i <pad> k ì j i   t i   o </s>
+<s> ọ r ọ   y o <pad> r ù b á   a <pad> y é   ò d e   ò n í   n i   ẹ s ẹ   y á   j u   m ọ t ọ   a <pad> r a   l o   n f à b ọ   s i </s>
+<s> ọ r ọ   y i   b á   à w ọ n   è r ò   a <pad> y é   à t i <pad> j ọ   m u   n í t o <pad> r í   ì r ì n à j ò   t i   w ọ n   f i   ẹ s ẹ   r i <pad> n   f ú n   ọ g b ọ n   ọ j ọ   k o </s>
+<s> j u   b i   w á k à t í   m ẹ f à   l ọ   f ú n   ọ k ọ   i <pad> l ẹ   t à b i   o <pad> g o <pad> j i   ì ṣ ẹ j ú   f ú n   ọ k ọ ò f ú r u <pad> f ú </s>
+<s> ẹ   ṣ e   à y ẹ w ò   à w ọ n   o <pad> h u <pad> n   ì r ì n s ẹ   a <pad> y é   à t i <pad> j ọ   à t i   a <pad> y é   ò d e   ò n í   n i   è d è   y o <pad> r ù b á   o <pad> h u <pad> n   à t i   à w ò r á n   t i   ó </s>
+<s> w à   n i   o <pad> j ú   e <pad> w é   y i </s>
+<s> g ẹ g ẹ   b i   ò w e   y o <pad> r ù b a   ọ m ọ   ẹ n i   k ì   í   b u <pad> r ú   t í t í   k á   f i   f ú n   ẹ k ù n   p a <pad> j ẹ </s>
+<s> ò w e   y i   b á   ì ṣ ẹ l ẹ   b u <pad> r ú k ú   t i   ó   ṣ ẹ l ẹ   s i   d a <pad> n i e <pad> l   p e <pad> l k a   m u </s>
+<s> y i   d é   o <pad> j ú   i <pad> k ú </s>
+<s> ọ m ọ   k é k e <pad> r é   y i   j ẹ   ì y à   k ú   l ọ w ọ   ì y á   à t i   ọ k ọ   r ẹ </s>
+<s> k i <pad> n i   ọ m ọ   ọ d ú n   m ẹ r i <pad> n   l è   ṣ e   l a <pad> t i   g b è j à   a <pad> r a   r ẹ   l ọ w ọ   ò b í   b u <pad> r ú k ú </s>
+<s> k ò s í   o <pad> h u <pad> n   t i   ọ m ọ d é   l è   ṣ e   ṣ u <pad> g b ọ n   ì j ọ b a   f a   o <pad> b ì n r i <pad> n   à t i   ọ k ù n r i <pad> n   b u <pad> r ú k ú   y i   l ọ   s i   i <pad> l é ẹ j o </s>
+<s> w ọ n   g b a   ì d á j ọ   è y í   t i   w ọ n   n i   l a <pad> t i   l o   ọ g b ọ n   ọ d ú n   ó   k é r é   j ù </s>
+<s> ẹ   w o   ì r ò y ì n   y i </s>
+<s> g ẹ g ẹ b i   ò w e   y o <pad> r ù b á   ẹ n i   t i   ó   n i   k i   a <pad> r á   i <pad> l é   o <pad> h u <pad> n   m á   l à   a <pad> r á   ì t a   n i   o   y a   l á ṣ ọ </s>
+<s> ò w e   y i   l à   l e   f i   b a   a <pad> w ọ n   è y a ǹ   w a   w i   n í t o <pad> r í   b i   ò y ì n b ó   b á   b ẹ r ẹ   s i   ṣ e   i <pad> r ú   à j ọ d ú n   y i </s>
+<s> a <pad> w ọ n   e <pad> n i a   w a   a   t ò   p ẹ l ú   ẹ b ẹ   l a <pad> t i   g b a   à y è   l a <pad> t i   f i   i ṣ ẹ   ọ n à   à t i   à ṣ à   y o <pad> r ù b á   n i   i <pad> r ú   i <pad> b i </s>
+<s> b ẹ ẹ </s>
+<s> b i   è r ò   ì w ò r a <pad> n   t i   ó   f ẹ   m ọ   n í p a   i ṣ ẹ   ọ n a   y o <pad> r ù b á   t i   p ọ   t ó   k ò s í   o <pad> n í ṣ ẹ   ọ n à   b i   o <pad> n i <pad> l ù   o <pad> l ó r i <pad> n </s>
+<s> ì b ì l ẹ   o <pad> n í ṣ ò w ò   ọ j à   ì b í l ẹ   à t i   b ẹ ẹ b ẹ ẹ   l ọ   l a <pad> t i   p o <pad> l ó w ó   i ṣ ẹ   ọ n à   à t i   à ṣ à   y o <pad> r ù b á   n i   à j ọ d ú n   y i </s>
+<s> a <pad> w ọ n   ẹ k a   y o <pad> r ù b á   t i   ó   w à   n i   b r a <pad> z i <pad> l   l ó   k ó   o <pad> n í l ù   à t i   o <pad> n í j ò   b a <pad> t a <pad> l a   t i   ó   d á   a <pad> w ọ n   è r ò   l á r a </s>
+<s> y a </s>
+<s> a <pad> w o <pad> n   o <pad> l o <pad> n j e   y o <pad> r ù b á   r i   o <pad> j a   t a </s>
+<s> a <pad> w ọ n   o <pad> n i <pad> l ù   o <pad> n í ṣ ò w ò   i <pad> b i <pad> l e   o <pad> l ó r i <pad> n   i <pad> b i <pad> l e   o <pad> n i ṣ ẹ   ọ n a   a <pad> t i   e <pad> l é r é   ì b í l ẹ   y o <pad> r ù b á   n i   ì l ú ọ b a   p à d á n ù   à t i   j ẹ   ọ r ọ   à t i   p o <pad> l o <pad> n g o </s>
+<s> i ṣ ẹ   ọ w ọ   w ọ n </s>
+<s> ó   ṣ e   p à t à k ì   l a <pad> t i   p a <pad> r a <pad> p ọ   p ẹ l ú   ì f ẹ   l a <pad> t i   g b é   à ṣ à   i ṣ ẹ   ọ n à   à t i   è d è   y o <pad> r ù b á   l á r u <pad> g ẹ </s>
+<s> y o <pad> r ù b á   n i   ọ m ọ d é   ò   j o <pad> b ì   à g b à   ò   j ẹ   o <pad> y e   ò w e   y i   b á   à w ọ n   ò b í   t i   ó   k ọ   ọ m ọ   s í l ẹ   ì y á </s>
+<s> t i   ó   t a   ọ m ọ   b à b á   t i   ó   s á   f i   ọ m ọ   s í l ẹ   à t i   à w ọ n   t i   o   f i   ì y à   j ẹ   ọ m ọ   i <pad> r ú </s>
+<s> ọ p ọ l ọ p ọ   ò b í   b a <pad> y i   n i   ò ṣ ì   m á   t a   p a </s>
+<s> k ò   s í   à y è   f ú n   ọ m ọ   i <pad> r ú   à w ọ n   b a <pad> y i   l a <pad> t i   m ọ   w ọ n   l ó j ú   n í t o <pad> r í   w ọ n   o   s i   n í l é   l a <pad> t i   ṣ e   o <pad> j u ṣ e </s>
+<s> w ọ n   g ẹ g ẹ b í   ò b i   a <pad> t i   l a <pad> t i   k ọ   ọ m ọ   a <pad> l á ì g b ọ r à n </s>
+<s> i <pad> r ú   o <pad> r i <pad> n   b a <pad> y i   l ó   t ọ   s í   i <pad> r ú   ò b í   b ẹ ẹ </s>
+<s> o <pad> r i <pad> n   y i   n i   o <pad> l ù k ọ   m a   f i   ń k ọ   à w ọ n   ọ m ọ   i <pad> l é ì w é   a <pad> l a <pad> k ọ b ẹ r ẹ   n i <pad> g b à   i <pad> l é ì w é   ọ f ẹ   t i   à w ọ n   ò ṣ è l ú   i <pad> l ẹ   y o <pad> r ù b á   t i </s>
+<s> o <pad> l ó y è   ọ b á f ẹ m i   a <pad> w ó l ọ w ọ   ṣ e   o <pad> l ó r í   r ẹ </s>
+<s> n i   a <pad> y é   ì g b à   w ọ n y i   ọ p ọ l ọ p ọ   ò b í   a   m a   f i   e <pad> b i   p a <pad> n ú   ṣ i ṣ ẹ   k á r a <pad> k á r a   t à b í   t a   o <pad> h u <pad> n   ì n í   l a <pad> t i   p è s è   f ú n </s>
+<s> t i   a   k ò   b á   f ẹ   k i   è d è   y o <pad> r ù b á   k i   ó   d i   o <pad> h u <pad> n   ì g b à g b é   a   n i   l a <pad> t i   y i   p a <pad> d à   k i   á </s>
+<s> s i   ṣ e   à t ú n ṣ e </s>
+<s> ẹ   j ẹ   k i   ó   j ẹ   è d è   y i   n i   à w ọ n   ọ m ọ   w a   y i o   k ọ   g b ọ   t i   á   o   s i   m á   b a </s>
+<s> w ọ n   s ọ   n i <pad> n u   i <pad> l é   d í p ò   è d è   g ẹ ẹ s i </s>
+<s> y o <pad> r ù b á   n i   o <pad> m i   l è n ì y à n   b i   ó   b á   ṣ à n   s i <pad> w á j ú   á   t ú n   ṣ à n   s ẹ h ì n </s>
+<s> ò w e   y i   t ú m ọ   s i   w i <pad> p é   l a <pad> t i   ọ j ọ   t i   a <pad> l á y é   t i   d á y é   n i   è n i <pad> y à n   t i   n k ú r ò   n i   ì l ú   k a <pad> n   l ọ   s i </s>
+<s> i <pad> k e <pad> j i   f ú n   ọ p ọ l ọ p ọ   i <pad> d i </s>
+<s> è n i <pad> y à n   m a   n k ú r ò   n i   ì l ú   a <pad> b í n i <pad> b í   n í t o <pad> r í   o <pad> g u <pad> n   ì y à n   ọ g b ẹ l ẹ   ọ r ọ   a <pad> j é   ì t ẹ s í w á j ú   n i <pad> n u   ẹ k ọ   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   k ú n   f ú n   w à r à   à t i   o <pad> y i <pad> n   n í t o <pad> r í   ọ g ọ r u <pad> n d i <pad> n m a <pad> r u <pad> n   o <pad> h u <pad> n   à l ù m ọ n ì   g b o <pad> g b o   à g b á y é   w à   n i   o <pad> r í l ẹ   è d è   n a a </s>
+<s> l á r a   ì w à   b u <pad> r ú k ú   y i   l ó   n d á   o <pad> g u <pad> n   à t i   ọ t ẹ   s i   ì l ú   à t i   t ẹ m b ẹ l ẹ k u <pad> n   a <pad> w ọ n   ọ d ọ </s>
+<s> è r è   a <pad> w ọ n   ì w à   ì b à j ẹ   w ọ n y i   t i   b a   ì l ú   j ẹ   è y i   j ẹ   i <pad> k a <pad> n   n i <pad> n u   o <pad> h u <pad> n   t i   ó   d á   k ú n   o <pad> h u <pad> n   t i </s>
+<s> ọ d ọ   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   f i   n k ú r ò   l ọ   s i   ò k è ò k u <pad> n   n i   ọ n à   k ọ n à </s>
+<s> i <pad> r o <pad> y i <pad> n   a <pad> w ọ n   ọ d ọ   ò ṣ ì ṣ ẹ   t i   o   n ṣ i   k ú r ò   n i   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   t i   ọ k ọ   w ọ n   d à   s i   ò k u <pad> n   n i   ì l ú </s>
+<s> l a <pad> m p e <pad> d u <pad> s a   i <pad> t a <pad> l y   k à n   l o <pad> n i   ọ j ọ   ẹ t i   o <pad> s u   k e <pad> w a   ọ j ọ   k ẹ r i <pad> n   ọ d ú n   ẹ g b à á l e <pad> m ẹ t a <pad> l á </s>
+<s> i <pad> r o <pad> y i <pad> n   i <pad> k ú   ọ r ù n d í n r í n w ó   ò ṣ ì ṣ ẹ   t ó   ṣ è g b é   s i   ò k u <pad> n   k a <pad> n </s>
+<s> y o <pad> r ù b á   n i   ẹ b ẹ   l à   m b ẹ   ò ṣ ì k à   k i   ó   t ú   ì l ú   r ẹ   ṣ e </s>
+<s> ò w e   y i   b á   a <pad> w ọ n   o ṣ e <pad> l u   t i   a   n p e   n i   a <pad> l á g b á d á   à t i   a <pad> w ọ n   o <pad> l ó r í   ì j ọ   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   k i   w ọ n   j ọ w ọ </s>
+<s> t ú n   ì l ú   w ọ n   ṣ e </s>
+<s> ọ p ọ l ọ p ọ   e <pad> w u   t i   a <pad> w ọ n   ọ d ọ   n l a   k ọ j á   i <pad> b a   d i <pad> n   k ù   b i   a <pad> w ọ n   o <pad> l ó r í   ì l ú   b á   l è   f i   ì w à   b u <pad> r ú k ú   s í l ẹ </s>
+<s> k i   w ọ n   t u   ì l ú   ṣ e   n í p a   ṣ i   ṣ e   ì d á j ọ   f ú n   o <pad> l ó r í   t i   ó   b á   ṣ e   i ṣ ẹ   i <pad> b i   b i   k i   k ó </s>
+<s> o <pad> w ó   ì l ú   j ẹ   à t i   a <pad> w ọ n   ì w à   ì b à j ẹ   y o <pad> k u </s>
+<s> i <pad> l ẹ   y o <pad> r ù b á   j ẹ   i <pad> k a <pad> n   n i <pad> n u   ẹ y à   n l á   l á r a   o <pad> r í l ẹ   è d è   n à í j í r í à </s>
+<s> o <pad> r í l ẹ   è d è   y i   g b a   o <pad> m i <pad> n i <pad> r a   l a <pad> t i   ọ d ọ   i <pad> l ú ọ b a   n i   ọ d ú n   m ẹ t à l é l a <pad> d ọ t a   s ẹ h i <pad> n </s>
+<s> l a <pad> t i   i <pad> g b a   t i   n à í j í r í à   t i   g b a   o <pad> m i <pad> n i <pad> r a   k à k à   k i   e <pad> w é   à g b ọ n   d ẹ   k o <pad> k o   l ó   t ú n   n l e   s i </s>
+<s> b i   ọ d ú n   t i   ń g o <pad> r í   ọ d ú n   n i   ó   n l e   k o <pad> k o   s i   f ú n   a <pad> r á   i <pad> l ú </s>
+<s> o <pad> l ó r í   i <pad> l ú   t i   a   n p e   n i   ì j ọ b a   m b a   ọ r ọ   i <pad> l ú   j ẹ   p ẹ l ú   i <pad> w à   i <pad> b à j ẹ   b i   g b i <pad> g b a   à b ẹ t ẹ l ẹ   o <pad> j ú k ò k ò r ò   r í r ú   ò f i <pad> n </s>
+<s> t i   w ọ n   f ú n r a   w ọ n   f i   s i <pad> l ẹ   f i <pad> f i   è r ú   g b a   ì j ọ b a   k í k ó   ọ r ọ   i <pad> l ú   l ọ   s i   ò k è ò k u <pad> n   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> k ò   s i   ì y à t ọ   l a a <pad> r i <pad> n   ì j ọ b a   o <pad> l ó g u <pad> n   à t i   ò ṣ è l ú </s>
+<s> è r è   i <pad> w à   b u <pad> r ú k ú   l a <pad> t i   ọ d ọ   ò ṣ è l ú   t i   r a <pad> n   a <pad> w ọ n   a <pad> r á   i <pad> l u </s>
+<s> o <pad> r i ṣ i <pad> r i ṣ i   i <pad> w à   b u <pad> r ú k ú   t i   k ò   ṣ ẹ l ẹ   l á y é   à t i <pad> j ọ   t i   b ẹ r ẹ   s i   ṣ ẹ l ẹ </s>
+<s> f ú n   à p ẹ r ẹ   g b ọ m ọ g b ọ m ọ   t i   g b ò d e   o <pad> l è   j í j à   j ì b ì t ì   t ẹ m b ẹ l ẹ k u <pad> n   ọ t ẹ   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> k ò   s i   i <pad> n á   o <pad> m i   i <pad> l é ì w é   f ú n   ọ m ọ   a <pad> l á ì n í   o <pad> j ú   ọ n à   t i   b à j ẹ   a <pad> w ọ n   a <pad> r á   i <pad> l ú   n j ẹ   ì y à   ọ p ọ l ọ p ọ   ọ d ọ   j a <pad> d e </s>
+<s> i <pad> l é ì w é   w ọ n   ò   r i   i ṣ ẹ   è y i   t o   r i   i ṣ ẹ   n g b a   o <pad> w ó   t i   k ò   t ó   j ẹ u <pad> n   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> b i   n à í j í r í à   t i   n ṣ e   à j ọ d ú n   k ẹ t a <pad> l e <pad> l a <pad> d ọ t a   n i   ọ j ọ   k i <pad> n i   o ṣ ù   k ẹ w a   ó   y ẹ   k á   g b é   ò w e   y o <pad> r ù b á   t i   ó   n i </s>
+<s> ọ m ọ   t o   y i   k o   g b ọ n   ì y á   n i   k o   m a   ṣ a   k ú   k i <pad> l o   n p a   ọ m ọ   b i   a <pad> g ọ   y ẹ w ò </s>
+<s> ì l ú   t ó   b á   g b ọ n   n i   l a <pad> t i   k ó   a <pad> r a   p ọ   l a <pad> t i   ṣ e   à p é r ò   f ú n   à t ú n ṣ e   n k a <pad> n   t i   ó   t i   b à j ẹ   k i </s>
+<s> a <pad> g ọ   m a   b à   p a   o <pad> r í l ẹ   è d è </s>
+<s> b i   ó   t i   w ù   k i   ó   r i   ẹ n i   ọ d ú n   b á   l á y é   ó   y ẹ   k i   ó   d ú p ẹ   k i   ó   n i   i <pad> r e <pad> t i </s>
+<s> p é   ọ l a   y i   o   d á r a   n í t o <pad> r í   e <pad> y i   ẹ y i <pad> n   o <pad> l ó l ù f ẹ   è d è   à t i   à ṣ à   y o <pad> r ù b á   ẹ   k ú   ọ d ú n   o <pad> m i <pad> n i <pad> r a   o </s>
+<s> ò w e   y o <pad> r ù b á   y i   ṣ e   g b a   à w ọ n   t i   o   n b ẹ r ù   n i <pad> g b a   g b o <pad> g b o   n í y à n j ú   w í p é   ó   y ẹ   k i   è n i <pad> y à n   f a <pad> r a   b a <pad> l ẹ   l a <pad> t i </s>
+<s> ṣ e   i <pad> w a <pad> d i   o <pad> h u <pad> n   t i   ó   f ẹ   ṣ ẹ l ẹ   k i   ó   t ó   k ú   s í l ẹ   d e   i <pad> k ú </s>
+<s> ẹ l ò m í r à n   k ò   n i   ṣ e   i <pad> w a <pad> d i   o <pad> h u <pad> n   t i   à w ọ n   è n i <pad> y à n   f i   ń s á r é   k i   ó   t ó   b ẹ r ẹ   s i   s á r é </s>
+<s> ọ p ọ l ọ p ọ   t i   s a   w ọ   i <pad> n ú   e <pad> w u   t i   w ọ n   r ò   w í p é   à w ọ n   s á   f ú n </s>
+<s> f ú n   à p ẹ r ẹ   n í g b à t í   i <pad> n á   a <pad> j ó n i <pad> r u <pad> n   b a <pad> l ẹ   n i   à g ọ   o <pad> l ó g u <pad> n   n i   i <pad> k ẹ j a   n i   ì l ú   è k ó   n i   b i   ọ d ú n   m ẹ j ọ   s ẹ h i <pad> n </s>
+<s> b i   à w ọ n   k a <pad> n   t i   g b ọ   ì r ó   i <pad> n á   a <pad> j ó n i <pad> r u <pad> n   y i   w ọ n   s á r é   t i <pad> t i   ọ p ọ   f i   p a <pad> r u <pad> n   s i   i <pad> n ú   i <pad> r à   n i   e <pad> j i <pad> g b o </s>
+<s> n i   ọ n à   j í n j ì n   s i   i <pad> b i   t i   ì ṣ ẹ l ẹ   t i   ṣ ẹ l ẹ </s>
+<s> à p ẹ r ẹ   m i <pad> r a <pad> n   t i   a   l è   f i   ṣ e   à l à y é   p é   ọ r u <pad> n   ń y a <pad> b ọ   k i   ṣ é   ọ r ọ   ẹ n ì k a <pad> n   n i   ẹ n i   t i   ó   s ọ </s>
+<s> p é   o <pad> h u <pad> n   r i   w í p é   a <pad> y é   t i   f ẹ   p a <pad> r ẹ   à w ọ n   k a <pad> n   g b à g b ọ   w ọ n   b ẹ r ẹ   s i   t a   o <pad> h u <pad> n   ì n í   w ọ n </s>
+<s> à t i   ẹ n i   t i   ó   t a   o <pad> h u <pad> n   ì n í   à t i   ẹ n i   t i   ó   r a   k ò   s i   n i <pad> n ú   w ọ n   t i   ó   m a   m ú </s>
+<s> á   l é r ò   w í p é   a <pad> w ọ n   i <pad> l é i ṣ ẹ   t i   w ọ n   p i <pad> n   i <pad> n á   p i   p è s è   f ú n   a   y ọ   i <pad> l ú   k ú r ò   n i <pad> n u   ò k ù n k ù n   n í t o <pad> r í   ò k ù n k ù n </s>
+<s> k ò   y ẹ   ọ m ọ   e <pad> n i <pad> y a <pad> n </s>
+<s> g b o <pad> g b o   o <pad> l ó l ù f ẹ   è d è   y o <pad> r ù b á   p à t à k ì   à w ọ n   t i   o   f i   ì f ẹ   t ẹ   l é   à k ọ s í l ẹ   ọ r ọ   g b í g b é   è d è   à t i   à ṣ à   y o <pad> r ù b á </s>
+<s> l á r u <pad> g ẹ   l ó r i   ẹ r ọ   a <pad> y é l u <pad> j á r a   m o   j ẹ   y i <pad> n   n i   à l à y é   o <pad> h u <pad> n   t i   o <pad> j ú   r i   l ẹ h i <pad> n   à b ọ   o <pad> k o </s>
+<s> ẹ   o   ṣ e   a <pad> k i <pad> y e <pad> s i   w í p é   ì w é   k i <pad> k ọ   w a   d i <pad> n   k ù   d i ẹ   n í t o <pad> r í   a <pad> d a <pad> r í   ì w é   l ọ   b ẹ   i <pad> l é   w ò   f ú n   ì g b à </s>
+<s> d i ẹ </s>
+<s> n i   g b o <pad> g b o   à s ì k ò   t i   a <pad> d a <pad> r í   ì w é   f i   w a   n i   i <pad> l é   ì ṣ ò r o   n l a   n i   l a <pad> t i   l è   k ọ   ì w é   l o <pad> r i   a <pad> y é l u <pad> j á r a   n í t o <pad> r í </s>
+<s> d á k ú d á j í   i <pad> n á   m ọ n à m ọ n á </s>
+<s> l ẹ h i <pad> n   ọ p ọ l ọ p ọ   ọ d ú n   k à k à   k i   e <pad> w é   à g b ọ n   d ẹ   k o <pad> k o   l ó   t ú n   n l e   s i </s>
+<s> a   ṣ e   a <pad> k i <pad> y e <pad> s i   p é   n k a <pad> n   w ọ n   n i   i <pad> l é   j u   o <pad> k o   l ọ   p à t à k ì   ì n á w ó   l ó r í   o u <pad> n j ẹ   ẹ r ọ   i <pad> n á   m ọ n à m ọ n á   à t i   ọ k ọ </s>
+<s> w í w ọ </s>
+<s> a i   s i   i <pad> n á   a <pad> r i <pad> w o   ẹ r ọ   i <pad> n á   m ọ n à m ọ n á   f è r è   ọ k ọ   à t i   s ú n k ẹ r ẹ   f à k ẹ r ẹ   ọ k ọ   k ò   j ẹ   k i   a <pad> k ọ w e   y i   g b á d ù n   i <pad> l é </s>
+<s> b i   o <pad> k o </s>
+<s> a   l è   s ọ   w í p é   à w ọ n   g ó m ì n à   i <pad> l ẹ   y o <pad> r ù b á   n g b i <pad> y a <pad> n j u   ṣ ù g b ọ n   o <pad> m i   p ọ   j u   ọ k à   l ọ </s>
+<s> à y è   i ṣ ẹ   t i   ó   y ẹ   k i   ì j ọ b a   à p a <pad> p ọ   ṣ e   t i   w ọ n   k ò   ṣ e   ń f a   ì n i <pad> r a   f ú n   a <pad> r á   ì l ú </s>
+<s> ẹ b ẹ   l à   ń b ẹ   ò ṣ ì k à   k i   ó   t ú   ì l ú   r ẹ   ṣ e   n í t o <pad> r í   e <pad> y i   a   b ẹ   ì j ọ b a   à t i   à w ọ n   g ó m ì n à   p é   k i </s>
+<s> w ọ n   s o <pad> w ọ   p ọ   l a <pad> t i   t ú   o <pad> r í l ẹ   è d è   ṣ e   n i   p à t à k ì   ì p è s è   o <pad> h u <pad> n   a <pad> m á y é d ẹ r ù n </s>
+<s> ì r ò y ì n   t i   ó   n l ọ   l ọ w ọ   n i   o <pad> r í l ẹ   è d è   n à í j í r í à   n i   p é   a ṣ o <pad> j ú ọ b a   n k ó   ọ r ọ   i <pad> l ú   d à n ù   g ẹ g ẹ   b i   i ṣ e   a <pad> w ọ n </s>
+<s> y o <pad> k u   l a <pad> t i   r a   ọ k ọ   o <pad> j ú o <pad> g u <pad> n </s>
+<s> b i   a   b á   w o   i ṣ e   à t i   à ṣ à   y o <pad> r ù b á   a   o   r i   p e   à w ọ n   à l e <pad> j ò   l a <pad> t i   ò k è ò k u <pad> n   t i   o   n i   i <pad> n ú </s>
+<s> y o <pad> r ù b á   l ó   d ù n   j ù   n i   à g b á y é   k ò   j ẹ b i </s>
+<s> k ò   s i   i <pad> b i   t i   e <pad> n i a   l è   d é   n i   o <pad> l ú i <pad> l ú   à t i   ì g b è r í k o   y o <pad> r ù b á   t i   k ò   n i   r i   i <pad> b i   t i   w ọ n   t i </s>
+<s> ń ṣ e   à p è j ẹ </s>
+<s> y o <pad> r ù b á   n i   ọ j ọ   g b o <pad> g b o   b i   ọ d ú n   p à t à k ì   n i   i <pad> l ú   è k ó   l a <pad> t i   ọ j ọ b ọ   t i <pad> t i   d é   ọ j ọ à ì k ú   n i   w ọ n   t i   ń ṣ e   à p è j ẹ </s>
+<s> i <pad> l ú   m i <pad> r a <pad> n   ń ṣ e   à p è j ẹ   n i   ọ j ọ a <pad> j é   f ú n   à p ẹ r ẹ   i <pad> k ẹ r ẹ e <pad> k i <pad> t i </s>
+<s> ọ p ọ l ọ p ọ   a <pad> y ẹ y ẹ   à t i   ì j ọ s ì n   l ó   m ú   ì l ù   o <pad> r i <pad> n   i <pad> j ó   à t i   à s è   d á n i </s>
+<s> n i   g b o <pad> g b o   i <pad> l ẹ   y o <pad> r ù b á   à t i   ọ l ọ r ọ   à t i   ò t ò ṣ ì   l ó   ń ṣ e   à p è j ẹ   k a <pad> n   t à b i   k e <pad> j i </s>
+<s> b i   w ọ n   ò   k ó m ọ j a <pad> d e   w ọ n   a   ṣ e   ì s ì n k ú   t à b i   y i   ẹ h ì n   ò k ú   p a <pad> d à   ì ṣ í l é   ọ j ọ i <pad> b i   i <pad> g b é y à w ó   ì w ú y è   à j ọ d ú n   à t i   b ẹ ẹ b ẹ ẹ </s>
+<s> l ọ </s>
+<s> ò w ò   t ò   g b ò d e   n i   i <pad> l é a <pad> p e <pad> j ọ   à t i   g b o <pad> g b o   o <pad> h u <pad> n   è l ò   r ẹ </s>
+<s> ọ p ọ l ọ p ọ   à w ọ n   t i   o   j a <pad> d e   n i   i <pad> l é i <pad> w é   g i <pad> g a   t i   k ò   r i   i ṣ ẹ   t i   b ẹ r ẹ   s i   k ọ ṣ ẹ   b i   w ọ n   t i   ń w é </s>
+<s> g è l è   r á n   a ṣ ọ   à s è   s i <pad> s è   à t i   i ṣ ẹ   o <pad> l ù p a <pad> l è m ọ   a <pad> y ẹ y ẹ   n í g b à t í   ẹ l ẹ g b ẹ   w ọ n   n i   ò k è ò k u <pad> n   ń ṣ e   à ṣ e   y ọ r i   n i <pad> n ú   ẹ k ọ i <pad> j i <pad> n l ẹ </s>
+<s> f ú n   a <pad> k i <pad> y e <pad> s i   i <pad> l é à p è j ọ   p ọ   j u   i <pad> l é ì k à w é   l ọ </s>
+<s> ọ p ọ l ọ p ọ   à w ọ n   t i   ó   ń ṣ e   à p è j ẹ   y i   l ó   ń j ẹ   i <pad> g b è s è   l a <pad> t i   ṣ é </s>
+<s> o <pad> m i <pad> r a <pad> n   k ò   n i   r i   o <pad> w ó   i <pad> l é i <pad> w é   ọ m ọ   s a <pad> n   l ẹ h i <pad> n   ì s ì n k ú   t à b i   k i   w ọ n   m a   r i   o <pad> w ó   l a <pad> t i   p è s è   o ú n j ẹ   t à b i </s>
+<s> a ṣ ọ   f ú n   ọ m ọ t u <pad> n t u <pad> n   t i   w ọ n   n á   o <pad> w ó   r ẹ p ẹ t ẹ   l a <pad> t i   k ó   j a <pad> d e </s>
+<s> b a <pad> w o   n i   a   t i   l è   ṣ e   à l à y é   p é   k ò   s i   o <pad> w ó   l a <pad> t i   r á n   ọ m ọ   l ọ   s i   i <pad> l é i <pad> w é   t à b i   b è r è   p é </s>
+<s> k i   ì j ọ b a   ò k è ò k u <pad> n   w á   p è s è   i <pad> n á   m ọ n à m ọ n á   o <pad> m i   i <pad> l é ì w ò s à n   à t i   b ẹ ẹ b ẹ ẹ   l ọ   f ú n   à w ọ n   t i   i <pad> n ú   r ẹ   d ù n   j ù   n i </s>
+<s> à g b á y é </s>
+<s> f ú n   i <pad> d i   e <pad> y i   y o <pad> r ù b á   ẹ   j ẹ   k i   á   r o <pad> n ú   l a <pad> t i   ṣ e   à y i <pad> p a <pad> d à </s>
+<s> ọ p ọ   o <pad> w ó   t i   ọ l ọ r ọ   f i   ń ṣ e   ì s ì n k ú   w ú l ò   f ú n   a <pad> l à y è   l ọ   n í p a   p i   p è s è   i <pad> l é i <pad> w é   o <pad> m i ẹ r ọ   ọ n à   i <pad> l é ì k à w é   n i   o <pad> r ú k ọ </s>
+<s> o <pad> l ó ò g b é   j u   k i   g b o <pad> g b o   o <pad> w ó   b ẹ ẹ   l ọ   f ú n   a <pad> y ẹ y ẹ </s>
+<s> ò w e   y o <pad> r ù b á   t i   o   n i   b i   i <pad> k ú   i <pad> l é   ò   p a <pad> n i   t ò d e   ò   l è   p a <pad> n i   b á   ọ p ọ   i ṣ ẹ l ẹ   t i   o   ń ṣ ẹ l ẹ </s>
+<s> n í t o <pad> r í   ì f ẹ   o <pad> w ó   t i   ó   g b ò d e   l á y é   ò d e   ò n í   m u </s>
+<s> ọ m ọ   ẹ b i   t a <pad> b i   a <pad> l á b a <pad> g b e   ń d a <pad> r a <pad> p ọ   m ọ   o <pad> l è   g b ọ m ọ g b ọ m ọ   o <pad> n í j ì b ì t ì   l a <pad> t i   f i   i <pad> p á   g b a   o <pad> w ó   l ọ w ọ   ẹ b i   t i   w ọ n   b á   m ọ </s>
+<s> t a <pad> b i   r ò   p é   ó   n i   o <pad> w ó   p ú p ọ </s>
+<s> f ú n   à p ẹ r ẹ   ẹ n i   t i   o   m b a   e <pad> n i a   g b é   l ó   m ọ   o <pad> h u <pad> n   t i   e <pad> n i a   n i </s>
+<s> b i   ọ m ọ   ẹ b i   t a <pad> b i   a <pad> l á b a <pad> g b e   w ọ n y i   b á   n i   o <pad> j ú k ò k ò r ò   w ọ n   á   d a <pad> r a <pad> p ọ   m ọ   o <pad> l è   l a <pad> t i   g b é   ẹ r ù   t à b i   o <pad> w ó   p ẹ l ú </s>
+<s> i <pad> p á </s>
+<s> p a   k ẹ t ẹ k ẹ t ẹ </s>
+<s> n í t o <pad> r í   à t i   t ẹ   a i <pad> y é   l ọ r u <pad> n   b à b á   à t i   ọ m ọ   b ọ   s i <pad> l ẹ   w ọ n   b ẹ r ẹ   s i   f i   ẹ s ẹ   r i <pad> n   t ẹ l é   k ẹ t ẹ k ẹ t ẹ </s>
+<s> n i   k ẹ t ẹ k ẹ t ẹ   k i   w ọ n   m a   f i   ẹ s ẹ   r i <pad> n </s>
+<s> n í g b à t í   b à b á   t i   g b ì y à n j ú   t i <pad> t i   t i   k ò   m ọ   o <pad> h u <pad> n   t i   ó   t ú n   l è   ṣ e   m ọ   l a <pad> t i   t ẹ   a i <pad> y é   l ọ r ù n   n i </s>
+<s> ó   r á n t i   ọ r ọ   y o <pad> r ù b á   t ó   n i   k ò   s i   ọ g b ọ n   t i   o   l è   d á   k ò   s i   i <pad> w à   t i   o   l è   h ù </s>
+<s> t i   o   l è   f i   t ẹ   a i <pad> y é   l ọ r ù n </s>
+<s> y o <pad> r ù b á   n i   ẹ n i   à   ḿ b á   r a   ọ j à   l à   ń w ò   a   k i   w ó   a <pad> r i <pad> w o   ọ j à </s>
+<s> l á r a   n k a <pad> n   t i   i <pad> t à n   y i   k ọ   w a   n i   p é   o <pad> h u <pad> n   a <pad> n i   l à   ń l ò   i <pad> b i   t i   à   ń l ọ   n i   k á   d o <pad> j ú </s>
+<s> k ọ   l a i   w o   a <pad> r i <pad> w o   ọ j à   à t i   p é   e <pad> n i a   n i   l a <pad> t i   n i   ọ k à n   t i <pad> r ẹ   n í t o <pad> r í   k ò   s i   ẹ n i   t i   ó   l è </s>
+<s> t ẹ   a i <pad> y é   l ọ r ù n </s>
+<s> ẹ   g b ọ   b i   ò g ú n á   g b ò n g b ò   n i <pad> n ú   à w ọ n   ọ g á   n i <pad> n ú   o <pad> l ó r i <pad> n   i <pad> l ẹ   y o <pad> r ù b á   à t i   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   c h i e <pad> f   e <pad> b e <pad> n e <pad> z e <pad> r   f a <pad> b i <pad> y ì </s>
+<s> t i   a   m ọ   s i   o <pad> l ó y è   a <pad> d a <pad> r í   t i   f i   i <pad> t à n   y i   k ọ r i <pad> n </s>
+<s> à k à r à   j ẹ   i <pad> k a <pad> n   n i <pad> n u   o u <pad> n j ẹ   a <pad> l á d ù n   i <pad> l ẹ   y o <pad> r ù b á </s>
+<s> a   l è   f i   à k à r à   j ẹ   ẹ k o   f i   m u   g a à r í   t a <pad> b i   j ẹ   f ú n   ì p a <pad> n u </s>
+<s> k i   ṣ e   g b o <pad> g b o   e <pad> n i a   l ó   m ọ   à k à r à   d i <pad> n   a <pad> w ọ n   e <pad> n i a   m a   n f ẹ r a <pad> n   ẹ n i   t i   ó   b a   m ọ   à k à r à   d i <pad> n </s>
+<s> à t i   ọ m ọ d é   à t i   à g b à   l ó   f ẹ r á n   à k à r à </s>
+<s> a <pad> w ọ n   ọ m ọ d e   m a   n k ọ r i <pad> n   b a <pad> y i </s>
+<s> k i   ṣ e   e <pad> n i a   n i <pad> k a <pad> n   l ó   f ẹ r à n   à k à r à   à j à p á   n a a   f ẹ r à n   à k à r à   ṣ ù g b ọ n   k ò   r i   o <pad> w ó   r a a   n í t o <pad> r í   è y i   o <pad> j ú   n i </s>
+<s> à j à p á   f i   n r i   à k à r à   è t è   r ẹ   k o   b a a </s>
+<s> à j à p á   w á   r o <pad> n ú   ọ g b ọ n   t i   ó   l è   d á   l a <pad> t i   p è s è   à k à r à   f ú n   ò h u <pad> n   à t i   i <pad> d i <pad> l é   r ẹ </s>
+<s> ó   r o <pad> n ú   b i   w ọ n   t i   l è   d á   ẹ r ù   b a   ọ m ọ   a <pad> l á k à r à   k i   ó   l è   s á   f i   i <pad> g b á   à k à r à   r ẹ   s i <pad> l ẹ </s>
+<s> ó   g b é   a <pad> g ọ   w ọ   ì y à w ó   à t i   ọ m ọ   r ẹ   f i   p á p á   b o <pad> r a </s>
+<s> b i   a <pad> l á k à r à   b a   t i   k i <pad> r i   k ọ j á   à j à p á   a   b ẹ   s i   i <pad> w á j ú   ọ m ọ   a <pad> l á k à r à   w ọ n   a   m a   k o   o <pad> r i <pad> n   b a <pad> y i </s>
+<s> ẹ r ù   b a   a <pad> l á k à r à   á   d a   à k à r à   d à   n ù </s>
+<s> à j à p á   à t i   ẹ b í   r ẹ   á   b ẹ r ẹ   s i   k ó   à k à r à </s>
+<s> y o <pad> r ù b á   n i   w ọ n   m ú   o <pad> l è   l ẹ ẹ k a <pad> n   ó   n i   o <pad> h u <pad> n   ò   w á   r i   t a <pad> n i   f i   ọ n à   h a <pad> n   o <pad> l è </s>
+<s> ọ m ọ   a <pad> l á k à r à   s u <pad> n k ú n   l ọ   s i   i <pad> l é   i <pad> n ú   ì y a a <pad> l á k à r à   k ò   d ù n   s i   ọ m ọ   r ẹ   n í t o <pad> r í   o   p à d á n ù   à k à r à   à t i   o <pad> w ó   t i </s>
+<s> o   y ẹ   k i   ó   p a </s>
+<s> k ò   g b a   ì t à n   ọ m ọ   r ẹ   g b ọ   n í t o <pad> r í   n á à   ó   g b é   à k à r à   f ú n   n i   ọ j ọ   k e <pad> j i   a <pad> t i   ọ j ọ   k ẹ t a   ọ m ọ   t ú n </s>
+<s> p a <pad> d à   p ẹ l ú   ẹ k ú n </s>
+<s> o <pad> h u <pad> n   f ú n r a   r ẹ   t ẹ l é   ọ m ọ   r ẹ   i <pad> w i <pad> n   t ú n   y ọ j ú   à w ọ n   m e <pad> j e e <pad> j i   s á   e <pad> r é   p a <pad> d à   s i   ì l ú   l a i   r a <pad> n t i   g b é   i <pad> g b á </s>
+<s> à k à r à </s>
+<s> ì y á   a <pad> l á k à r à   g b a   ọ d ọ   ọ b a   à t i   à g b à   ì l ú   l ọ   l a <pad> t i   s ọ   o <pad> h u <pad> n   t i   o <pad> j ú   w ọ n   r i </s>
+<s> ọ b a   p e   a <pad> w ọ n   ò r ì ṣ à   ì l ú   l a <pad> t i   ṣ e   i <pad> w a <pad> d i   o <pad> h u <pad> n   t i   ó   f ẹ   b a   ọ r ọ   ì l ú   j ẹ   y i </s>
+<s> n i <pad> n u   g b o <pad> g b o   ò r ì s à   ọ s a <pad> n y ì n   n i <pad> k a <pad> n   l ó   g b à   l a <pad> t i   y a <pad> n j ú   ọ r ọ   y i </s>
+<s> ì y á   a <pad> l á k à r à   t u <pad> n g b e   à k à r à   f ú n   ọ m ọ   r ẹ   ṣ ù g b ọ n   o <pad> h u <pad> n   à t i   ọ s a <pad> n y i <pad> n   t ẹ l é </s>
+<s> b i   a <pad> l á k à r à   t i   b ẹ r ẹ   s i   p o <pad> l ó w ó   à j à p á   t ú n   j a <pad> d e   g ẹ g ẹ   b i   i ṣ e   r ẹ </s>
+<s> y o <pad> r ù b á   n i   ọ j ọ   g b o <pad> g b o   n i   t i   o <pad> l è   ọ j ọ   k a <pad> n   n i   t i   o <pad> l ó h u <pad> n </s>
+<s> ì y á   a <pad> l á k à r à   à t i   ọ m ọ   r ẹ   t ú n   m é r é   ṣ ù g b ọ n   ọ s a <pad> n y i <pad> n   t i   o   f i   a <pad> r a   p a <pad> m ọ   d ú r ó   l a <pad> t i   w o   o <pad> h u <pad> n   t i   ó </s>
+<s> f ẹ   ṣ ẹ l ẹ </s>
+<s> à j à p á   à t i   à w o <pad> n   i <pad> d i <pad> l e   r ẹ   j a <pad> d e   n w ọ n   b ọ   o <pad> h u <pad> n   t i   n w ọ n   f i   b o <pad> r a   s i <pad> l ẹ   l a <pad> t i   t ú n   b ẹ r ẹ   s i   k ó   à k à r à </s>
+<s> o <pad> r í   t i   à j à p á   y ọ   j a <pad> d e   l a <pad> t i   j ẹ   à k à r à   ọ s a <pad> n y i <pad> n   f ọ   i <pad> g i   ẹ l ẹ g u <pad> n   m ọ   l ó r í   a <pad> w ọ n   ẹ b i   r ẹ   s á l ọ </s>
+<s> ọ s a <pad> n y i <pad> n   g b é   ò k ú   à j à p á   l ọ   s i   ọ d ọ   ọ b a </s>
+<s> i <pad> n ú   a <pad> r á   ì l ú   d ù n   n í t o <pad> r í   à ṣ i <pad> r i   o <pad> l è   t ú </s>
+<s> ọ b a   p à ṣ ẹ   p e   à j à p á   n i   k i   n w ọ n   b ẹ r ẹ   f i   r ú b ọ   s i   ọ s a <pad> n y i <pad> n </s>
+<s> ẹ k ọ   ì t à n   y i   n i   p e   o <pad> j ú k ò k ò r ò   k ò   l é r è   b ó   p ẹ   b ó y á   à ṣ í r í   o <pad> l è   á   t ú </s>
+<s> i <pad> k ú   l è r è   ẹ ṣ ẹ   à j à p á   p à d á n ù   ẹ m í   n í t o <pad> r í   à k à r à </s>
+<s> g b é   e <pad> p o   k a <pad> n á </s>
+<s> ọ r ọ   ì y à n j ù </s>
+<s> o <pad> d ò   t o   b a   g b a <pad> g b e   o <pad> r i <pad> s u <pad> n   r ẹ   g b i <pad> g b e   l o   m a   n g b e </s>
+<s> é y i <pad> n   t i   á j à   b á   k ọ k ọ   n i   ó n i <pad> l è   ẹ   l ò   f i   n   g è   j ẹ </s>
+<s> ẹ y i <pad> n   ọ m ọ   o <pad> d ù d u <pad> w à   ẹ j ẹ   k i   a   r a <pad> n   r a <pad> w a   l é t í   w í p é   ẹ n i   t ó l è d è   l ó n i   a <pad> y é   i <pad> b i   t i   w ọ n   t i   n s ọ </s>
+<s> m o   b ẹ   y i <pad> n   ẹ   m a ṣ e   j ẹ k i   a   t a <pad> r a   w a   l ọ p ọ   n í t o <pad> r í   n á à   ẹ   m a ṣ e   j ẹ k i   è d è   y o <pad> r ù b à </s>
+<s> p a <pad> r ẹ </s>
+<s> è d è   t i   a   k ọ   s i <pad> l ẹ   t i   a   k o   s ọ   t i   a   k o   f i   k ọ   ọ m ọ   w a   p i <pad> p a <pad> r ẹ   n i   y i o   p a <pad> r ẹ </s>
+<s> ẹ j ẹ   k i   a   g b i <pad> y a <pad> n j u   l a <pad> t i   ṣ e   a <pad> t u <pad> n ṣ e   n í p a   s í s ọ   è d è   y o <pad> r ù b à   b o <pad> t i <pad> y ẹ   k a <pad> s ọ   l a i   s i   i <pad> d a <pad> r u   i <pad> d a <pad> p ọ   p ẹ l u   è d è </s>
+<s> m i <pad> r a <pad> n </s>
+<s> y o <pad> r ù b á   l ọ k ù n r i <pad> n   a <pad> t i   l o <pad> b i <pad> r i <pad> n   ẹ   r a <pad> n t i   w i <pad> p e   o <pad> d ò   t o   b a   g b a <pad> g b e   o <pad> r i <pad> s u <pad> n   r ẹ   g b i <pad> g b e   l o   m a   n g b e </s>
+<s> l á g b á r a   ọ l ọ r u <pad> n   a o <pad> n i   t a <pad> j o   s ọ n u   s a <pad> j o   o   a o   k e <pad> r e   o <pad> k o   d é l é   o   à ṣ ẹ </s>
+<s> ọ p ọ l ọ p ọ   o <pad> r i ṣ i <pad> r i ṣ i   o u <pad> n j ẹ   y o <pad> r ù b á   n p a <pad> r ẹ   l ọ   n í p à t à k ì   l a <pad> r i <pad> n   a <pad> w ọ n   t o   n g b e   ì l ú   n l a </s>
+<s> ò w e   y o <pad> r ù b á   n i   k i   à g b à d o   t o   d e   i <pad> l ẹ   a <pad> y e   a <pad> d ì y ẹ   n j ẹ   a <pad> d ì y ẹ   n m u </s>
+<s> i <pad> t u <pad> m o   e <pad> y i   n i <pad> p e   k i   a   t o   b ẹ r ẹ   s i   r a   o u <pad> n j ẹ   l a <pad> t o <pad> k e <pad> r e   a   n r i   o u <pad> n j ẹ   i <pad> l ẹ   w a   j ẹ </s>
+<s> a <pad> w ọ n   t o   n g b e   i <pad> l u   n l a   b i   t i   è k ó   k o   r i   a <pad> y e   l a <pad> t i   s e   ọ p ọ l ọ p ọ   o u <pad> n j ẹ   i <pad> l ẹ   w a   è y í   k o   j ẹ k i </s>
+<s> à l e <pad> j ò   m ọ   w i <pad> p e   y o <pad> r ù b á   n i   o <pad> r i ṣ i <pad> r i ṣ i   ọ b ẹ   o u <pad> n j ẹ   a <pad> t i   ì p a <pad> n u </s>
+<s> n i   ọ p ọ   ọ d u <pad> n   s ẹ h i <pad> n   i <pad> r ẹ s i   k i   ṣ e   o u <pad> n j ẹ   o <pad> j o <pad> j u <pad> m ọ   ṣ u <pad> g b ọ n   f u <pad> n   a <pad> w ọ n   ọ m ọ   i <pad> g b a <pad> l o <pad> d e   i <pad> r ẹ s i   b u <pad> r ẹ d i   a <pad> t i   i <pad> n d o <pad> m i e   t i   d i </s>
+<s> o u <pad> n j ẹ </s>
+<s> ọ p ọ l ọ p ọ   k o   t i   ẹ   f ẹ   j ẹ   o u <pad> n j ẹ   i <pad> b i <pad> l ẹ   b i   a <pad> w ọ n   o u <pad> n j ẹ   ò k è l è   i <pad> y á n   ẹ b a   l á f ú n   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> t i   a   b a   ṣ a <pad> k i <pad> y e <pad> s i   ọ p ọ   ọ m ọ   t o   d a <pad> g b a   s i   è k ó   k o   m ọ   w i <pad> p e   y o <pad> r ù b á   n i   j u   ọ b ẹ   a <pad> t a   a <pad> t i   ẹ f ọ </s>
+<s> l ọ </s>
+<s> ọ b ẹ   a <pad> t a   l o   y á   l a <pad> t i   f i   j ẹ   i <pad> r ẹ s i   n í t o <pad> r í   ọ p ọ   n i <pad> n u   a <pad> w ọ n   ọ m ọ   w ọ n y i   l e   j ẹ   i <pad> r ẹ s i   l o <pad> j o <pad> j u <pad> m ọ   l a <pad> r ọ   l ọ s a <pad> n </s>
+<s> a <pad> t i   l a <pad> l ẹ </s>
+<s> n i   ì l ú   è k ó   s u <pad> n k ẹ r ẹ   f a <pad> k ẹ r ẹ   ọ k ọ   k o   j ẹ   k i   o <pad> b i   t è t è   d é l é   l ẹ h i <pad> n   i ṣ ẹ   o <pad> j ọ   w ọ n   ẹ l o   m i <pad> r a <pad> n   t i   j i </s>
+<s> k u <pad> r o   n í l é   l a <pad> t i   b i   a <pad> g o <pad> g o   m ẹ r i <pad> n a <pad> b ọ   l a i   p a <pad> d a   s í l é   t i <pad> t i   d i   a <pad> g o <pad> g o   m ẹ w a   a <pad> l ẹ   n í g b à t í   a <pad> w ọ n   ọ m ọ   t i <pad> s ù n </s>
+<s> n í t o <pad> r í   è y í   ọ p ọ   ò b í   k o   r i   a <pad> y e   l a <pad> t i   s e   o u <pad> n j ẹ   y o <pad> r ù b á </s>
+<s> à ì s í   i <pad> n a   m a <pad> n a <pad> m a <pad> n a   d é d é   t u <pad> n   d a   k u <pad> n   i <pad> f ẹ   s i   o u <pad> n j ẹ   p á p à p á </s>
+<s> ì y à l ẹ n u   n i   w i <pad> p e   ọ p ọ   a <pad> w ọ n   t i   ó w à   l o <pad> k e o <pad> k u <pad> n   n g b e   o u <pad> n j ẹ   y o <pad> r ù b á   l a <pad> r u <pad> g ẹ   j u   a <pad> w ọ n   t i   ó w à   n i   i <pad> l é   l ọ   p à t à k ì </s>
+<s> n i   i <pad> l u   n l a </s>
+<s> o ṣ e ṣ e   p e   b i   i <pad> n á   m a <pad> n a <pad> m a <pad> n a   b a   ṣ e   d é d é   o u <pad> n j ẹ   y o <pad> r ù b á   y i o   g b a <pad> y i   s i   n í t o <pad> r í   a <pad> w ọ n   ò b ì   m a   l e   s e   o <pad> r i ṣ i <pad> r i ṣ i </s>
+<s> o u <pad> n j ẹ   p a <pad> m ọ </s>
+<s> ẹ j ọ w ọ   ẹ   m a ṣ e   j ẹ   k i   a   f i   o u <pad> n j ẹ   ò k è r è   d i <pad> p o   o u <pad> n j ẹ   i <pad> l ẹ   w a   o <pad> k ù n f à   g b è s è   n i </s>
+<s> ì r ò y ì n   ì j ì   n l a   j à   n i   ì b à d à n </s>
+<s> ò j ò   a <pad> t i   ì j ì   b ẹ r ẹ   n i   a <pad> r ọ k u <pad> t u   ọ j ọ   a <pad> j é   ọ j ọ   k e <pad> j i <pad> d i <pad> n l o <pad> g u <pad> n   o ṣ u   k e <pad> j i   ọ d ú n   ẹ g b ẹ w a   l e   m ẹ t a <pad> l a </s>
+<s> ì j ì   n a a   b a   í l é   a <pad> t i   ọ n a   j ẹ   r ẹ p ẹ t ẹ   n i   ì l ú   ì b à d à n </s>
+<s> ò w e   y o <pad> r ù b á   s ọ   w i <pad> p e   o <pad> g u <pad> n   à s ọ   t ẹ l ẹ   k i   p a <pad> r ọ   t o   b a   g b ọ n </s>
+<s> o   ṣ e <pad> n i   l a <pad> n u   w i <pad> p e   k o   s i   à s ọ   t ẹ l   t a <pad> b i   i <pad> p a <pad> l ẹ m ọ   f ú n   a <pad> r á   ì l ú   a <pad> t i   i <pad> j ọ b a </s>
+<s> i <pad> y a <pad> l ẹ n u   n i   w i <pad> p e   l a <pad> t i   ọ p ọ   ọ d u <pad> n   t i   ì j ì   à t i   à g b à r á   l a <pad> t i   o <pad> d ò   ò g ù n p a   t i   m b a   i <pad> l é   a <pad> t i   ọ n a   j ẹ   l ọ d ọ d u <pad> n </s>
+<s> ì j ọ b a   ọ y ọ   k o   t i   r i   o <pad> g b ọ n   k ọ   l a <pad> t i   d a   ẹ k u <pad> n   a <pad> t i   i <pad> b a <pad> n u <pad> j ẹ   t i   i ṣ ẹ l ẹ   y i   n d a   s i <pad> l ẹ </s>
+<s> a   n g b a   ò r ò m ọ d ì y ẹ   l ọ w ọ   i <pad> k ú   o   n i   w ọ n   o   j ẹ   k i   o <pad> h u <pad> n   l ọ   a <pad> t a <pad> n   l ọ j ẹ </s>
+<s> a   l e   l o   ò w e   y i   l a <pad> t i   k i <pad> l ọ   f u <pad> n   ẹ n i   t o   f ẹ   l ọ   s i   ò k è ò k u <pad> n   l ọ n a   k ọ n a   l a i   n i   a <pad> s e   t a <pad> b i </s>
+<s> i <pad> w e   ì r ì n à </s>
+<s> b i   ẹ b i   ọ r ẹ   t a <pad> b i   o <pad> j ú l ù m ọ   t o   m ọ   e <pad> w u   t o   w a   n i <pad> n u   i <pad> g b e <pad> s ẹ   b ẹ   b a   n g b a   i <pad> r ú   ẹ n i   b ẹ   n i <pad> y a <pad> n j u   a </s>
+<s> m a   b i <pad> n u   w i <pad> p e   w ọ n   o   f ẹ   k i   o <pad> h u <pad> n   ṣ o <pad> r i i <pad> r e </s>
+<s> b i   o u <pad> n j ẹ   t i   p ọ   t o   l a <pad> t a <pad> n   f u <pad> n   o <pad> r o <pad> m ọ d i <pad> y ẹ   b ẹ n i   e <pad> w u   p ọ   t o </s>
+<s> b i   ọ n a   a <pad> t i   ṣ o <pad> r i i <pad> r e   t i   p ọ   t o   n i   ò k è ò k u <pad> n   b ẹ n i   e <pad> w u   a <pad> t i   i <pad> b a <pad> n u <pad> j ẹ   p ọ   t o   f u <pad> n   ẹ n i <pad> t i   k o <pad> n i   a ṣ ẹ </s>
+<s> ì r ì n à </s>
+<s> ọ p ọ l ọ p ọ   n k u   s ọ n a   ọ p ọ   s i   n d e   ọ h u <pad> n   l a i   r i   i ṣ ẹ   l a i   r i   i <pad> b i   g b e   t a <pad> b i   l a i   r i <pad> b i   p a <pad> m ọ   s i   f u <pad> n </s>
+<s> ò f i <pad> n </s>
+<s> l a <pad> t i   p a <pad> d a   s i   i <pad> l e   a   d i   i <pad> s o <pad> r o   n í t o <pad> r í   ọ p ọ   n i <pad> n u   w ọ n   t i   t a   i <pad> l e   a <pad> t i   g b o <pad> g b o   o <pad> h u <pad> n   ì n í   l a <pad> t i   l ọ </s>
+<s> a   ṣ e   a <pad> k i <pad> y e <pad> s i   p e   l ẹ h i <pad> n   ì d à p ọ   ọ g ọ r u <pad> n   ọ d ú n   o <pad> r i <pad> l ẹ   è d è   k o   ṣ e   i <pad> k a <pad> n </s>
+<s> y o <pad> r ù b á   n i   a   k ì   í   t ó ó   b á n i   g b é   k á   m á   t ò ó   ọ r ọ ọ   b á n i   s ọ   g ẹ g ẹ b i   ò w e   y i   k i   ṣ e   k i </s>
+<s> k ó   ọ k ẹ   a i <pad> m o <pad> y e   o <pad> w ó   l a <pad> t i   ṣ e   à j ọ y ọ   ì d à p ọ   t i   a <pad> r á   i <pad> l ú   k ò   k ó p a   n i <pad> n u   r ẹ   l ó   ṣ e   p à t à k ì   b i   k ò </s>
+<s> ṣ é   p é   k i   a   t ó   ọ r ọ   b á r a   s ọ </s>
+<s> y o <pad> r ù b á   n i   ọ r ọ   l a   f i   d á   i <pad> l é   a <pad> y é </s>
+<s> ẹ k ọ   p ú p ọ   n i   e <pad> n i a   l è   r i   k ọ   n i   i <pad> r i <pad> n   à j ò </s>
+<s> a   l è   r i <pad> n   i <pad> r i <pad> n   à j ò   f ú n   ì g b à   d í ẹ   t à b i   p í p ẹ   l a <pad> t i   b ẹ   i <pad> l ú   n á à   w ò   t à b i   l a <pad> t i   l ọ   t ẹ d ó   s i </s>
+<s> à j ò </s>
+<s> g b o <pad> g b o   ọ n à   y i   n i   y o <pad> r ù b á   t i   l ọ   l a <pad> t i   d é   ì l ú ọ b a </s>
+<s> à ṣ e <pad> p ọ   l a a <pad> r i <pad> n   a <pad> r á   ì l ú ọ b a   à t i   y o <pad> r ù b á   t i   l è   n i   ọ g ọ r u <pad> n   ọ d ú n   n í t o <pad> r í   e <pad> y i   k ò   s i   i <pad> b i   t i   e <pad> n i a   d é   n i </s>
+<s> ì l ú ọ b a   n i   p à t à k ì   à w ọ n   o <pad> l ú ì l ú   t i   k ò   r i   ẹ n i   t i   ó   ń s ọ   è d è   y o <pad> r ù b á   t à b i   g b é   i <pad> r ú   i <pad> l ú   b ẹ </s>
+<s> a   ṣ e   a <pad> k i <pad> y e <pad> s i   p é   l a <pad> t i   b i   ọ d ú n   m ẹ w a   s ẹ h i <pad> n   à ṣ e <pad> p ọ   l a a <pad> r i <pad> n   ọ m ọ   y o <pad> r ù b á   n i   ì l ú ọ b a   d i <pad> n   k ù </s>
+<s> n i   ì g b à   k a <pad> n   r i   b i   ọ m ọ   y o <pad> r ù b á   b á   r i   a <pad> r a   w ọ n   a   k i   a <pad> r a   w ọ n </s>
+<s> ò w e   y o <pad> r ù b á   n i   i <pad> b i   t i   a   n g b e   l a   n s e   b i   a   b á   d é   ì l ú   a <pad> d ẹ t ẹ   a   d i   ì k ú ù k ù   à w ọ n   ọ n à </s>
+<s> t i   a   l è   f i   ṣ e   i <pad> b i   t i   a   n g b e   k i   k a   ì w é   n í p a   à ṣ à   à t i   i ṣ ẹ   ì l ú   t i   a   n l ọ </s>
+<s> n i <pad> n u   ì w é   t à b i   ṣ e   i <pad> w a <pad> d i   l o <pad> r i   a <pad> y é l u <pad> j á r a   w i <pad> w a   i <pad> b ù g b é   l ọ   s i   i <pad> l é ì j ọ s ì n   ọ j à   ọ k ọ   w i <pad> w ọ   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> ẹ   f i   o <pad> j ú   s ọ n à   f ú n   à l à y é   l o <pad> r i   à w ọ n   ọ n à   t i   e <pad> n i a   l è   l ò   l a <pad> t i   t è t è   f i   i <pad> d i   k a <pad> l ẹ   n i   à j ò </s>
+<s> y o <pad> r ù b á   j ẹ   ẹ y à   t i   ó   w à   n i   ì w ọ o ò r ù n   o <pad> r i <pad> l ẹ   è d è   n à í j í r í à </s>
+<s> b i   y o <pad> r ù b á   t i   f ẹ r à n   i <pad> g b á d ù n   t ó   b ẹ   n i   w ọ n   f ẹ r à n   ò w ò   ṣ i ṣ e   à t i   ẹ k ọ   k i <pad> k ọ </s>
+<s> ọ b a   o <pad> l ó y è   ọ l ọ r ọ   à t i   a <pad> l á ì n í   i <pad> l ẹ   y o <pad> r ù b á   l ó   f ẹ r à n   à t i   r á n   ọ m ọ   w ọ n   l ọ   s i   i <pad> l é i <pad> w é   b i   à w ọ n   f ú n r a   w ọ n </s>
+<s> k ò   t i   ẹ   l ọ   s i   i <pad> l é i <pad> w é </s>
+<s> e <pad> l e <pad> y i   j ẹ   k i   y o <pad> r ù b á   p ọ   k à   k i <pad> r i   à g b á y é   p à t à k ì   n i   à r í w á   n à í j í r í à </s>
+<s> n i <pad> b i   t i   ọ p ọ l ọ p ọ   y o <pad> r ù b á   t i   f ẹ r à n   i <pad> w é k i <pad> k à   n i   ẹ y à   m i <pad> r à n   t i   f i   ẹ s i <pad> n   b o <pad> j ú   l a <pad> t i   ṣ e   à t a <pad> k ò   i <pad> w é   k i <pad> k à   p à t à k ì </s>
+<s> à w ọ n   t i   o   n i   a   ò   f ẹ   i <pad> w é   b o <pad> k o   h a <pad> r a <pad> m </s>
+<s> à w ọ n   t i   ó   n i   à w ọ n   k ò   f ẹ   l ọ   s i   i <pad> l é i <pad> w é   b ẹ r ẹ   s i   p a   ọ m ọ   à w ọ n   t i   ó   f ẹ   l ọ </s>
+<s> w ọ n   k ò   d ú r ó   l ó r i   ọ m ọ   i <pad> l é i <pad> w é   n i <pad> k a <pad> n   w ọ n   ń p a   e <pad> n i a   b i   ẹ n i   p a   ẹ r a <pad> n   n i   ọ j à   o <pad> k o   i <pad> l ú   ọ n à   à t i </s>
+<s> g b o <pad> g b o   i <pad> b i   n i   ọ p ọ l ọ p ọ   i <pad> l ú   n i   ò k è ọ y a   p à t à k ì   n i   i <pad> l ú   b o <pad> r n o </s>
+<s> y o <pad> r ù b á   n i   b i   o <pad> n i <pad> l é   b á   t i   ń f i   à p á r í   i ṣ u   l ọ   à l e <pad> j ò   i <pad> l é   t ó   l ọ </s>
+<s> k i   ṣ e   à p á r í   i ṣ u   n i <pad> k a <pad> n   n i   w ọ n   f i   ń l ọ   à j ò j ì   n i   ò k è ọ y a   i <pad> k ú   ò j i <pad> j i   n i </s>
+<s> à i <pad> n i   i <pad> f ọ k à n   b a <pad> l ẹ   k ò   l è   j ẹ   k i   à j ò   ò   p é </s>
+<s> l a <pad> t i   i <pad> g b à   t i   ẹ n i   t i   ó   s o   i <pad> n á   a <pad> j ó n i <pad> r u <pad> n   m ọ r a   t i   b ẹ r ẹ   s i   p a   e <pad> n i a   b i   ẹ n i   p ẹ r a <pad> n   n i   i <pad> l é </s>
+<s> i <pad> j ọ s i <pad> n   p à t à k ì   t i   o <pad> n í g b à g b ọ   ọ j à   á à a <pad> r í n   i <pad> l ú   a <pad> b ú l é   à t i   i <pad> l é i <pad> w é   n i   à j ò   k ò   t i   p é   m ọ </s>
+<s> ì r ò y ì n   k à n   n i   ọ j ọ   k ẹ d o <pad> g u <pad> n   o ṣ ù   k ẹ r i <pad> n   ọ d ú n   ẹ g b à á l e <pad> m ẹ r ì n l á   p e   w ọ n   t i   t ú n   b ẹ r ẹ   s i   j i   ọ m ọ   i <pad> l é i <pad> w é   g b é </s>
+<s> ó   l é   n i   ọ g ọ r u <pad> n   ọ m ọ   o <pad> b i <pad> n r i <pad> n   t i   w ọ n   f i   i <pad> p á   j i   w ọ n   g b é   m ẹ r ì n l á   n i   ó   r i   à y è   s á </s>
+<s> m ọ   a <pad> j í n i <pad> g b é   l ọ w ọ   ò b i   à w ọ n   t i   ó   k ù   w à   n i <pad> n ú   ì r o <pad> r a </s>
+<s> a   l è   f i   ò w e   y o <pad> r ù b á   t i   ó   n i   ẹ n i   à j ò   ò   p é   k ó   m ú r a   i <pad> l é   g b a   à w ọ n   y o <pad> r ù b á   t i   ó </s>
+<s> w à   n i   ò k è ọ y a   n i   ì y à n j ú   p é   k i   w ọ n   b ẹ r ẹ   s i   m ú r a   i <pad> l é   k i   w ọ n   m a   b a   p à d á n ù   ẹ m i   ó   s à n </s>
+<s> k i   e <pad> n i a   p à d á n ù   o <pad> w ó   j u   ẹ m i   l ọ </s>
+<s> n i   a i <pad> y é   à t i <pad> j ọ   ẹ s i <pad> n   à t i   k ẹ t ẹ k ẹ t ẹ   l ó   d à b i   ọ k ọ   i <pad> g b à l ó d é   t i   w ọ n   ń p è   n i   m ọ t ò </s>
+<s> ẹ n i   t i   ó   j ẹ   ọ l ọ r ọ   l ó   l è   n i   ẹ s i <pad> n   t à b i   k ẹ t ẹ k ẹ t ẹ </s>
+<s> ẹ s ẹ   n i   ọ p ọ l ọ p ọ   f i   ń r i <pad> n   i <pad> r i <pad> n   à j ò </s>
+<s> ì t à n   y i   d á   l ó r i   b à b á   à t i   ọ m ọ   r ẹ   t i   w ọ n   ń s i <pad> n   k ẹ t ẹ k ẹ t ẹ </s>
+<s> w ọ n   m ú r a   l a <pad> t i   r i <pad> n   i <pad> r i <pad> n   à j ò </s>
+<s> g ẹ g ẹ   b i   à ṣ à   y o <pad> r ù b á   l a <pad> t i   b u   ọ w ọ   f ú n   à g b à   b à b á   l ó   g u <pad> n   k ẹ t ẹ k ẹ t ẹ   ọ m ọ   r ẹ   b ẹ r ẹ   s i   r i <pad> n   t ẹ l é   k ẹ t ẹ k ẹ t ẹ </s>
+<s> à w ọ n   e <pad> n i a   t i   o   r i   w ọ n   n i   b à b á   i <pad> w ọ   g u <pad> n   k ẹ t ẹ k ẹ t ẹ   ọ m ọ   ń r i <pad> n   n i   i <pad> l ẹ </s>
+<s> n í t o <pad> r í   ọ r ọ   y i   b à b á   b ọ   s i <pad> l ẹ   ó   g b é   ọ m ọ   r ẹ   g u <pad> n   k ẹ t ẹ k ẹ t ẹ </s>
+<s> à w ọ n   a i <pad> y é   t ú n   r i   w ọ n   n i   b à b á   ń r i <pad> n   n i <pad> l ẹ   ọ m ọ   ń g u <pad> n   k ẹ t ẹ k ẹ t ẹ </s>
+<s> k ẹ t ẹ k ẹ t ẹ   w ọ n   t i   d à g b à   ṣ ù g b ọ n   t o <pad> r i   ẹ n u   a i <pad> y é   b à b á   à t i   ọ m ọ   b á   m ú   k ẹ t ẹ k ẹ t ẹ   g ù n </s>
+<s> w ọ n   k o   t i   r i <pad> n   j i <pad> n à   n í g b à t í   à w ọ n   t i   ó   r i   w ọ n   t ú n   n i   ẹ   w o   b à b á   à t i   ọ m ọ   t ó   f ẹ </s>
+<s> à w ọ n   ọ m ọ   à t i   l a <pad> t i   r á n   ọ m ọ   l ọ   s í   i <pad> l é ì w é   g í g a </s>
+<s> o   y ẹ   k i   ọ m ọ   b ọ w ọ   f ú n   i <pad> r ú   à w ọ n   ò b í   w ọ n y i </s>
+<s> ì y à t ọ   d i ẹ   l ó   w à   l á à a <pad> r í n   a <pad> w ọ n   ẹ r u   i <pad> g b é y à w ó   t i   a   k ọ   s i   o <pad> j ú   i <pad> w é   y i   l a <pad> t i   i <pad> d i <pad> l e   s i   i <pad> d i <pad> l e </s>
+<s> k ò   s i   à y è   à t i   s i <pad> n   a <pad> b o   e <pad> w ú r ẹ   f ú n   a <pad> w ọ n   t i   o   ń g b é   ì l ú   n l a   t à b i   ì l ú   ò y ì n b ó   n í t o <pad> r í   n á à   a </s>
+<s> l è   f i   o <pad> w ó   d i <pad> p ò   f ú n   ì y á   à g b à   n i   a <pad> b ú l é   k i   w ọ n   r a   a <pad> b o   e <pad> w ú r ẹ   l a <pad> t i   s i <pad> n   f ú n   ì y à w ó </s>
+<s> a <pad> w ọ n   ẹ l ẹ s ì n   ì g b à l ó d é   l è   s ọ   w i <pad> p é   a <pad> w ọ n   ò   f ẹ   k i   w ọ n   f i   a <pad> t a a <pad> r e   à t i   o <pad> b ì   ṣ e   à d ú r à   f ú n   ọ k ọ   a <pad> t i </s>
+<s> ì y à w ó </s>
+<s> a   t ú n   ṣ e   a <pad> k i <pad> y e <pad> s i   w i <pad> p é   w ọ n   k i   t ú   à p ó t i   ì y à w ó   m ọ   n í t o <pad> r í   n i   a <pad> y é   à t i <pad> j ọ   w ọ n   y i o   ṣ i   à p ó t i   k i </s>
+<s> g b o <pad> g b o   ẹ b í   r i   a <pad> w ọ n   o <pad> h u <pad> n   ẹ ṣ ọ   t i   ọ k ọ   ì y à w ó   r a   f ú n   ì y à w ó   r ẹ   e <pad> y i   b o   à ṣ í r í   ì n á w ó   l o <pad> r i   a <pad> w ọ n   o <pad> h u <pad> n </s>
+<s> ẹ ṣ ọ </s>
+<s> ẹ b i   t ú n   l è   w o   ṣ e   f ú n   ọ k ọ   ì y à w ó   l a <pad> t i   g b a   i <pad> d a <pad> j i   o <pad> y e   i ṣ u   t à b i   ẹ r ù   l a <pad> t i   b o   n i   à ṣ i <pad> r i </s>
+<s> e <pad> r i <pad> n   j ẹ   ẹ r a <pad> n k o   t i   ọ l ọ r u <pad> n   d a   l ọ l á   p ẹ l u   t i <pad> t o <pad> b i   r ẹ   n i <pad> n u   i <pad> g b o </s>
+<s> y o <pad> r ù b á   n i   k o <pad> r í k o   t i   e <pad> r i <pad> n   b á   t i   t ẹ   à t ẹ g b é   n i   l á y é   o <pad> k o   t i   e <pad> r i <pad> n   b á   w ọ   o <pad> l ó k o   b ẹ   w ọ   i <pad> g b è s è </s>
+<s> t o <pad> r i   i <pad> b a <pad> j ẹ   t i   o   m a   ṣ ẹ l ẹ   s i   i <pad> r ú   o <pad> k o   b ẹ </s>
+<s> g b o <pad> g b o   ẹ r a <pad> n k o   b ọ w ọ   f ú n   e <pad> r i <pad> n   n í t o <pad> r í   k ì n ì ú n   ọ l ọ l à   i <pad> j ù   k ò   l è   p a   e <pad> r i <pad> n </s>
+<s> b i   e <pad> r i <pad> n   t i   t ó b i   t ó   n i   ó   g ọ   t ó </s>
+<s> n i   ọ j ọ   k a <pad> n   g b o <pad> g b o   ẹ r a <pad> n k o   p e   ì p à d é   l a <pad> t i   p a <pad> r i   ì j à   f ú n   k ọ l ọ k ọ l ọ   à t i   k ì n ì ú n </s>
+<s> k ọ l ọ k ọ l ọ   n i   b i   o <pad> h u <pad> n   b a   p a   ẹ r a <pad> n   k ì n ì ú n   a   f i   ò g b ó j ú   g b a   ẹ r a <pad> n   y i   j ẹ </s>
+<s> k à k à   k i   e <pad> r i <pad> n   d a   ẹ j ọ   p ẹ l ú   ò y e   ṣ e   l ó   t ú n   d á   k u <pad> n </s>
+<s> ì h à l ẹ   à t i   ì g b é r a <pad> g a   n i   à w ù j ọ   y i   b i   a <pad> w ọ n   ẹ r a <pad> n k o   y o <pad> k u   n i <pad> n u </s>
+<s> o   b i   k ọ l ọ k ọ l ọ   n i <pad> n u   t o   b ẹ   g ẹ   t i   k ò   l è   f ọ h ù n </s>
+<s> à j à p á   n i <pad> k a <pad> n   l o   d i <pad> d e   l a <pad> t i   f ú n   e <pad> r i <pad> n   n i   è s ì   ọ r ọ   ṣ ù g b ọ n   g b o <pad> g b o   ẹ r a <pad> n k o   y o <pad> k u   b ú   s i   ẹ r í n   n í t o <pad> r í   w ọ n   f i </s>
+<s> o <pad> j ú   d i   à j à p á </s>
+<s> d i <pad> p o   k i   à j à p á   p a <pad> n u <pad> m ọ   ó   p e   e <pad> r i <pad> n   n í j à </s>
+<s> n i   ọ j ọ   ì j à   e <pad> r i <pad> n   k ò   m ú r a   n í t o <pad> r í   ó   m ọ   p é   b i   à j à p á   t i   k é r é   t ó   b i   o <pad> h u <pad> n   b á   g b é   ẹ s ẹ </s>
+<s> l e   ọ r u <pad> n   l è r ọ </s>
+<s> à j à p a   m ọ   p é   o <pad> h u <pad> n   k o   n i   a <pad> g b á r a   n í t o <pad> r í   e <pad> y i   ó   d á   ọ g b ọ n   t i   y i o   f i   b á   e <pad> r i <pad> n   j à   l a i   d i </s>
+<s> è r ò   ọ r u <pad> n </s>
+<s> à j à p á   t i   p è s è   a <pad> g b è   m ẹ t a   p ẹ l u   ì g b ẹ   o <pad> s ù n   à t i   ẹ f u <pad> n   t i   y i o   d à   l é   e <pad> r i <pad> n   l ó r i   l a <pad> t i   d ó j ú   t i </s>
+<s> ó   t ọ j ú   a <pad> w ọ n   a <pad> g b è   y i   s i   o <pad> r i   i <pad> g i   n i <pad> t o <pad> s i   i <pad> b i   t i   w ọ n   t i   f ẹ   j à   ó   m ọ   p é   p ẹ l ú </s>
+<s> i <pad> b i <pad> n u   e <pad> r i <pad> n   á   j à   d é   i <pad> d i   i <pad> b i   t i   y i o   d à   l e   l o <pad> r i </s>
+<s> a <pad> w ọ n   ẹ r a <pad> n k o   p é j ọ   l a <pad> t i   w ò r a <pad> n   i <pad> j à   l á à a <pad> r í n   à j à p á   à t i   e <pad> r i <pad> n </s>
+<s> à j à p á   m ọ   p e   b i   e <pad> r i <pad> n   b á   s u <pad> b ú   k ò   l è   d i <pad> d e   n í g b à t í   t i   i <pad> j à   b ẹ r ẹ   ẹ h i <pad> n   n i   à j à p á   w à   t i   o </s>
+<s> t i   n s ọ   ò k ò   ọ r ọ   s i   e <pad> r i <pad> n   l a <pad> t i   d á   i <pad> n ú   b i </s>
+<s> p ẹ l ú   i <pad> b i <pad> n ú   k i   ó   t ó   y í p a <pad> d à   d é   i <pad> b i   t i   à j à p á   w a   à j à p á   a   t i   k ó s i   l á b ẹ   e <pad> l e <pad> y i   d á   a <pad> w ọ n   ẹ r a <pad> n k o </s>
+<s> l á r a   y á </s>
+<s> y o <pad> r ù b á   n i   b i   ì y à   n l a   b a   g b e <pad> n i   ṣ á n l ẹ   k é k e <pad> r é   á   g o <pad> r í   ẹ n i   n i   i <pad> k ẹ h i <pad> n   à j à p á   b o <pad> r i   e <pad> r i <pad> n   p ẹ l ú   ọ g b ọ n   g b o <pad> g b o </s>
+<s> ẹ r a <pad> n k o   g b é   à j à p á   s ó k è   p ẹ l ú   ì d ù n n ú   g u <pad> n   o <pad> r i   i <pad> b i   t i   e <pad> r i <pad> n   w ó   s i </s>
+<s> ò w e   y o <pad> r ù b á   t i   ó   n i   b i   a <pad> r á   i <pad> l é   ẹ n i   b a   n j ẹ   k ò k ò r ò   b ú b u <pad> r ú   t i   a   ò   s ọ   f u <pad> n   h ẹ r ẹ h u <pad> r u   r ẹ </s>
+<s> k ò   n i   j ẹ   k i   a   s ù n   b á   i ṣ ẹ l ẹ   ọ r ọ   à t i   p è s è   i <pad> n a   m o <pad> n a <pad> m o <pad> n a   y i   m u </s>
+<s> p ẹ l u   g b o <pad> g b o   o <pad> w ó   t i   ó   t i   w ọ l ẹ   l ó r i   à t i   p è s è   i <pad> n a   m o <pad> n a <pad> m o <pad> n a   a <pad> r á   i <pad> l é   ẹ n i   t i   o   ń j ẹ   k ò k ò r ò   b ú b u <pad> r ú </s>
+<s> t i   j ẹ r u <pad> n </s>
+<s> a <pad> r i <pad> w o   y i   p ọ   t o   b ẹ   g ẹ   t i   à t i <pad> s ù n   d i   o <pad> g u <pad> n </s>
+<s> à t i   ọ s á n   à t i   ò r u   n i   a <pad> r i <pad> w o   ẹ r ọ i <pad> n á   k é k è k é   y i   m a   ń d á   s í l ẹ   ṣ ù g b ọ n   è y í   t ó   b u <pad> r ú   j ù   n i   h e <pad> r e <pad> h u <pad> r u   t i </s>
+<s> ò r u </s>
+<s> k i   ṣ e   o <pad> m i   e <pad> p o <pad> r ọ b i   è é d ú   n i <pad> k a <pad> n   n i   a   f i   l è   ṣ e   è t ò   i <pad> n a   m o <pad> n a <pad> m o <pad> n a </s>
+<s> a   l è   f i   o ò r ù n   a <pad> t ẹ g ù n   à t i   p à n t í   t i   ó   p ọ   n i   o <pad> r í l ẹ   è d è   w a   n i   ẹ k ú n r ẹ r ẹ   p è s è   i <pad> n á   m o <pad> n a </s>
+<s> ì l ú   t i   k ò   n i   o ò r ù n   t ó   i <pad> l ẹ   a <pad> l á w ọ d ú d ú   ń f i   o ò r ù n   p è s è   i <pad> n á   m o <pad> n a <pad> m o <pad> n a </s>
+<s> o <pad> h u <pad> n   ì t ì j ú   n i   p é   f ú n   b i   ọ g b ọ n   ọ d ú n   ó   l é   d í ẹ   à w ọ n   ò ṣ è l ú   à t i   a <pad> r á   ì l u   k ò   r i   a <pad> r á   i <pad> l é </s>
+<s> o <pad> k e   o <pad> k u <pad> n </s>
+<s> b i   i <pad> r u   ẹ n i   b ẹ   ṣ e   n p e   s i   l ò k è ò k u <pad> n   b ẹ n i   ì t ì j ú   a <pad> t i   p a <pad> d a   s i <pad> l e   s e   n p ọ   s i </s>
+<s> a   l e   k a   s i   o u <pad> n j ẹ   o <pad> s a <pad> n </s>
+<s> ọ j ọ   g b o <pad> g b o   n i   t i   o <pad> l è   ọ j ọ   k a <pad> n   n i   t o <pad> l ó h u <pad> n </s>
+<s> n í   ọ j ọ   ẹ t i   ọ j ọ   k e <pad> j i   l e <pad> l o <pad> g u <pad> n   o ṣ u   k e <pad> j i   ọ d ú n   y i   ẹ r ọ   a <pad> m ó h ù n   m á w ò r á n   i <pad> l u ọ b a   t u   a <pad> s i <pad> r i   ọ m ọ k ù n r i <pad> n   k a <pad> n   t i   o </s>
+<s> n i   i <pad> w e   i <pad> j ẹ r i   i <pad> r i <pad> n a   ọ m ọ   n a i <pad> j e <pad> r i a   n i   o <pad> r u <pad> k o   ọ t ọ t ọ   m ẹ t a   t i   o   f i   n l u   ì j ọ b a   n í   j ì b ì t ì   g b a   i <pad> r a <pad> n l ọ w ọ   t i </s>
+<s> k o   t ọ   s i </s>
+<s> o   t i   g b a   o <pad> w ó   r ẹ p ẹ t ẹ   k i   w ọ n   t o   r i   m u </s>
+<s> n i   ì l ú   ọ b a   ì j ọ b a   p e <pad> s e   i <pad> l é   f ú n   a <pad> w ọ n   a <pad> b i <pad> r ù n   a <pad> t i   a <pad> l á ì n í   t i   o   j ẹ   ọ m ọ   o <pad> n i <pad> l u   a <pad> t i   i <pad> r a <pad> n l ọ w ọ   m i <pad> r a <pad> n   l a <pad> t i </s>
+<s> m u   a <pad> y é   d ẹ r ù n   f ú n   w ọ n </s>
+<s> à w ọ n   à j ò j ì   t i   o   f i   è r ú   a <pad> t i   i <pad> r ọ   g b a   à w ọ n   i <pad> r a <pad> n l ọ w ọ   y i   w ọ n   a   d ẹ   t ú n   f i   m a   y a <pad> n g a <pad> n   t i <pad> t i </s>
+<s> ọ j ọ   t i   o <pad> l ó h u <pad> n   y i o   f i   m u <pad> w ọ n </s>
+<s> i <pad> r ú   i <pad> w a   b u <pad> r ú k ú   b i   k a   f i   è r ú   g b a   o <pad> h u <pad> n   t i   k o   t ọ   w ọ n y i   m b a   o <pad> r ú k ọ   j ẹ </s>
+<s> ẹ   j ẹ   k i   a   f i   o <pad> w é   y o <pad> r ù b á   t o   w i <pad> p e   ọ j ọ   g b o <pad> g b o   n i   t o <pad> l è   ọ j ọ   k a <pad> n   n i   t o <pad> l ó h u <pad> n   s e   i <pad> k i <pad> l o   f u <pad> n </s>
+<s> i <pad> r u   a <pad> w ọ n   o <pad> n í j ì b ì t ì   b ẹ   e <pad> r e   j i <pad> b i <pad> t i   n í t o <pad> r í   b i   o   t i   w u   k o   p ẹ   t o   ọ j ọ   k a <pad> n   ọ w ọ   ò f i <pad> n   a   b a </s>
+<s> i <pad> r u   à w ọ n   b ẹ </s>
+<s> n í g b à t í   w ọ n   b a   r i   w ọ n   m u   w ọ n   a   k o   ì t ì j ú   b a   o <pad> r ú k ọ   i <pad> d i <pad> l e   a <pad> t i   ì l ú   w ọ n </s>
+<s> ì r ò y ì n   i <pad> k ú   o <pad> l ó ò g b é   c h i <pad> n u a   a <pad> c h e <pad> b e   ò g ú n n á   g b o <pad> n g b o   n i <pad> n u   o <pad> l u <pad> k ọ w e   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   à t i   à g b á y é   k à n   n i   ọ j ọ   ẹ t ì   ọ j ọ   k e <pad> j ì </s>
+<s> l é l ó g ú n   o ṣ u   k ẹ t a   ọ d ú n   ẹ g b ẹ r ú n   m é j ì   l e   m ẹ t à l á </s>
+<s> ọ m ọ   ọ d ú n   m é j ì   l e   l ọ g ọ r i <pad> n   n i   o <pad> l ó ò g b é   c h i <pad> n u a   a <pad> c h e <pad> b e   n í g b à   t i   o   p a   i <pad> p ò d à </s>
+<s> ì k a <pad> n   n í n ú   ì w é   t i   o <pad> l ó ò g b é   c h i <pad> n u a   a <pad> c h e <pad> b e   k ọ   n k a <pad> n   t ú k á   d i   k í k à   f ú n   à w ọ n   ọ m ọ   i <pad> l é ì w é   l a <pad> t i   i <pad> l ẹ   è n ì à   d ú d ú </s>
+<s> t í t í   d é   ò k è ò k u <pad> n </s>
+<s> t í t í   d i   à s ì k ò   y i   ì w é   n a   n g b a <pad> y i   s i   n i   n í t o <pad> r í   w ọ n   t i   t ú m ọ   ì w é   y i   s í   è d è   o <pad> r i ṣ i <pad> r i ṣ i </s>
+<s> à d á n ù   n l a   n i   i <pad> k ú   o <pad> l ó ò g b é   c h i <pad> n u a   a <pad> c h e <pad> b e   j ẹ   f ú n   n a i <pad> j e <pad> r i a   ì l ú   a <pad> l á w ọ   d ú d ú   à t i   g b o <pad> g b o   o <pad> l ù k ọ w é   l a <pad> g b a <pad> y e </s>
+<s> o <pad> l ó r í   ò ṣ è l ú   v e <pad> n e <pad> z u e <pad> l a   h u <pad> g o   c h a <pad> v e <pad> z   p a   i <pad> p ò   d à   n í   ọ j ọ   ì ṣ ẹ g u <pad> n   ọ j ọ   k a <pad> r u <pad> n   o ṣ ù   k ẹ t a   ọ d ú n   ẹ g b ẹ r ú n   m é j ì   l é m ẹ t à l á </s>
+<s> n í g b à   a <pad> y é   o <pad> l o <pad> g b e   y i   ó   f a   à r í y à n j i <pad> y à n   b í   ó   t i   f ẹ r à n   à w ọ n   ì l ú   k a <pad> n   b ẹ   l o   k o <pad> r i <pad> r a   à w ọ n   ì l ú   m í r à n </s>
+<s> l a <pad> t i   ì g b à   t í   ì r ò y ì n   i <pad> k ú   r ẹ   t i   k a <pad> n   b í   ọ p ọ l ọ p ọ   n i   g b o <pad> g b o   à g b á y é   t i   n s ọ f ọ   b ẹ n i   à w ọ n   k a <pad> n   n f i   à i <pad> b ì k í t à </s>
+<s> h a <pad> n </s>
+<s> e <pad> l e <pad> y i   f i <pad> h a <pad> n   w í p é   o <pad> h u <pad> n   t í   ó   k ọ j u   s í   ẹ n ì k a <pad> n   l ó   k ẹ h ì n   s í   ẹ l ò m í r a <pad> n </s>
+<s> ì d á b ẹ   j ẹ   ì k a <pad> n   n í n ú   à ṣ à   y o <pad> r ù b á   t í   ó l ò d ì   s i   ẹ t ọ   à w ọ n   o <pad> b ì n r i <pad> n </s>
+<s> g ẹ g ẹ b í   ì t à n   ì d á b ẹ   y o <pad> r ù b á   n d a <pad> b ẹ   f ú n   o <pad> b n r i <pad> n   n í   à t i   ì k ó k ó   t í t í   d é   ọ m ọ   ọ d ú n   k a <pad> n   n w ọ n   n í   ì g b à g b ọ   w i <pad> p e </s>
+<s> y i o   d a   ì ṣ e <pad> k ú ṣ e   d ú r ó   l á r a   o <pad> b ì n r i <pad> n </s>
+<s> t i í t í   ò d e   ò n í   à ṣ à   y o <pad> r ù b á   ṣ ì   n f i   ì y à t ọ   s í   à á r í n   o <pad> b ì n r i <pad> n   a <pad> t i   ọ k ù n r i <pad> n   n í   t í t ọ   à t i   n í   à w ù j ọ </s>
+<s> g ẹ g ẹ b í   o <pad> l ó k ì k í   o <pad> l ó r i <pad> n   j ù j ú   e <pad> b e <pad> n e <pad> z e <pad> r   o <pad> b e <pad> y   t i   k ọ   l ó r i <pad> n   à w a   ọ k ù n r i <pad> n   l e   l á y a   m ẹ f à   k ò   b u <pad> r ú   ọ k ù n r i <pad> n   k a <pad> n   ṣ o ṣ o   l ọ b a </s>
+<s> o <pad> l ú w a   m i   y à n   f ú n   o <pad> b ì n r i <pad> n </s>
+<s> w ọ n   ṣ e   à l à y é   à l é b ù   t í   à ṣ à   b u <pad> r ú k ú   y i   j ẹ   f ú n   à w ọ n   o <pad> b ì n r i <pad> n   t í   w ọ n   b á   d á b ẹ   f ú n   a <pad> r a   à l é b ù   b i </s>
+<s> ọ m ọ   l è   k ú   i <pad> k ú   ẹ j ẹ   d í d à   ì ṣ ò r o   t í   i <pad> r ú   ẹ n i   b ẹ   b á   f ẹ   t ọ   ì s ò r o   n í   ì g b à   ì b í m ọ   à t i   b ẹ b ẹ </s>
+<s> l ọ </s>
+<s> ì j ọ b a   t i   p è s è   o <pad> w ó   p ú p ọ   l a <pad> t i   f i   ò p i <pad> n   s í   à ṣ à   ì d á b ẹ   n í   ì l ú ọ b a </s>
+<s> b í   a   t i   n ṣ e   à j ọ d ú n   ọ j ọ   á w ọ n   o <pad> b ì n r i <pad> n   l a <pad> g b a a <pad> y e   o ṣ e   p à t à k ì   k í   y o <pad> r ù b á   n í   i <pad> l é   à t i   n í   à j ò   d i   à ṣ à </s>
+<s> t í   ó   b ù k ú n   à w ọ n   ọ m ọ   m ú   k í   a   s ì   j u   à ṣ à   t í   ó   m ú   ì p a <pad> l á r a   d á n í   d à n ù </s>
+<s> ẹ k ọ   á t i   à b ó j ú t ó   l a <pad> t i   ọ d ọ   ò b í   l ó   l è   d á   ì ṣ e <pad> k ú ṣ e   d ú r ó   k i   ṣ e   ì d á b ẹ </s>
+<s> y o <pad> r ù b á   n ί   b ί   a   b á   r á n n i   n ί   i ṣ ẹ   ẹ r ú   a   f i   t ọ m ọ   j ẹ </s>
+<s> e <pad> l e <pad> y i   f i   ì w à   ì k à   ọ m ọ   e <pad> n i a   s ί   ọ m ọ   e <pad> n i a   h a <pad> n </s>
+<s> ọ l ọ p a   s o u <pad> t h   a <pad> f r i <pad> c a   ṣ i   à ṣ ẹ   t i   w ọ n   n ί   l ὸ   w ọ n   r á n   w ọ n   n i ṣ e   ẹ r ú   w ọ n   o   f i   t ọ m ọ   j ẹ </s>
+<s> b í   a   t i   n ṣ e   n í   i <pad> l é   w a   e <pad> w ọ   i <pad> b ò m í ì </s>
+<s> a   k ì   d à g b à   j ẹ   ò j ó </s>
+<s> ò j ó   d à d a   à ì n á   t á í w ò   k ẹ h i <pad> n d e   a <pad> t i   b e <pad> b e   l o   j e   o <pad> r ú k ọ   a <pad> m u   t ọ r u <pad> n   w a </s>
+<s> p í p a   o <pad> r ú k ọ   i <pad> l é ì w é   g í g a   n i   a <pad> k o <pad> k a   i <pad> l u   è k ó   d a   l ẹ h i <pad> n   a a <pad> d ọ t a   ọ d ú n   d à b í   ì g b à   t i   a   s ọ   a <pad> r ú g b ó   l o <pad> r u <pad> k ọ   à m ú </s>
+<s> ó   f i   a <pad> p ẹ r ẹ   o <pad> n í g b à g b ọ   r e <pad> r e   h a <pad> n   n í t o <pad> r í   ó   d a <pad> r i <pad> j i   à w ọ n   t i   ó   f i   ì y à   j ẹ   o <pad> h u <pad> n   à t i   à w ọ n   e <pad> n i a   r ẹ </s>
+<s> t o <pad> r i   k i   i <pad> l ú   r ẹ   l è   t ò r ò </s>
+<s> ẹ y ẹ   b i   ọ k í n   ṣ ọ w ọ n   k ò   d u   l a <pad> t i   k ú   s i   o <pad> r i   i <pad> p ò   l ẹ h i <pad> n   ọ d ú n   m a <pad> r u <pad> n   ó   g b é   i <pad> p ò   s í l ẹ   k i   ẹ l ò m í r à n </s>
+<s> l è   b ọ   s i </s>
+<s> ọ m ọ   ọ d ú n   m a <pad> r u <pad> n d i <pad> n l ọ g ọ r u <pad> n   n i   k i   ó   t ó   p a   i <pad> p ò   d à   b i   o   t i   ẹ   j ẹ   p é   n e <pad> l s o <pad> n   m a <pad> n d e <pad> l e   t i   d i </s>
+<s> a <pad> r ú g b ó   g b o <pad> g b o   à g b á y é   ò   f ẹ   k i   ó   k ú   n í t o <pad> r í   ẹ y ẹ   b i   ọ k í n   r ẹ   ṣ ọ w ọ n </s>
+<s> b i   à w ọ n   ò ṣ è l ú   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   y o <pad> k u   b a   l e   k ọ g b ọ n   l á r a   ì g b à   à t i   i <pad> k ú   n e <pad> l s o <pad> n   m a <pad> n d e <pad> l a   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   á </s>
+<s> d á r a </s>
+<s> g b o <pad> g b o   à g b á y é   ṣ è   d á r ò   m a <pad> d i <pad> b a   n e <pad> l s o <pad> n   m a <pad> n d e <pad> l a </s>
+<s> g b o <pad> g b o   ọ m ọ   y o <pad> r ù b á   n i   ó   d ì g b à   ó   d ì g b ó ṣ e   ó   d à r ì n à k ò   ó   d o <pad> j ú   à l á   k á   t ó   t ú n   r í r a </s>
+<s> o   b i   ọ m ọ   m ẹ t a   t i   w ọ n   j ọ   n g b e   n í t o <pad> r í   ì y à w ó   r ẹ   t i   k ú </s>
+<s> b i   b à b á   y i   b á   f ẹ   l a   i <pad> j a   y i o   s ọ   p é   ẹ   m á   j à   a   ò   m ọ   o <pad> h u <pad> n   t i   ọ l ọ r u <pad> n   f i </s>
+<s> o <pad> h u <pad> n   t i   ẹ   ń j à   l é   l o <pad> r i   ṣ e   n í t o <pad> r í   n á à   b i   e <pad> y i   o   ṣ e   o <pad> m i <pad> r a <pad> n   y i o   ṣ e </s>
+<s> n i   ọ j ọ   k a <pad> n   ọ m ọ   k ú   f ú n   o <pad> b i <pad> n r i <pad> n   o <pad> l ù b á g b é l é   b à b á   b e <pad> y i o ṣ e </s>
+<s> b à b á   t ú n   d é   ọ d ọ   o <pad> b i <pad> n r i <pad> n   y i   l a <pad> t i   t u   n i <pad> n u   o   s ọ   f ú n   p e   b i   e <pad> y i   o   ṣ e   o <pad> m i <pad> r a <pad> n   y i o   ṣ e </s>
+<s> ẹ   p ẹ l ẹ   a   o   m ọ   o <pad> h u <pad> n   t i   ọ l ọ r u <pad> n   f i   ṣ e </s>
+<s> ọ r ọ   ì t ù n ú   y i   b i   ẹ n i <pad> t i   o   ṣ e   ọ f ọ   ọ m ọ   t i   ó   k ú   n i <pad> n u   t ó   b ẹ   g ẹ   t i   o   f i   g b è r ò </s>
+<s> p e   o <pad> h u <pad> n   y i o   d á n   ì g b à g b ọ   b à b á   b e <pad> y i o ṣ e   w o   n í p a   w i <pad> w o   o <pad> h u <pad> n   t i   y i o   ṣ e   t i   ọ m ọ   t i   r ẹ   n á à   b á </s>
+<s> k ú </s>
+<s> n i   ò w ú r ọ   ọ j ọ   k a <pad> n   b à b á   b e <pad> y i o ṣ e   s ọ   f ú n   à w ọ n   ọ m ọ   r ẹ   p é   o <pad> h u <pad> n   f ẹ   j i   d é   i <pad> b i <pad> k a <pad> n </s>
+<s> ó   ṣ e   è t ò   p é   k i   w ọ n   m u   ò g ì   à t i   à k à r à   n i   ò w ú r ọ   ọ j ọ   n a </s>
+<s> à w ọ n   ọ m ọ   j i   w ọ n   l ọ   s i   à r ò   w ọ n   p o   ò g ì   l a i   m ọ   p e   o <pad> b i <pad> n r i <pad> n   t i   ọ m ọ   r ẹ   k u   t i   b u </s>
+<s> m á j è l é   s i   ò g ì   y i </s>
+<s> à w ọ n   ọ m ọ   g b é   ò g ì   w ọ l é   ṣ ù g b ọ n   w ọ n   d ú r ó   d e   i <pad> k a <pad> n   n i <pad> n u   w ọ n   t i   ó   l ọ   r a   à k à r à </s>
+<s> n í g b à t í   ẹ n i   t i   ó   l ọ   r a   à k à r à   d e   ẹ g b ọ n   à g b à   p i <pad> n   à k à r à   ṣ ù g b ọ n   i <pad> j a   b ẹ   s i <pad> l ẹ   n í t o <pad> r í   ẹ n i   t i   o </s>
+<s> p i <pad> n   à k à r à   k o   p i <pad> n   d a <pad> r a <pad> d a <pad> r a </s>
+<s> n i <pad> b i   t i   w ọ n   t i   ń j a   ò g ì   t i   o   j ẹ   o u <pad> n j ẹ   à á r ọ   à w ọ n   ọ m ọ   b à b á   b e <pad> y i o ṣ e   d à n ù </s>
+<s> o <pad> r i   i <pad> g b e   ò g ì   t i   ó   d à n ù   n i   à w ọ n   ọ m ọ   w a   n í g b à t í   b à b á   b e <pad> y i o ṣ e   w ọ l é </s>
+<s> g ẹ g ẹ   b i   i ṣ e   r ẹ   ó   s ọ   f ú n   à w ọ n   ọ m ọ   p é   ẹ   m á   j à   b i   e <pad> y i   o   ṣ e   o <pad> m i <pad> r a <pad> n   y i o   ṣ e </s>
+<s> o <pad> b i <pad> n r i <pad> n   t i   o   f i   m á j è l é   s i   ò g ì   t i   o   r e <pad> t i   k i   à w ọ n   ọ m ọ   b à b á   b e <pad> y i o ṣ e   ó   k ú   b a   j a <pad> d e   n í g b à t í </s>
+<s> ó   g b ọ   o <pad> h u <pad> n   t i   o   s ọ   l a <pad> t i   t u   à w ọ n   ọ m ọ   r ẹ   n i <pad> n u </s>
+<s> ó   j ẹ w ọ   p e   n i <pad> t o <pad> t ọ   o <pad> n í g b à g b ọ   n i   b à b á   b e <pad> y i o ṣ e   n í t o <pad> r í   o <pad> h u <pad> n   t i   o <pad> h u <pad> n   ṣ e   ó   w á   t ọ r ọ   i <pad> d a <pad> r i <pad> j i </s>
+<s> b à b á   b e <pad> y i o ṣ e   d a <pad> r i <pad> j i   ó   f ú n   à w ọ n   ọ m ọ   l ó w ó   l a <pad> t i   r a   o u <pad> n j ẹ   m i <pad> r a <pad> n </s>
+<s> ọ g á   n i <pad> n u   o <pad> l ó r i <pad> n   f ẹ l á   a <pad> n i <pad> k u <pad> l a <pad> p o <pad> k u <pad> t i   k ọ r i <pad> n   p é   ọ j ọ   w o   l a   m a   b ọ   o   l ó k o   ẹ r ú   o <pad> r i <pad> n   y i   f a   ì b è r è   w í p é </s>
+<s> ọ j ọ   w o   l a   m a   b ọ   n i <pad> n u   ò k ù n k ù n   n i   o <pad> r í l ẹ   è d è   n à í j í r í à </s>
+<s> b i   e <pad> r é   b i   à w à d à   d á k ú d á j í   i <pad> n á   m ọ n à m ọ n á   b ẹ r ẹ   n i   à s i <pad> k ò   ì j ọ b a   s a <pad> g a <pad> r i   n i   b i   ọ d ú n   m ẹ t à l é l ọ g b ọ n   s ẹ h i <pad> n </s>
+<s> n i   à s i <pad> k ò   y i   k i   ṣ e   p e   i <pad> n á   t i   i <pad> l ú   p è s è   k ò   t ó   ṣ ù g b ọ n   a   ṣ e   a <pad> k i <pad> y e <pad> s i   p é   a <pad> w ọ n   ò ṣ ì ṣ ẹ   n i </s>
+<s> à s i <pad> k ò   n a   l ọ   ń y ọ   n k a <pad> n   l á r a   à p ó t i   i <pad> n á   n í t o <pad> r í   e <pad> y i   k i   ṣ e   g b o <pad> g b o   à d ú g b ò   n i   k i   n i   i <pad> n á </s>
+<s> f ú n   a <pad> k i <pad> y e <pad> s i   i <pad> n á   i <pad> l é i <pad> w é   g i <pad> g a   à t i   a <pad> g b è g b è   r ẹ   a <pad> w ọ n   i <pad> l é   i ṣ ẹ   b i   ì l è ṣ ẹ   ọ k ọ   ò f ú r u <pad> f ú   i <pad> l é   ì w ò s à n   à t i   b ẹ b ẹ   l ọ </s>
+<s> k i   l ọ </s>
+<s> b i   e <pad> n i <pad> y a <pad> n   b a   y ọ   i <pad> l ẹ   d à   o <pad> h u <pad> n   b u <pad> r ú k ú   a   m a   y ọ n i   ṣ e   n í g b à t í   a <pad> w ọ n   ò ṣ ì ṣ ẹ   o <pad> n í ṣ ẹ   i <pad> b i   k ò   r i   ẹ n i </s>
+<s> p ẹ l u   g b o <pad> g b o   o <pad> w ó   t i   w ọ n   t i   n a   l a <pad> t i   t ú   ọ r ọ   i <pad> n á   m ọ n à m ọ n á   ṣ e   ó   b u <pad> r ú   s i   l a i   y a   i <pad> l é i ṣ ẹ   à t i </s>
+<s> i <pad> b i   k a <pad> n k a <pad> n   s í l ẹ   n i <pad> n u   ò k ù n k ù n </s>
+<s> y o <pad> r ù b á   n i   o <pad> h u <pad> n   t ó   y ẹ   n i   l o   y ẹ   n i   ò k ù n k ù n   o   y ẹ   ọ m ọ   e <pad> n i <pad> y a <pad> n   n í t o <pad> r í   ò k ù n k ù n   t i   i <pad> l é i ṣ ẹ   m ọ n à m ọ n á   f a </s>
+<s> f ú n   a <pad> r á   i <pad> l ú   ọ p ọ l ọ p ọ   i <pad> l é i ṣ ẹ   t i   k ò   k ú r ò   n i   n à í j í r í à   e <pad> l e <pad> y i   d i <pad> n   ì p è s è   i ṣ ẹ   k ù   k ò   s i   i <pad> n á   l a <pad> t i   t ọ j ú </s>
+<s> o u <pad> n j ẹ   e <pad> l e <pad> y i   j ẹ   k i   o u <pad> n j ẹ   w ọ n   s i   ì n á w ó   l o <pad> r i   ẹ r ọ   i <pad> n á   m ọ n à m ọ n á   p ẹ l ú   a <pad> r i <pad> w o   k i   j ẹ   k i   e <pad> n i <pad> y a <pad> n   s ù n   b ẹ n i </s>
+<s> k ò   j ẹ   k i   e <pad> n i <pad> y a <pad> n   t a <pad> b i   i <pad> l é i ṣ ẹ   f i   o <pad> w ó   p a <pad> m ọ </s>
+<s> o <pad> r ú k ọ   ẹ y à   a <pad> r a   ṣ e   p à t à k ì   l a <pad> t i   m ọ   n í p a   k í k ọ   è d è   n í t o <pad> r í   ó   m a   n w à   n í n ú   ọ r ọ </s>
+<s> m í   m ọ   a <pad> w ọ n   o <pad> r ú k ọ   w ọ n y i   á   t ú n   j ẹ   k i   è d è   y o <pad> r ù b á   y é   à w ọ n   t i   ó   n i   ì f ẹ   l a <pad> t i   k ọ   è d è </s>
+<s> a   l é r ò   w í p é   à w ò r á n   à t i   p í p è   t í   ó   w à   n i   a <pad> b a <pad> l a   à w ọ n   o <pad> j ú   ì w é   w ọ n y i   y i o   w ú l ò </s>
+<s> ọ m ù t í   g b à g b é   ì ṣ ẹ   f ú n   ì g b a ì   d i ẹ   n i   n í t o <pad> r í   b í   ọ m ù t í   b á   j í   t á n   ì ṣ ẹ   r ẹ   k ò   t á n </s>
+<s> b í   ì j ọ b a   ẹ b í   à t i   a <pad> r á   t i   ṣ e   ì k ì l ọ   t ó   n í p a   ọ t í   à m u <pad> n p a <pad> r a   b i   o   t i   n g b a   e <pad> t í   ọ t u <pad> n   w ọ l é   l o </s>
+<s> ì r ò n ú   p ẹ l ú   n k a <pad> n   t i   ó   n f a   ọ t í   à m u <pad> n   j ù   ṣ ù g b ọ n   ọ t í   k ò   l è   p a   ì r ò n ú   r ẹ   à f i   k i   ó   d á </s>
+<s> k u <pad> n   n í t o <pad> r í   b i   ọ t í   b á   d á   l ó j ú   ọ m ù t í   ì r ò n ú   á   p a <pad> d à </s>
+<s> o <pad> h u <pad> n   g b o <pad> g b o   n í w ọ n t ú n w ọ n s ì n   ọ t í   à m u <pad> n p a <pad> r a   k ò   y ẹ   ọ m ọ   è n ì à </s>
+<s> ẹ   b á   w a   g b é   ọ r ọ   y i   y ẹ w ò </s>
+<s> à w ọ n   i <pad> l é   ì d á j ọ   à g b à   n i   ì l ú   a <pad> m e <pad> r i <pad> k a   ṣ e   ì d á j ọ   w í p é   ì g b é y à w ó   k o   d i   d a <pad> n d a <pad> n   k ó   j ẹ   l a a <pad> r i <pad> n   ọ k ù n r i <pad> n   à t i   o <pad> b i <pad> n r i <pad> n </s>
+<s> b i   w ọ n   t i   s a <pad> l a i <pad> y e   o <pad> r o   n a   s i   w ọ n   n i   k ò   d á r a   k i   à w ọ n   a ṣ ò f i <pad> n   t i   a   m ọ   s i   c o <pad> n g r e <pad> s s   s ọ </s>
+<s> w í p é   ì g b é y à w ó   l a <pad> t i   j ẹ   l a a <pad> r i <pad> n   ọ k ù n r i <pad> n   à t i   o <pad> b ì n r i <pad> n   n i   k a <pad> n   ṣ o ṣ o </s>
+<s> à k í y è s í   t i   w ọ n   ṣ e   n i   w í p é   ì d í   t i   à w ọ n   a ṣ ò f i <pad> n   ṣ e   s ọ   b ẹ ẹ   n i   p é   w ọ n   o   f ẹ r à n   à w ọ n   t i </s>
+<s> o   n ṣ e   ì g b é y à w ó   ọ k ù n r i <pad> n   s i   ọ k ù n r i <pad> n   t a <pad> b i   o <pad> b ì n r i <pad> n   s i   o <pad> b ì n r i <pad> n </s>
+<s> ẹ   j ẹ   k i   a   y ẹ   ọ r ọ   y i   w o   b ó   y á   a   f ẹ r à n   ẹ   t à b i   a   o   f ẹ r à n   ẹ   ṣ e   à ṣ à </s>
+<s> à d á y é b á   y o <pad> r ù b á   k a <pad> n k a <pad> n   w a   b i   ò w e   t à b í   n k a <pad> n   b ẹ ẹ   t i   ó   s ọ   ì d í   t i   a   ṣ e   n   f u <pad> n   à w ọ n   t i </s>
+<s> ó   b á   ṣ e   ì g b é y à w ó   n i   ọ p ọ l ọ p ọ   ẹ t ọ   t i   a   n   f u <pad> n   w ọ n </s>
+<s> ẹ   j ọ w ọ   ẹ y i <pad> n   a <pad> r á   y o <pad> r ù b á   b l o <pad> g   ẹ   b á   w a   d a   s i </s>
+<s> ẹ   s ọ   ì d í   t i   a ṣ e   n   f u <pad> n   à w ọ n   t i   ó   b á   ṣ e   ì g b é y à w ó   n i   o <pad> r i ṣ i <pad> r i ṣ i   ẹ t ọ   ẹ b ù n   l ọ j ọ   ì g b é y à w ó   à t i </s>
+<s> à y ẹ s í   f ú n   à w ọ n   t ó   b á   w à   n i   i <pad> l é   ọ k ọ </s>
+<s> ì d á j ọ   y i   ṣ e   p à t à k ì   b i   o   t i   ẹ   j ẹ   w í p é   a <pad> m e <pad> r i <pad> k a   l o   y i   ò f i <pad> n   p a <pad> d à   p e   ì g b é y à w ó   k i   ṣ e   l a a <pad> r i <pad> n </s>
+<s> ọ k ù n r i <pad> n   à t i   o <pad> b ì n r i <pad> n   m ọ   l ọ j ọ   ò n í   n i   ọ j ọ   k a <pad> n   y o <pad> r ù b á   o <pad> r í l ẹ   è d è   n à í j í r í à   à t i   g b o <pad> g b o   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   y i o   ṣ e </s>
+<s> i <pad> p i <pad> n u   ọ r ọ   y i </s>
+<s> à ì n í   ì t ẹ l ọ r ù n   l ó   b í   g b o <pad> g b o   ì w à   b u <pad> r ú k ú   b i   i <pad> r ọ   p í p a   o <pad> l è   j í j à   à g b è r è   o <pad> j ú k ò k ò r ò   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> ọ p ọ l ọ p ọ   ò ṣ è l ú   i <pad> l ẹ   n à í j í r í à   á   f i   ọ n à   ẹ r ú   w á   i <pad> p ò   n í t o <pad> r í   à t i   k ó   o <pad> w ó   ì l ú   j ẹ   w ọ n   k i   w ú l ò   f ú n </s>
+<s> ì l ú   ṣ ù g b ọ n   f ú n   a <pad> r a   w ọ n </s>
+<s> i <pad> l ú   á   d á r a   s i   t i   à w ọ n   è n i a   b á   l è   m ú   ò w e   y o <pad> r ù b á   t í   ó   w í p é   ì t ẹ l ọ r ù n   n i   b a <pad> b a   ì w à   y í </s>
+<s> l ò </s>
+<s> l ẹ h i <pad> n   ọ d ú n   m ẹ r i <pad> n d i <pad> n l ọ g b ọ n   w a   r í   f ú n   ì ṣ e <pad> k ú ṣ e   s i   à w ọ n   o <pad> b ì n r i <pad> n   k é k è k é   f ú n   o <pad> g ú n   ọ d ú n   ó   l é </s>
+<s> ì w à   b u <pad> r ú k ú   k ò   m ọ   à g b à   t à b í   à w ọ   n í t o <pad> r í   n á à   o   y ẹ   k a   k í y è s á r a   p à t à k ì   à w ọ n   ò b í </s>
+<s> y o <pad> r ù b á   n i   w ọ n   m ú   o <pad> l è   l ẹ k a <pad> n   ó   n i   ò h u <pad> n   ò   w á   r í   t a <pad> n i   f i   ọ n à   h a <pad> n   o <pad> l è </s>
+<s> n í g b à t í   w ọ n   k ọ k ọ   f i   ẹ s ù n   ẹ ṣ ẹ   y i   k a <pad> n   s t u a <pad> r t   h a <pad> l l   ó   n i   k ò   s i   n k a <pad> n   t ó   j ọ   b ẹ ẹ   ṣ ù g b ọ n   p ẹ l ú </s>
+<s> à t i <pad> l ẹ h i <pad> n   ò f i <pad> n   f ú n   à w ọ n   ọ m ọ   o <pad> b ì n r i <pad> n   m ẹ t a <pad> l a   y i   p é   k ò   s i   ẹ n i   t ó   k ọ j á   ò f i <pad> n   ó   j ẹ w ọ   n i   i <pad> l é ẹ j ọ </s>
+<s> a <pad> j á   à w ọ n   o <pad> b ì n r i <pad> n   m ẹ t a <pad> l a   y i   l ẹ n i   l ẹ h i <pad> n   n í t o <pad> r í   l a i   s i   ì j ọ b a   ọ l ọ p a   à t i   à w ọ n   a <pad> m ò f i <pad> n   l ẹ h i <pad> n   w ọ n   k ò   s i   b i </s>
+<s> w ọ n   t i   l è   d o <pad> j ú   k ọ   s t u a <pad> r t   h a <pad> l l   f ú n   ẹ ṣ ẹ   t i   o   t i   k ọ j á   f ú n   ọ d ú n   m ẹ r i <pad> n d i <pad> n l ọ g b ọ n   s ẹ h i <pad> n </s>
+<s> a <pad> j á   w ọ n   t i   p a   ọ b ọ   n í t o <pad> r í   a <pad> d á j ọ   t i   s ọ   s t u a <pad> r t   h a <pad> l l   s i   ẹ w ọ n   o ṣ ù   m ẹ d o <pad> g ú n </s>
+<s> j ọ   l a <pad> t i   ṣ e   e <pad> r é   l ẹ h i <pad> n   i ṣ ẹ   o o <pad> j ọ   b à b á   à t i   ì y á   w ọ n </s>
+<s> p à t à k ì   n i   i <pad> g b a   ọ g b ẹ l ẹ   n í g b à t í   i ṣ ẹ   o <pad> k o   d i <pad> n   k ù </s>
+<s> à w ọ n   ọ m ọ d é   k u <pad> n r i <pad> n   m ẹ t a   b ẹ r ẹ   s i   ṣ e   e <pad> r é   ì d á r a <pad> y á   l e <pad> t i   ò k u <pad> n   l a i   b i <pad> k i <pad> t à   o <pad> h u <pad> n   t i   ó   n l ọ   n i   à y í k á </s>
+<s> ọ m ọ   k i <pad> n i   l é r í   p é   o <pad> h u <pad> n   l è   g u <pad> n   i <pad> g i   ọ p ẹ   p ẹ l u   ọ w ọ   l á s á n   e <pad> k e <pad> j i   n i   o <pad> h u <pad> n   l è   w ẹ   ò k u <pad> n   y i   j á </s>
+<s> à j à p á   g b ọ   g b o <pad> g b o   ì l é r í   à w ọ n   m ẹ t a   y i   ṣ e   ó   g b é   ì r ò y ì n   l ọ   f ú n   ọ b a   p é   o <pad> h u <pad> n   t i   r i   à w ọ n   t i </s>
+<s> ó   l è   ṣ e   n k a <pad> n   t i   ẹ n i   k a <pad> n   k ò   ṣ e <pad> r í </s>
+<s> ọ b a   ṣ e   o <pad> h u <pad> n   t i   ó   b á   f ẹ   f ú n   o <pad> h u <pad> n   t i   ì r ò y ì n   t i   o <pad> h u <pad> n   m ú   w á   k ò   b á   ṣ ẹ </s>
+<s> ṣ e </s>
+<s> t ọ r u <pad> n   w a </s>
+<s> a <pad> p ẹ r ẹ   ẹ n i   t i   k i   ṣ e   i <pad> b e <pad> j i   k o   l e   p a   o <pad> r ú k ọ   d a   s i   o <pad> r ú k ọ   à m ú   t ọ r u <pad> n   w a </s>
+<s> a   d u <pad> p ẹ   l ọ w ọ   o <pad> l ó r í   ì l ú   g o o <pad> d l u <pad> c k   j o <pad> n a <pad> t h a <pad> n   t o   g b ọ   i <pad> g b e   a <pad> w ọ n   è n ì y à n   l a <pad> t i   d a   o <pad> r ú k ọ   i <pad> l é ì w é   g í g a   t i   o   w a </s>
+<s> n i   a <pad> k o <pad> k o   t i   i <pad> l u   è k ó   p a <pad> d a   g ẹ g ẹ b i   o <pad> l u <pad> k ọ a <pad> g b a   j e <pad> r r y   g a <pad> n a   t i   k ọ   s i   ì w é   ì r ò y ì n   n i   ọ j ọ   ẹ t i   o ṣ ù   k e <pad> j i </s>
+<s> ẹ g b a a   l e   m ẹ t a <pad> l a </s>
+<s> ọ m ọ   ọ d ú n   m ẹ t a <pad> d i <pad> n l a <pad> d ọ r u <pad> n   n i   n í g b à t í   ó   d á g b é r e   f ú n   a <pad> y é   n i   o ṣ ù   k ẹ r i <pad> n   ọ j ọ   k ẹ j ọ   ọ d ú n   ẹ g b ẹ r ú n m é j ì l é m ẹ t à l á </s>
+<s> a <pad> l á ì n í   ọ m ọ d é   a <pad> r ú g b ó   ò ṣ è l ú   ọ b a   à t i   ì j ò y è   á   k ú   t í   à s ì k ò   b á   t ó   n í t o <pad> r í   n á à   ẹ n i   t o   s u <pad> n k u <pad> n   s u <pad> n k u <pad> n   f ú n </s>
+<s> a <pad> r a   r ẹ   ẹ n i   t ó   m b i <pad> n u   m b i <pad> n u   a <pad> r a   r ẹ   n í t o <pad> r í   ẹ n i   t ó   k ú   t i   l ọ </s>
+<s> o <pad> j ú ọ j ọ   d á r a   è t ò   ì s ì n k ú   n á à   l ọ   d é d é   l á ì s í   ì d í w ọ </s>
+<s> ì g b é y à w ó   ì b í l e   n í   i <pad> l ẹ   y o <pad> r ù b á   j ẹ   à s ì k ò   t i   ẹ b í   ọ k ọ   à t i   ì y à w ó   m a   n p a <pad> r a <pad> p ọ </s>
+<s> a   l è   ṣ e   g b o <pad> g b o   è t ò   ì g b e <pad> y à w ó   ì b í l ẹ   n i   ọ j ọ   k a <pad> n   t à b í   ọ j ọ   p ú p ọ   f ú n   à p ẹ r ẹ   m ọ m í n m ọ ẹ   l ọ j ọ k a <pad> n   a <pad> t i   i <pad> d a <pad> n a   l ọ j ọ </s>
+<s> k e <pad> j i   t à b i   ọ j ọ   m i <pad> r a <pad> n </s>
+<s> n ṣ e   a <pad> y ẹ y ẹ   ì g b é y à w ó   ṣ ù g b ọ n   l á y é   ò d e   ò n í   à y è   ọ t ọ   b i   i <pad> l é   ì l ú   p á p á   ì ṣ e <pad> r é   i <pad> l é   à l e <pad> j ò   à t i   b ẹ ẹ b ẹ ẹ   l ọ   n i </s>
+<s> w ọ n   n l o </s>
+<s> à ṣ à   g b í g b a   à y è   ọ t ọ   t ó g b ò d e   b ẹ r ẹ   n í t o <pad> r í   à w ọ n   a <pad> d i <pad> g u <pad> n   j a <pad> l è   à t i   à w ọ n   è n ì y à n   b u <pad> r ú k ú   m í r à n   t i   o   m a   n d a <pad> r a <pad> p ọ   p ẹ l ú </s>
+<s> à w ọ n   à l e <pad> j ò   t í   a   p è   s í   i <pad> b i   ì y à w ó   l a <pad> t i   ṣ e   i ṣ ẹ   i <pad> b i </s>
+<s> o <pad> w ó   p ú p ọ   n i   ọ p ọ l ọ p ọ   m a   n f i   g b a   à y è   i <pad> b i   ṣ í ṣ e   ì y à w ó </s>
+<s> b í   ò b í   b a   t i   l ọ l á   t ó   n i   w ọ n   m a   n á w ó   t ó   n í t o <pad> r í   ì d ù n n ú   n i   f ú n   ò b í   p é   a   t ọ m ọ   w ọ n </s>
+<s> g b ẹ k ọ   w ọ n   f ẹ   d i   ò m ì n i <pad> r a   l a <pad> t i   b ẹ r ẹ   ẹ b í   t í w ọ n   ṣ ù g b ọ n   à ṣ e <pad> j ù   a <pad> t i   à ṣ e <pad> h à n   t i   w a   w ọ p ọ   j ù </s>
+<s> n í t o <pad> r í   ì n á w ó   ì g b é y à w ó   i <pad> l é   a <pad> y ẹ y ẹ   p ọ j u   i <pad> l é   ì k à w é   l ọ   l á y é   ò d e   ò n í </s>
+<s> k í   ṣ e   b i   a   t i   n á w ó   t ó   n í b i   ì g b é y à w ó   l o   n m u   à ṣ e <pad> y o <pad> r í   b a   ọ k ọ   à t i   ì y à w ó   ọ p ọ l ọ p ọ   n t u <pad> k a   l á ì p ẹ   l ẹ h i <pad> n </s>
+<s> a <pad> r i <pad> w o   r ẹ p ẹ t ẹ   y i </s>
+<s> y o <pad> r ù b á   n i   a   k i   f ọ l á   j ẹ   i <pad> y ọ   n í n ú   ì ṣ ẹ   l a <pad> y i <pad> k a   n i   i <pad> l ẹ   a <pad> l á w ọ d ú d ú   ó   y ẹ   k i   a   ṣ e   a <pad> y ẹ y ẹ   ì g b é y à w ó </s>
+<s> n í w ọ n t ú n w ọ n s ì n </s>
+<s> ẹ   f o <pad> j ú   s ọ n à   f ú n   è t ò   ì g b é y à w ó   i <pad> b i <pad> l è </s>
+<s> à ṣ à   à t ọ w ọ d ọ w ọ   ọ w ọ   n i   a   f i   n j ẹ   ọ p ọ l ọ p ọ   o ú n j ẹ   y o <pad> r ù b á   n í t o <pad> r í   k ò   s i   ṣ í b í   t ó   d á r a   t ó   ọ w ọ   l a <pad> t i   f i </s>
+<s> j ẹ   o ú n j ẹ   ò k è l è   b i   i <pad> y á n   è y í   j ẹ   k ó   ṣ e   p à t à k ì   l a <pad> t i   f ọ   ọ w ọ   m e <pad> j e <pad> j i   l ẹ h ì n   o ú n j ẹ </s>
+<s> f í f ọ   ọ w ọ   k a <pad> n   k ò l è   m ọ   b i   k a   f ọ   ọ w ọ   m e <pad> j e <pad> j i </s>
+<s> ọ r ọ   ọ t ú n   w ẹ   ò s ì   ò s ì   w ẹ   ọ t ú n   l ọ w ọ   f i   n m ọ   w ú l ò   l a <pad> t i   g b a   à w ọ n   è n ì à   n í y à n j ú   w í p é   à g b á j ọ w ọ   l á à a <pad> r í n   ẹ b í </s>
+<s> ọ r ẹ   à t i   a <pad> r á   ì l ú   l é r è </s>
+<s> y o <pad> r ù b á   n i   à g b á j ọ   ọ w ọ   l a   f i   n s ọ y a   a <pad> j ẹ j ẹ   ọ w ọ   k a <pad> n   k o   g b e   ẹ r ú   d ó r í   ọ m ọ   y o <pad> r ù b á   n í l é l ó k o   ẹ   j ẹ k í   a </s>
+<s> p a <pad> r a <pad> p ọ   t ú n   í l ú   ṣ e </s>
+<s> ò k ì k í   i <pad> k ú   ì y á à f i <pad> n   m a <pad> r g a <pad> r e <pad> t   t h a <pad> t c h e <pad> r   o <pad> b ì n r i <pad> n   à k ọ k ọ   l a <pad> t i   d é   i <pad> p ò   o <pad> l ó r í   ò ṣ e <pad> l ú   ì l ú ọ b a   k à n   n í   o ṣ ù   k ẹ r i <pad> n   ọ j ọ   k ẹ j ọ   ọ d ú n </s>
+<s> ẹ g b ẹ r ú n m é j ì l é m ẹ t à l á </s>
+<s> o <pad> r i <pad> n   y i   b a   ì g b à   a <pad> y é   o <pad> l ó ò g b é   ì y á à f i <pad> n   m a <pad> r g a <pad> r e <pad> t   t h a <pad> t c h e <pad> r   m u </s>
+<s> g ẹ g ẹ b í   o <pad> b ì n r i <pad> n   à k ọ k ọ   t ó   d i   o <pad> l ó r í   ò ṣ è l ú   ì l ú ọ b a   ó   ṣ e   ì w ọ n   t ó   l è ṣ e   n í t o <pad> r í   ì f ẹ   t í   ó   n í   s í   ì l ù </s>
+<s> r ẹ </s>
+<s> ọ r ọ   t ó   w ọ p ọ   n i   l ẹ h ì n   ọ k ù n r i <pad> n   t ó   ṣ o <pad> r i <pad> r e   o <pad> b ì n r i <pad> n   w a   n b e   ṣ ù g b ọ n   w í w o   ì g b é s í   a <pad> y é   à w ọ n   o <pad> g b ó j ú   o <pad> b ì n r i <pad> n   b i   o <pad> l ó ò g b é </s>
+<s> f ú r n m i <pad> l á y ọ   r a <pad> n s o <pad> m e   k ú t ì   à t i   o <pad> l ó ò g b é   m a <pad> r g a <pad> r e <pad> t   t h a <pad> t c h e <pad> r   f i <pad> h à n   w í p é   l ẹ h ì n   o <pad> b ì n r i <pad> n   t ó   b á   ṣ e   o <pad> r i <pad> r e   ọ k ù n r i <pad> n   w a   n b ẹ   ọ k ọ   w ọ n </s>
+<s> d ú r ó   t ì w ọ n   g b ọ i <pad> n g b ọ i <pad> n   è y í   f i   ọ k à n   à w ọ n   a ṣ á j ú   n í n ú   à w ọ n   o <pad> b ì n r i <pad> n   à g b á y é   y i   b a <pad> l ẹ   l a <pad> t i   t ọ j ú   à w ọ n   ọ m ọ   p ẹ l ú   i ṣ ẹ </s>
+<s> ò ṣ è l ú   t í   o <pad> b ì n r i <pad> n   k ò   w ọ p ọ   l á s ì k ò   t i <pad> w ọ n </s>
+<s> s ù n   r e   o   ì y á à f i <pad> n   t h a <pad> t c h e <pad> r </s>
+<s> y o <pad> r ù b á   n í   b í   e <pad> w é   b á   p ẹ   l á r a   ọ ṣ ẹ   á   d ọ ṣ ẹ ọ r ọ   y í   b á   ẹ g b ẹ   y o <pad> r ù b á   n i   ì l ú ọ b a   m u   p à t à k ì   à w ọ n   t i </s>
+<s> o   n g b e   n i   o <pad> l ú   ì l ú ọ b a </s>
+<s> t í t í   d i   b i   ọ g b ọ n   ọ d ú n   s ẹ h i <pad> n   à t i   r í   o ú n j ẹ   y o <pad> r ù b á   r à   ṣ ọ w ọ n </s>
+<s> n í   à p ẹ r ẹ   à t i   r i   a <pad> d ì ẹ   t ó   g b ó   r à   l á s ì k ò   y i   à   f i   t í   i <pad> r ú   ẹ n i   b ẹ ẹ   b á   l ọ   s i   ò p ó p ó </s>
+<s> ọ p ọ l ọ p ọ   o <pad> b i <pad> n r i <pad> n   t i   o   n i   o <pad> h u <pad> n   ẹ ṣ ọ   b i   w ú r à   à t i   f à d á k à   n i   a <pad> l á b a <pad> g b e   m a   ń d a <pad> r a <pad> p ọ   m ọ   o <pad> l è   l a <pad> t i   w á   g b é </s>
+<s> o <pad> h u <pad> n   ẹ ṣ ọ   y i   f ú n   t i <pad> t a   l a <pad> t i   d i   o <pad> l ó w ó   o <pad> j i <pad> j i </s>
+<s> à p ẹ r ẹ   p à t à k ì   m i <pad> r a <pad> n   n i   à w ọ n   ò ṣ ì ṣ ẹ   i <pad> l é o <pad> w ó   i <pad> l é   i ṣ ẹ   i <pad> j ọ b a   à t i   b ẹ ẹ b ẹ ẹ   l ọ   t i   w ọ n   d a <pad> r a <pad> p ọ   l a <pad> t i   j a   i <pad> l é   i ṣ ẹ </s>
+<s> w ọ n </s>
+<s> ọ p ọ   i <pad> g b à   n i   à ṣ i <pad> r i   ọ m ọ   ẹ b i   t à b i   a <pad> l á b a <pad> g b e   t ó   d a <pad> r a <pad> p ọ   m ọ   o <pad> l è   g b ọ m ọ g b ọ m ọ   ò ṣ ì ṣ ẹ   à t i   a <pad> w ọ n   o <pad> n i   i ṣ ẹ   i <pad> b i   t ó k ù </s>
+<s> m a   ń t ú   n i <pad> n u   ì j ẹ w ọ   a <pad> w ọ n   o <pad> n í ṣ ẹ   i <pad> b i   w ọ n y i   n í g b à t í   ọ w ọ   ọ l ọ p a   b á   t ẹ   w ọ n </s>
+<s> n í t o <pad> r í   e <pad> y i   ó   y ẹ   k i   a   m a   ṣ ọ r a </s>
+<s> n i   i <pad> g b a   k a <pad> n   r i   à m ọ t é k ù n   n i   à w ọ   d ú d ú   t i   ó   j ọ l ọ   ṣ ù g b ọ n   n i   ọ j ọ   k a <pad> n   à m ọ t é k ù n   w á   o ú n j ẹ   ò ò j ọ   r ẹ </s>
+<s> ó   d é   a <pad> h é r é   k a <pad> n   ó   ṣ e   a <pad> k i <pad> y e <pad> s i   p e   o <pad> b i <pad> n r i <pad> n   k a <pad> n   ń w ẹ   i <pad> n ú   r ẹ   d ù n   p ú p ọ   p é   ò h ú n   t i   r i   o ú n j e </s>
+<s> o   l ú g ọ   d e   a <pad> s i <pad> k o   t i   y i   o   r i   à y è   p a   o <pad> b i <pad> n r i <pad> n   y i   f ú n   o ú n j ẹ </s>
+<s> y o <pad> r ù b á   n i   ọ p á   t ó   w à   l ọ w ọ   ẹ n i   l a   f i   n p a   e <pad> j ò </s>
+<s> n í g b à t í   o <pad> b i <pad> n r i <pad> n   y i   r i   à m ọ t é k ù n   p ẹ l ú   ì b ẹ r ù   ó   f i   i <pad> g b e   t a   ó   j u   k à r ì n k à n   t i   ó   f i   ń w ẹ   p ẹ l ú   ọ ṣ ẹ </s>
+<s> h í h ó   i <pad> n ú   r ẹ   l ù </s>
+<s> à m ọ t é k ù n   f i   e <pad> r é   s i   ṣ ù g b ọ n   g b o <pad> g b o   ọ ṣ ẹ   t i   ó   w à   n i <pad> n u   k à n r ì n k à n   t i   t a   à b à w ọ n   s i   a <pad> r a   r ẹ   l a <pad> t i   o <pad> r i </s>
+<s> d é   ẹ s ẹ   r ẹ   e <pad> l e <pad> y i   l ó   s ọ   à m ọ t é k ù n   d i   a <pad> l á m ì   t ó t ò t ó   l á r a   t i <pad> t i   d i   ọ j ọ   o <pad> n i </s>
+<s> y o <pad> r ù b á   m a   n l o   à w ọ n   à r ò s ọ   i <pad> t à n   w ọ n y i   l a <pad> t i   k ọ   à w ọ n   ọ m ọ d é   n i   ẹ k ọ </s>
+<s> y o <pad> r ù b á   n i   ẹ n i   t i   ó   b á   d á k ẹ   t i   a <pad> r a   r ẹ   á   b a   d á k ẹ   n í t o <pad> r í   e <pad> y i   ẹ k ọ   p à t à k ì   t i   a   r i </s>
+<s> n i <pad> n u   i <pad> t à n   à r ò s ọ   y i   n i   p é   k ò   y ẹ   k i   e <pad> n i a   f i   ì b ẹ r ù   d ú r ó   l a i   ṣ e   n k a <pad> n k a <pad> n   t i   e <pad> w u   b á   d o <pad> j ú </s>
+<s> k ọ n i   ṣ ù g b ọ n   k i   á   l o   o <pad> h u <pad> n   k ó h u <pad> n   t i   ó   b á   w à   n i   à r ọ w ó t ó   l a <pad> t i   f i   g b è j à   a <pad> r a   ẹ n i </s>
+<s> k ò k ò r ò   j ẹ   o <pad> h u <pad> n   ẹ d á   k é k e <pad> r é   t ó   n i   ì y ẹ   t i   ó   l è   f ò   ò m í r à n   k ò   n i   i <pad> y ẹ   ṣ u <pad> g b ọ n   w ọ n   n i   ẹ s ẹ </s>
+<s> m ẹ f a </s>
+<s> ẹ   ṣ e   à y ẹ w ò   à p ẹ r ẹ   à w ò r á n   à t i   p i   p è   n i   o <pad> j ú   e <pad> w é   w ọ n y i </s>
+<s> ọ p ọ l ọ p ọ   ọ m ọ   y o <pad> r ù b á   t i   b ẹ r ẹ   s i   t i <pad> j ú   l a <pad> t i   j ẹ   o <pad> r ú k ọ   t i   ò b í   f i   è d è   y o <pad> r ù b á   s ọ   w ọ n </s>
+<s> è w o   n i   k á   k ọ   b a <pad> y ọ   n i   b a <pad> y o <pad> r   f ẹ m i   n i   p h e <pad> m m y   t ọ l a <pad> n i   n i   t h o <pad> r l a <pad> n i   k i <pad> l o   n j ẹ   b ẹ ẹ </s>
+<s> n í g b à t í   ẹ n i   t o   n i   o <pad> r ú k ọ   b á   ń b à j ẹ   b a <pad> w o   n i   à j ò j i   ṣ e   l è   p e   o <pad> r ú k ọ   n a   d a <pad> d a </s>
+<s> l ẹ h i <pad> n   ọ d ú n   p i <pad> p ẹ   i <pad> t u <pad> m ọ   o <pad> r ú k ọ   t i   w ọ n   b a   j ẹ   y i   a   s ọ n ù </s>
+<s> ẹ n i   t i   k ò   b á m ọ   i <pad> t à n   a <pad> r a   r ẹ   w ọ n   á   p e   l o <pad> r ú k ọ   t i   k i   ṣ e   t i <pad> r ẹ   á   s i   d á h ù n </s>
+<s> á   g b ọ   t i   i <pad> g b à   ò w ò   b u <pad> r ú k ú   ò w ò   ẹ r ú   t i   i <pad> l ú   t ó   l á g b á r a   r a   à w ọ n   e <pad> n i a   b i   ẹ n i   r a   o <pad> h u <pad> n   i <pad> n i </s>
+<s> n i   à s i <pad> k ò   y i   b i   w ọ n   b à   k ó   e <pad> n i a   l ẹ r ú   o <pad> l ó w ó   r ẹ   á   f u <pad> n   l ó r ú k ọ   n í t o <pad> r í   k o   m a   b a   r a <pad> n t i   i <pad> b i </s>
+<s> t i   ó   t i   ḿ b ọ </s>
+<s> e <pad> l e <pad> y i   j ẹ   k i   ó   ṣ ò r o   f ú n   ẹ r ú   l a <pad> t i   m ọ   i <pad> b i   t i   w ọ n   t i   w a   l ẹ h i <pad> n   t i   ò w ò   ẹ r ú   p a <pad> r i </s>
+<s> ò w e   y o <pad> r ù b á   n i   i <pad> l é   l à ń w ò   k á t ó   s ọ m ọ   l ó r ú k ọ </s>
+<s> ẹ   j ọ w ọ   ẹ   m a ṣ e   j ẹ k i   ẹ y à   à t i   è d è   y o <pad> r ù b á   p a <pad> r ẹ </s>
+<s> o <pad> r ú k ọ   ẹ n i   n i   i <pad> f i <pad> h à n   ẹ n i   a o   n i   p a <pad> r ẹ   m á y é   o </s>
+<s> ẹ g ẹ   f i   a <pad> r a   j ọ   i ṣ u   n í t o <pad> r í   à w ọ n   m e <pad> j e e <pad> j i   j ẹ   o ú n j ẹ   t i   ó   w ọ p ọ   n i   i <pad> l ẹ   y o <pad> r ù b á   t i   w ọ n   ń k ọ   e <pad> b è </s>
+<s> f ú n   l a <pad> t i   g b i <pad> n </s>
+<s> w ọ n   m a   n w a   w ọ n   l a <pad> t i   i <pad> n ú   e <pad> b è   t i   w ọ n   b á   t i   g b ó   w ọ n   n i   e è p o   t i   w ọ n   m a   ḿ b ẹ </s>
+<s> g b a <pad> g u <pad> d a   n i   w ọ n   f i   ń ṣ e   g a à r í   b ẹ n i   w ọ n   l è   l ó   f ú n   o <pad> r i ṣ i <pad> r i ṣ i   o ú n j ẹ   m i <pad> r a <pad> n   b i   w ọ n   t i   l è   l o   i ṣ u </s>
+<s> ṣ ù g b ọ n   o ú n j ẹ   b i   i <pad> y á n   a <pad> t i   à m à l à   m ú   i ṣ u   g b a <pad> y ì   j u   ẹ g ẹ   l ọ </s>
+<s> f ú n   ẹ k ọ   y i   o <pad> h u <pad> n   t i   a   l è   f i   i ṣ u   ṣ e   y à t ọ   s i   i <pad> y á n   à t i   à m à l à   n i   a   f ẹ   s ọ </s>
+<s> a   l è   f i   i ṣ u   d i <pad> n   d ù n d ú   t à b i   s e   l a <pad> t i   f i   j ẹ   ẹ w à   ẹ f ọ   r i <pad> r ò   a <pad> t a   t à b i   f i   s e   à ṣ á r ó </s>
+<s> ì j ọ b a   ì l ú ọ b a   k ò   b e <pad> r e   l ọ w ọ   a <pad> r á   i <pad> l ú   k i   w ọ n   t ó   ṣ e   ì d à p ọ   y i   w ọ n   ṣ e   f ú n   i <pad> r ọ r ù n   ọ r ọ   a <pad> j é   i <pad> l ú </s>
+<s> t i   w ọ n   n i </s>
+<s> y o <pad> r ù b á   n i   à   j ọ   j ẹ   k ò   d ù n   b i   ẹ n i   k a <pad> n   k ò   r i </s>
+<s> n i <pad> t ò ó t ọ   i <pad> j ọ b a   i <pad> l u ọ b a   t i   f ú n   o <pad> r i <pad> l ẹ   è d è   n à í j í r í à   n i   o <pad> m i <pad> n i <pad> r a   ṣ ù g b ọ n   è r è   i <pad> d à p ọ   t i   a <pad> r á   i <pad> l ú   k ò   k ó p a   n i <pad> n u   r ẹ </s>
+<s> k ò   t á n </s>
+<s> g ẹ g ẹ b i   o <pad> l ó y è   ọ b a <pad> f ẹ m i   a <pad> w o <pad> l ọ w ọ   t i   s ọ   n í g b à t í   w ọ n   ń ṣ e   à d é h ù n   f ú n   o <pad> m i <pad> n i <pad> r a   p e   o <pad> m i <pad> n i <pad> r a   k i   ṣ e   n i   t i   o <pad> r ú k ọ   i <pad> l ú </s>
+<s> l á s á n   ṣ ù g b ọ n   o <pad> m i <pad> n i <pad> r a   f ú n   a <pad> r á   i <pad> l ú </s>
+<s> t i   ó   ń j ẹ   k ò k ò r ò   b ú b u <pad> r ú   b á w í </s>
+<s> y o <pad> r ù b á   k a   ọ m ọ   s i   ọ l á   à t i   i <pad> y ì   t i   y i o   t ọ j ú   ì y á   à t i   b à b á   l ọ j ọ   a <pad> l ẹ </s>
+<s> e <pad> y i   h a <pad> n   n i   o <pad> r ú k ọ   t i   y o <pad> r ù b á   n s ọ   ọ m ọ   b i   ọ m ọ l ọ l á   ọ m ọ n i <pad> y ì   ọ m ọ l ẹ y ẹ   ọ m ọ y ẹ m i   ọ l ọ m ọ l à   ọ l ọ m ọ l ó l a <pad> y é   ọ m ọ d u <pad> n n i   ọ m ọ w u <pad> n m i   ọ m ọ g b e <pad> m i   ọ m ọ d á r a   à t i </s>
+<s> b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> a   o   t u <pad> n   ṣ e   a <pad> k i <pad> y e <pad> s i   n i   à ṣ à   y o <pad> r ù b á   p e   b i   o <pad> b i <pad> n r i <pad> n   b a   w ọ   i <pad> l é   ọ k ọ   w ọ n   k i   p e   n i   o <pad> r ú k ọ </s>
+<s> t i   ì y á   a <pad> t i   b à b á   s ọ   w ọ n   a   f u <pad> n   n i   o <pad> r ú k ọ   n i   i <pad> l é   ọ k ọ </s>
+<s> n í g b à t í   ó   b á   ṣ ẹ ṣ ẹ   w ọ l é   w ọ n   a   p e   n i   ì y à w ó   ṣ ù g b ọ n   b i   ó   b á   t i   b í m ọ   a   d i   ì y á   o <pad> r ú k ọ </s>
+<s> à k ọ b í   b i   ó   b á   b i   i <pad> b e <pad> j i   t a <pad> b i   i <pad> b ẹ t a   a   d i   ì y á   i <pad> b e <pad> j i   t à b i   ì y á   i <pad> b ẹ t a </s>
+<s> b à b á   ọ m ọ   a   d i   b à b á   o <pad> r ú k ọ   ọ m ọ   à k ọ b í   b à b á   i <pad> b e <pad> j i   t à b i   b à b á   ì b ẹ t a </s>
+<s> n í t o <pad> r í   i <pad> d i   e <pad> y i   ì g b é y à w ó   t i   k ò   b á   s i   ọ m ọ   m a   n f a   i <pad> r ò n ú   p ú p ọ </s>
+<s> n i   a <pad> b ú l é   k a <pad> n   n i   a <pad> y e   a <pad> t i <pad> j ọ   ọ k ọ   a <pad> t i   ì y à w ó   y i   k ò   b í m ọ   f ú n   ọ p ọ l ọ p ọ   ọ d ú n   l ẹ h i <pad> n   ì g b é y à w ó </s>
+<s> n í t o <pad> r í   à t i   b í m ọ   w ọ n   l ọ   s i   i <pad> l é   a <pad> l á w o   w ọ n   l ọ   s i   i <pad> l é   o <pad> n í ṣ è g ù n   l a <pad> t i   ṣ e   a a <pad> j o   ṣ ù g b ọ n   w ọ n   o   r i </s>
+<s> ọ m ọ   b i </s>
+<s> a <pad> l a <pad> d u <pad> g b o   w ọ n   g b à   w ọ n   n i <pad> y a <pad> n j u   k i   w ọ n   l ọ   s i   ọ d ọ   o <pad> l ó r i a <pad> w o   n i   ì l ú   k e <pad> j i </s>
+<s> ọ k ọ   à t i   ì y à w ó   t ọ   o <pad> l ó r i a <pad> w o   y i   l ọ   l a <pad> t i   w a   i <pad> d i   o <pad> h u <pad> n   t i   w ọ n   l è   ṣ e   l a <pad> t i   b í m ọ </s>
+<s> o <pad> l ó r i a <pad> w o   ṣ e   i <pad> w a <pad> d i   l ọ d ọ   i <pad> f a   p ẹ l ú   ọ p ẹ l ẹ   r ẹ   o   ṣ e   à l à y é   p e   k o   s i   ọ m ọ   m ọ   l ọ d ọ   ò r ì ṣ à   ṣ ù g b ọ n   n í g b à t í </s>
+<s> ẹ b ẹ   p ọ   o   n i   ọ m ọ   k a <pad> n   l o   k u   l ọ d ọ   ò r ì ṣ à o <pad> m i   ṣ ù g b ọ n   t i   o <pad> h u <pad> n   b á   g b a   ọ m ọ   y i   f ú n   w ọ n   k ò </s>
+<s> n i   b á   w ọ n   k a <pad> l ẹ   n í t o <pad> r í   t i   o   b a   l ọ   s i   o <pad> d ò   k i   ó   t ó   b i   ọ m ọ   n i   i <pad> l é   ọ k ọ   y i o </s>
+<s> à à n t é r e   l ọ   f ọ   a <pad> b ọ   l ó d ò </s>
+<s> ì y à w ó   l ó y ú n   ó   b i   o <pad> b i <pad> n r i <pad> n   w ọ n   s ọ   n i   à à n t é r é   e <pad> y i   t i   ó   t u <pad> m ọ   s i   ọ m ọ   o <pad> m i </s>
+<s> g b o <pad> g b o   ẹ b i   à t i   a <pad> r á   b á   w ọ n   y ọ   n i   ọ j ọ   ì s ọ m ọ   l ó r ú k ọ </s>
+<s> n i   ọ j ọ   k a <pad> n   à à n t é r é   b ẹ   a <pad> w ọ n   ò b í   r ẹ   p é   o <pad> h u <pad> n   f ẹ   s á r é   l ọ   f ọ   a <pad> b ọ   a <pad> w ọ n   ò b í   r ẹ   k ọ </s>
+<s> n í g b à t í   ẹ b ẹ   p ọ   w ọ n   g b à   n í t o <pad> r í   o   t i   d à g b à   t ó   l a <pad> t i   w ọ   i <pad> l é ọ k ọ   w ọ n   t i   g b à g b é   e <pad> w ọ   t i   o <pad> l ó r i a <pad> w o   s ọ </s>
+<s> f ú n   w ọ n   p e   o   n i   l a <pad> t i   w ọ   i <pad> l e   ọ k ọ   k i   o   t o   b í m ọ </s>
+<s> à à n t é r é   d é   o <pad> d ò   ò r ì ṣ à o <pad> m i   r i   ọ m ọ   r ẹ   o   f i   i <pad> j i   n l a   f a   à à n t é r é   w ọ   i <pad> n ú   o <pad> m i   l a i   p a <pad> d à </s>
+<s> ì y á   à t i   b à b á   à à n t é r é   r e <pad> t i   k i   ó   p a <pad> d à   l a <pad> t i   o <pad> d ò   ṣ ù g b ọ n   k ò   d é   w ọ n   k é   d é   i <pad> l é   ọ b a   ọ b a   p à ṣ ẹ </s>
+<s> k i   ọ m ọ d é   à t i   à g b à   ì l ú   w a   à à n t é r é   l ọ </s>
+<s> n i <pad> g b a   t i   w ọ n   d é   i <pad> d i   o <pad> d ò   w ọ n   b ẹ r ẹ   s i   g b ọ   o <pad> r i <pad> n   t i   à à n t é r é   n k ọ   ṣ ù g b ọ n   w ọ n   ò   r i </s>
+<s> a <pad> b i <pad> n i <pad> b i   w ọ n </s>
+<s> à w a   ò b í   l a <pad> t i   y i   ì h à   t i   a   k ọ   s i   è d è   y o <pad> r ù b á   p a <pad> d á   t i   a   k ò   b á   f ẹ   k i   o   p ò ó r á </s>
+<s> ò w e   y o <pad> r ù b á   k a <pad> n   t i <pad> l ẹ   s ọ   w í p é   o <pad> n í g b á   i o   n p e   i <pad> g b á   r ẹ   n i   p a <pad> n k a <pad> r a   t i   a   f i   n b a a   f i   k o <pad> l ẹ </s>
+<s> m ọ </s>
+<s> t i   w ọ n   y i o   s i   d ì m ú </s>
+<s> ṣ u <pad> g b ọ n   k i <pad> n i   a   n f i   l é l ẹ </s>
+<s> ẹ k ọ   à j ò j ì   e <pad> y i   y i   n i   è d è   g ẹ ẹ s i </s>
+<s> à w a   ò b í   p a <pad> p a   t i   a   r ò </s>
+<s> p é   a   t i   l a <pad> j ú   j u   p é   k a a   m á à   f i   è d è   a <pad> b í n i <pad> b í   w a   m a a   b a   à w ọ n   ọ m ọ   s ọ r ọ   n í l é   l ọ </s>
+<s> à t i   k à w é   a   s i </s>
+<s> t i   b ọ   s i   i <pad> p e <pad> l e   t ó   g a   j u   è y i   t i   a   b i   w a   s i   l ọ   n í t o <pad> r í   n a   è d è   w a   d i   o <pad> h u <pad> n </s>
+<s> ì t ì j ú   à t i   à b ù k ù   t i   k ò   y ẹ </s>
+<s> i <pad> p ò   t i   a   w à </s>
+<s> ẹ   j ẹ   k i   a   k ọ   ọ g b ọ n   l á r a   à w ọ n   ì g b ò   h a u <pad> s a   ò y ì n b ó   c h i <pad> n a   à t i   i <pad> n d i a <pad> k i   a   s i   f i   w o <pad> n   ṣ e   à w ò k ọ ṣ e </s>
+<s> k ò   s i   i <pad> b i   t i   à w ọ n   w ọ n y i   w à   y á l à   n í l é   t a <pad> b i   l ó k o   è d è   w ọ n   n i   w ọ n   m a a   b a   a <pad> w ọ n   ọ m ọ   s ọ </s>
+<s> à w ọ n   ò y ì n b ó   g b é   è d è   w ọ n   n i   a <pad> r u <pad> g ẹ   n i   ó   m ú   k i   i <pad> d a <pad> j i   g b o <pad> g b o   e <pad> n i a   n i   à g b á y é   k i   ó   m a a   l o </s>
+<s> è d è   w ọ n </s>
+<s> à w ọ n   a <pad> r á   ì l ú   c h i <pad> n a   ẹ w ẹ   k ò   f i   è d è   w ọ n   ṣ e <pad> r é   r á r á   t ó   b ẹ ẹ   t i   o <pad> d i <pad> n d i   ì l ú   a <pad> m e <pad> r i <pad> c a   à t i   à w ọ n </s>
+<s> k a <pad> n   n i   i <pad> l ẹ   a <pad> d ú l á w ọ   t i   b ẹ r ẹ   s i   k ọ   a <pad> w ọ n   ọ m ọ   i <pad> l é ì w é   w ọ n   n i   m a <pad> n d a <pad> r i <pad> n   ẹ y à   è d è   c h i <pad> n a </s>
+<s> ì k a <pad> n   n í n ú   à w ọ n   ọ m ọ   o <pad> b i <pad> n r i <pad> n   y i   b í   ọ m ọ   t i   o   t i   p e   ọ d ú n   m ẹ f a   s í n ú   à t ì m ọ l e   y i </s>
+<s> ì b à n ú j ẹ   t í   k ò   l a <pad> f i   w e   n i   k i   ọ m ọ   s ọ n u </s>
+<s> g ẹ g ẹ b i   ọ r ọ   y o <pad> r ù b á   ọ m ọ k ú   s a <pad> n   j u   ọ m ọ   s ọ n u   l ọ   p à t à k ì   l á r a   ì y á   ọ m ọ   ì r ò n ú   ọ m ọ   s ọ n u   p a   ì y a   i <pad> k a <pad> n   n í n ú </s>
+<s> à w ọ n   o <pad> b i <pad> n r i <pad> n   m ẹ t a   y i   o   ṣ e <pad> n i   l a a <pad> n u   w í p é   k ò   r í   ọ j ọ   a <pad> y ọ   ì t ú s í l ẹ   n í n ú   ì d è   t í   a <pad> r i e <pad> l   c a <pad> s t r o   f i   à w ọ n </s>
+<s> o <pad> b i <pad> n r i <pad> n   y i   s i </s>
+<s> ì y a <pad> n u   n i   w í p é   w ọ n   j a <pad> d e   l a a <pad> y e   n í t o <pad> r í   ọ p ọ l ọ p ọ   l o   n s ọ n u   t i   w ọ n   k i   r i   ò k ú   t à b í   a a <pad> y e   w ọ n </s>
+<s> ì r ò y ì n   p é   à w ọ n   ọ l ọ p a   t ú   à w ọ n   o <pad> b i <pad> n r i <pad> n   m ẹ t a   y i   s i <pad> l ẹ   l a <pad> t i   i <pad> l é   ẹ n i   t ó   g b é   w ọ n   d è   j a <pad> d e   n i   ọ j ọ </s>
+<s> a <pad> j é   o ṣ ù   k a <pad> r u <pad> n   ọ j ọ   k ẹ f a   ọ d ú n   ẹ g b ẹ r ú n m é j ì l e <pad> m ẹ t a <pad> l a </s>
+<s> ò w e   y o <pad> r ù b á   y i   w ú l ò   l a <pad> t i   j u <pad> w e   ò y e   à g b à l a <pad> g b à   l a <pad> t i   w o   ẹ h ì n   f ú n   ẹ k ọ   n í n ú   ì r í r í   t ó   t i   k ọ j á   l a <pad> t i   y a <pad> n j ú </s>
+<s> ọ r à n   t ó   ṣ ò r o   n í g b à t í   ọ m ọ d é   t í   k ò   r í   i <pad> r ú   ì ṣ ò r o   b ẹ ẹ   l a <pad> t i   k ọ   ọ g b ọ n   m á   n w o   i <pad> w á j ú </s>
+<s> ọ r ọ   y o <pad> r ù b á   m i <pad> r a <pad> n   n i   ẹ n i   t ó   j ì n   s í   k ò t ò   k ọ   a <pad> r á   y ó k ù   l ọ g b ọ n </s>
+<s> n i <pad> t o <pad> t ọ   ọ r ọ   m i <pad> r a <pad> n   s ọ   w í p é   ì ṣ ò r o   n i   o <pad> l ù k ọ   t ó   d á r a   j ù   ṣ ù g b ọ n   d í   d ú r ó   k í   ì ṣ ò r o   j ẹ   o <pad> l u <pad> k ọ   f ú n   n i </s>
+<s> l è   f a   e <pad> w u   i <pad> y e <pad> b í y e   n í t o <pad> r í   n á à   ó   d á r a   k á   k ọ   ọ g b ọ n   l a <pad> t i   ọ d ọ   à g b à </s>
+<s> ọ l ọ g b ọ n   m a   n l o   ọ g b ọ n   ọ l ọ g b ọ n   l a <pad> t i   y ẹ r a   f ú n   ì ṣ u <pad> b ú </s>
+<s> n í   à s ì k ò   ẹ r ọ   a <pad> y é l u <pad> j á r a   y i   ò w e   b í   ọ m ọ d é   b á   ṣ u <pad> b ú   á   w o   i <pad> w á j ú   b í   à g b à   b á   ṣ u <pad> b ú   á   w o   ẹ h ì n </s>
+<s> ṣ i   w ú l ò   f ú n   à w ọ n   ọ m ọ d é   t í   ó   l è   ṣ e   à ṣ à y à n   l a <pad> t i   f i   e <pad> t í   s i   à g b à   k ọ   ẹ k ọ   t à b í   k a   à k ọ s í l ẹ </s>
+<s> ì r í r í   à g b à   n í n ú   ì w é   t à b í   l ó r í   a <pad> y é l u <pad> j á r a   l a <pad> t i   y ẹ r a   f ú n   à ṣ ì ṣ e   k ọ   i <pad> b i   t í   a <pad> g b á r a   à t i   à i <pad> l e <pad> r a   à g b à   w à   f ú n </s>
+<s> l í l ò   l ọ j ọ   i <pad> w á j ú </s>
+<s> ọ r ọ   y o <pad> r ù b á   s ọ   w í p é   ọ w ọ   ọ m ọ d e   k o   t o   p ẹ p ẹ   t a <pad> g b a <pad> l a <pad> g b a   k o   w ọ   k è r è g b è   è y í   t í   a   l è   t ú m ọ   s í   w í p é </s>
+<s> ọ m ọ d é   k ò   g a   t o   p ẹ p ẹ   l á t i   m ú   n k a <pad> n   t í   w ọ n   g b é   s i   o <pad> r í   p ẹ p ẹ   b ẹ n i   ọ w ọ   à g b à l a <pad> g b à   t i   t ó b i   j ù </s>
+<s> l a <pad> t i   w ọ   i <pad> n ú   a <pad> k è r è g b è   l a <pad> t i   m u   n k a <pad> n   n í t o <pad> r í   n á à   à g b à   l è l o   ì r à n l ọ w ọ   ọ m ọ d é </s>
+<s> n í   a <pad> y é   o <pad> n í k á l u <pad> k ú   l ó   n í   o <pad> h u <pad> n   t í   w ọ n   l è   ṣ e </s>
+<s> à w ọ n   n k a <pad> n   w a   t i   à g b à l a <pad> g b à   l è   ṣ e   b ẹ ẹ n i   ọ p ọ l ọ p ọ   n k a <pad> n   w a   t i   ọ m ọ d é   l è   ṣ e </s>
+<s> l á y é   ò d e   ò n í   ọ m ọ d é   l e   g b ó j ú l é   à g b à l a <pad> g b à   ṣ ù g b ọ n   ọ p ọ l ọ p ọ   à g b à l a <pad> g b à   g b ó j ú l é   ọ m ọ d é   l á t i   k ọ   l í l ò   ẹ r ọ   a <pad> y é l u <pad> j á r a </s>
+<s> ò w e   y i   f i   è r è   i <pad> f ọ w ọ s o <pad> w ọ p ọ   l a a <pad> r i <pad> n   ọ m ọ d é   à t i   à g b à   h a <pad> n   n í t o <pad> r í   k ò   s ẹ n i   t í   k ò   w ú l ò </s>
+<s> ọ m ọ   ì y á   m é j ì   k i   r é w è l è   y o <pad> r ù b á   m a   n l o   ọ r ọ   y i   n í g b à t í   ọ m ọ   ì y á   m é j ì   b a   k o   à g b á k ó   t ó   l a   i <pad> k ú </s>
+<s> l ọ </s>
+<s> i <pad> r ú   ì s ẹ l ẹ   t ó   k ó   ì p a <pad> y à   b a   g b o <pad> g b o   è n ì à   b a <pad> y i   k i   ṣ e   i <pad> j a <pad> m b a   l á s á n   ṣ ù g b ọ n   à w ọ n   ì y á   m é j ì   t s a <pad> r n e <pad> v   n i   w ọ n </s>
+<s> t ọ k a   s i   f ú n   i ṣ ẹ   i <pad> b i   t ó   ṣ ẹ l ẹ   n i   o ṣ ù   k ẹ r i <pad> n   ọ j ọ   k ẹ d o <pad> g u <pad> n   n i <pad> b i   e <pad> r e   ọ l ọ n a <pad> j i <pad> j i <pad> n   t í   w ọ n   s á   n i   b o <pad> s t o <pad> n </s>
+<s> k i <pad> k ọ   ọ m ọ   l a <pad> t i   ṣ e   ọ m ọ l ú à b í   j ẹ   o <pad> h u <pad> n   t i   à w ọ n   ò b í   a <pad> y é   à t i <pad> j ọ   n d ù   j u   ọ p ọ l ọ p ọ   ò b í   a <pad> y é   ò d e   ò n í   t ó </s>
+<s> n d u   o <pad> w ó   l a <pad> t i   k ó   ọ r ọ   j ọ   j u   w í p é   k á   k ọ   ọ m ọ   l ọ </s>
+<s> k í k a   ọ r ọ   ì f o <pad> j ú k o <pad> j ú   n í n ú   ì w é   ì r ò y ì n   f i <pad> h à n   w í p é   ẹ k ọ   t i   ì y á   à t i   b à b á   b á   k ọ   ọ m ọ   n i   k é k e <pad> r é   w ú l ò   f ú n </s>
+<s> ẹ b í   à t i   a <pad> r á   l ọ j ọ   i <pad> w á j ú </s>
+<s> ẹ k ọ   t i   g ó m ì n à   f á ṣ ọ l á   g b à   l ọ w ọ   ò b í   w ú l ò   f ú n   ẹ b í   a <pad> r á   à t i   ì l ú   è k ó </s>
+<s> b í   o <pad> r í   b á   p ẹ   n í l ẹ   á   d i <pad> r e   b i   o   t i ẹ   j ẹ   w í p é   g ó m ì n à   f á ṣ ọ l á   k ò   f ẹ   ṣ e   i ṣ ẹ   ò ṣ è l ú   o <pad> r í </s>
+<s> d a <pad> r í   r ẹ   s í b ẹ </s>
+<s> ò w e   y o <pad> r ù b á   n i   o <pad> r í   o <pad> l ó k ì k í   k ò   j ẹ   a <pad> s á n   w ọ n   n k i <pad> g b e   ẹ   n í l é   w ọ n   n k i <pad> g b e   ẹ   l o <pad> g ù n   n i <pad> t ò ó t ọ   g ó m ì n à   f á ṣ ọ l á   g b ì y à n j ú </s>
+<s> f ú n   ì l ú   è k ó   ṣ ù g b ọ n   o <pad> m i   p ọ   j u   ọ k à   l ọ </s>
+<s> g ó m n à   ẹ   k ú   o <pad> r i <pad> r e   a <pad> d ọ ọ t a   ọ j ọ   ì b í   o <pad> r i <pad> r e   n a a   d a <pad> l ẹ   ẹ m í   ọ l á   á   g ù n   l a <pad> t i   ṣ e   ọ p ọ l ọ p ọ   ọ j ọ   ì b í   l á y é </s>
+<s> o   à ṣ ẹ </s>
+<s> è k ó   ò   n í   b à j ẹ   o </s>
+<s> n i   ọ j ọ   ẹ t i   o ṣ ù   k ẹ f a   ọ j ọ   k e <pad> j e   ọ d ú n   ẹ g b ẹ r u <pad> n m é j ì l e <pad> m ẹ t a <pad> l a   a <pad> d á j ọ   ṣ e   ì d á j ọ   ẹ w ọ n   g b é r e   f ú n   ọ p ẹ m i <pad> p ọ   j a <pad> j i   ọ m ọ   ọ d ú n   m é j ì d í n l ó g ú n </s>
+<s> f ú n   d í d ó   f à d í y a </s>
+<s> l a i <pad> p ẹ   y i   m i <pad> c h a e <pad> l   a <pad> d é b ọ l á j ọ   a <pad> t i   m i <pad> c h a e <pad> l   a <pad> d é b ọ w á l é   w á   s i   i <pad> l é ẹ j ọ   f ú n   ẹ s ù n   a <pad> p à n ì y à n </s>
+<s> ì r ò y ì n   b u <pad> r ú k ú   y i   k o   t i   l ọ   l ẹ   n í g b à t í   ì r ò y ì n   ì d á j ọ   ẹ w ọ n   g b é r e   f ú n   ọ p ẹ m i <pad> p ọ   j a <pad> j i   t ú n   j a <pad> d e </s>
+<s> k í l ó   n ṣ ẹ l ẹ   y o <pad> r ù b á   n i   à g b à   k ì   w á   l ọ j à   k i   o <pad> r í   ọ m ọ   t u <pad> n t u <pad> n   w ọ </s>
+<s> à s ì k o ì   t ó   k i   à g b à g b à   y o <pad> r ù b á   n i   ì l ú ọ b a   p a <pad> r a <pad> p ọ   l a <pad> t i   ṣ e   i <pad> w a <pad> d i   o <pad> h u <pad> n   t ó   f a   à w ọ n   ọ m ọ   t í w ọ n   b ẹ r ẹ   s i   h ù w à </s>
+<s> b u <pad> r ú k ú   w ọ n y i   l á à a <pad> r í n   à w o <pad> n   ọ d ọ </s>
+<s> ẹ l ẹ d ẹ   f i   i <pad> b i <pad> n u   g b é   ọ l ọ   à t i   ẹ g ú s í   s ọ n ù   s i   ẹ r ọ f ọ   t i   ó   w á   n i   ì t ò s í   l a i   m ọ   p é   à j à p á   n i </s>
+<s> ọ l ọ   y i </s>
+<s> y á n í b o   f i   i <pad> g b e   t a   t i <pad> t i   ọ k ọ   r ẹ   f i   w ọ l é </s>
+<s> à j à p á   y ọ   a <pad> r a   r ẹ   k ú r ò   n i <pad> n ú   ẹ r ọ f ọ   ó   n u   a <pad> r a   r ẹ   ó   ṣ e   b i   ẹ n i   p é   o <pad> h u <pad> n   k ò   r i   ẹ l ẹ d ẹ </s>
+<s> n í g b à t í   ó   d é l é </s>
+<s> ó   b è r è   o <pad> h u <pad> n   t i   ó   f a   i <pad> g b e   t i   y á n í b o   ń k é </s>
+<s> y á n í b o   ṣ e   à l à y é </s>
+<s> n í t o <pad> r í   n á à   ó   n i   l a <pad> t i   w á   ọ l ọ   y i   j a <pad> d e   k i   o <pad> h u <pad> n   t ó   l è   s a <pad> n   o <pad> w ó   t i   o <pad> h u <pad> n   y á </s>
+<s> ẹ l ẹ d ẹ   w ọ n ú   ẹ r ọ f ọ   l a <pad> t i   w á   ọ l ọ   i <pad> d i <pad> l e   à j à p á </s>
+<s> l a <pad> t i   i <pad> g b à   y i   n i   ẹ l ẹ d ẹ   t i   b ẹ r ẹ   s i   f i   i <pad> m ú   t ú   ẹ r ọ f ọ   t i <pad> t i   d i   ọ j ọ   o <pad> n i </s>
+<s> n i   à ṣ à   y o <pad> r ù b á   n i   a <pad> y é   à t i <pad> j ọ   ọ j ọ   k e <pad> j e   n i   w ọ n   ń s ọ m ọ   o <pad> b i <pad> n r i <pad> n   n i   o <pad> r ú k ọ   ọ j ọ   k ẹ s a <pad> n   n i   t i   ọ m ọ   ọ k ù n r i <pad> n </s>
+<s> ṣ ù g b ọ n   n i   a <pad> y é   ò d e   ò n i   ọ j ọ   k ẹ j ọ   n i   w ọ n   s ọ   g b o <pad> g b o   ọ m ọ   l ó r ú k ọ </s>
+<s> y o <pad> r ù b á   k i   s ọ m ọ   l ó r ú k ọ   n i   ọ j ọ   t i   w ọ n   b i   ṣ ù g b ọ n   y o <pad> r ù b á   t i   ó   b á   b i <pad> m ọ   s i   ò k è ò k u <pad> n   l è   f ú n   i <pad> l é i <pad> g b ẹ b i </s>
+<s> l ó r ú k ọ   ọ m ọ   g ẹ g ẹ   b i   à ṣ à   ò k è ò k u <pad> n   k i   w ọ n   t ó   s ọ m ọ   l ó r ú k ọ </s>
+<s> ò w e   y o <pad> r ù b á   n i   i <pad> l é   l à ń w ò   k i   a   t ó   s ọ m ọ   l ó r ú k ọ   n í t o <pad> r í   e <pad> y i   b à b á   à t i   ì y á   y i o   r o <pad> n ú   o <pad> r ú k ọ   t i   ó </s>
+<s> d a <pad> r a   t i   w ọ n   y i o   s ọ   ọ m ọ   n i   ọ j ọ   i <pad> k ó m ọ </s>
+<s> o <pad> r ú k ọ   y o <pad> r ù b á   l é   n i   ẹ g b ẹ g b ẹ r u <pad> n   à w ọ n   o <pad> r ú k ọ   y i   y i o   j a <pad> d e   n i   i <pad> p a <pad> s ẹ   a <pad> k i <pad> y e <pad> s i   i ṣ ẹ l ẹ   t i   o   ṣ ẹ l ẹ   n i   à s i <pad> k ò   t i </s>
+<s> ọ m ọ   w a   n i   n i <pad> n ú   o <pad> y ú n   ọ j ọ   i <pad> b i   ọ m ọ   o <pad> r ú k ọ   t i   ó   b á   i <pad> d i <pad> l é   t a <pad> b i   ẹ s i <pad> n   à t i <pad> j ọ   à t i   ẹ s i <pad> n   i <pad> g b à l ó d é   m u </s>
+<s> a   o   ṣ e   à y ẹ w ò   à w ọ n   o <pad> r ú k ọ   i <pad> g b a <pad> l o <pad> d e   à t i   à w ọ n   o <pad> r ú k ọ   i <pad> b i <pad> l ẹ   t i   ó   t i   f ẹ   m a   p a <pad> r ẹ </s>
+<s> a   o   b ẹ r ẹ   p ẹ l u   o <pad> r u <pad> k ọ   t i   o   w ọ p ọ   n i   i <pad> d i <pad> l e   ọ l á   ọ b a   o <pad> l ó y è   à t i   a <pad> k i <pad> n k a <pad> n j ú   n i   à w ù j ọ   n i   a <pad> y é   ò d e </s>
+<s> ò n i </s>
+<s> ọ l á   n i <pad> n ú   o <pad> r ú k ọ   y o <pad> r ù b á   k i   ṣ e   o <pad> w ó   à t i   o <pad> h u <pad> n   i <pad> n i   n i <pad> k a <pad> n   y o <pad> r ù b á   k a   i <pad> l e <pad> r a   s i   ọ l à </s>
+<s> ọ m ọ   b i <pad> b i   n i   e <pad> w u   p ú p ọ   n í t o <pad> r í   e <pad> y i   n i   y o <pad> r ù b á   f i   m a   n k i   ì y á   ọ m ọ   k ú   e <pad> w u </s>
+<s> n i   ọ j ọ   ì s ọ m ọ   l ó r ú k ọ   t à b i   ì k ó m ọ   b à b á   ì y á   ẹ b i   à t i   ọ r ẹ   ò b í   ọ m ọ   t u <pad> n t u <pad> n   á   f i   ì d ù n n ú   h à n   n í p a   ṣ í ṣ e </s>
+<s> ọ p ẹ   p à t à k ì   f ú n   ọ l ọ r u <pad> n </s>
+<s> ẹ   ṣ e   à y ẹ w ò   à w ọ n   o <pad> r ú k ọ   w ọ n y i   t i   ò b í   l ò   l a <pad> t i   f i   ẹ m i   ì m o o <pad> r e   h à n </s>
+<s> ò w e   y i   f i   a <pad> r a   h a <pad> n   n i   i <pad> t a <pad> n   ì y à w ó   a ṣ o <pad> j ú ọ b a   t i   a   ò   p è   n i   t i <pad> n u <pad> m i   p ẹ l ú   ọ m ọ   r ẹ   k a <pad> n   ṣ o ṣ o </s>
+<s> ọ k ù n r i <pad> n   t i   a   m ọ   s i   m o <pad> f ẹ </s>
+<s> m o <pad> f ẹ   d à g b à   l a <pad> t i   f ẹ   o <pad> b i <pad> n r i <pad> n </s>
+<s> ó   y a <pad> n   o <pad> b i <pad> n r i <pad> n   t i   à   ń p è   n i   à y à n f ẹ   n i   ì y à w ó   à f ẹ s ọ n à </s>
+<s> p é   ọ m ọ   o <pad> h u <pad> n   k ò   n i   f ẹ   à y à n f ẹ </s>
+<s> w ọ n   b ẹ r ẹ   i <pad> d i   t i   k ò   ṣ e   f ẹ   k i   ọ m ọ   o <pad> h u <pad> n   f ẹ   ẹ n i   t i   ó   m ú w á   t i <pad> n u <pad> m i   k ò   r i   à l à y é   ṣ e </s>
+<s> j u   p é   o <pad> h u <pad> n   k ò   f ẹ   k i   ọ m ọ   o <pad> h u <pad> n   f ẹ   à t ọ h ú n   r i <pad> n   w a   ọ m ọ   t i   k ò   n i   i <pad> r a <pad> n </s>
+<s> ọ m ọ   r ẹ   n a a   f i   à á k é   k ò r i   p é   ẹ n i   t i   o <pad> h u <pad> n   m a   f ẹ   n i   à y à n f ẹ </s>
+<s> t i <pad> n u <pad> m i   s ọ   à f ẹ s ọ n à   ọ m ọ   r ẹ   d i   o <pad> r o <pad> g ú n   g b o <pad> g b o   i <pad> b i   t i   ó   b á   t i   p à d é   à y à n f ẹ   n i   i <pad> b i   à j o ṣ e   ẹ b i   n i </s>
+<s> ó   t i   ḿ b a <pad> j à   p é   k i   ó   d ẹ h i <pad> n   l ẹ h i <pad> n   ọ m ọ   o <pad> h u <pad> n </s>
+<s> à y à n f ẹ   l é   ọ m ọ   r ẹ   t i <pad> t i   ṣ ù g b ọ n   ó   k ọ   l a <pad> t i   d ẹ h i <pad> n </s>
+<s> l ẹ h i <pad> n   ọ d ú n   m a <pad> r u <pad> n   t i   m o <pad> f ẹ   à t i   à y à n f ẹ   t i   ń ṣ e   ọ r ẹ   i <pad> w é   j a <pad> d e   p é   w ọ n   g b é   b à b á   m o <pad> f ẹ </s>
+<s> g ẹ g ẹ   b i   a ṣ o <pad> j ú ọ b a   l ọ   s i   ò k è ò k u <pad> n </s>
+<s> b à b á   ṣ è t ò   b i   ọ m ọ   à t i   ì y à w ó   t i   m a   t ẹ l é   o <pad> h u <pad> n </s>
+<s> ọ m ọ   k ọ   p é   o <pad> h u <pad> n   k ò   l ọ   p ẹ l ú   ò b i   o <pad> h u <pad> n   t i   à f ẹ s ọ n à   o <pad> h u <pad> n   k ò   b á   n i   t ẹ l é   à w ọ n   l ọ </s>
+<s> b à b á   g b à   p é   ọ m ọ   o <pad> h u <pad> n   t i   t ó   f ẹ   ì y à w ó   w ọ n   ṣ e   è t ò   i <pad> g b é y à w ó   f ú n   m o <pad> f ẹ   à t i   à f ẹ s ọ n à   r ẹ </s>
+<s> l ẹ h i <pad> n   t i   m o <pad> f ẹ   à t i   à y à n f ẹ   ṣ e   ì y à w ó   t á n   w ọ n   t ẹ l é   b à b á   à t i   ì y á   w ọ n   l ọ   s i   ò k è o <pad> k u <pad> n   l a <pad> t i   m á   j ọ </s>
+<s> g b é </s>
+<s> à r ù n   a <pad> r a   t i <pad> n u <pad> m i   a <pad> y a   a ṣ o <pad> j ú ọ b a   b ẹ r ẹ   s i   h a <pad> n   n í t o <pad> r í   ó   s ọ   ì y à w ó   ọ m ọ   r ẹ   d i   o <pad> r o <pad> g ú n </s>
+<s> n í g b à t í   ọ k ọ   r ẹ   r i   à l é b ù   y i   ó   p i <pad> n u   l a <pad> t i   w a   o <pad> r o <pad> g ú n   f u <pad> n   t i <pad> n u <pad> m i   n í t o <pad> r í   a i   n i   o <pad> r o <pad> g ú n   n i   ó   ṣ e </s>
+<s> y o <pad> r ù b á   n i   ẹ n u   à ì m ẹ n u   è t è   à ì m é t è   l ó   n m ú   ọ r à n   b á   ẹ r ẹ k ẹ </s>
+<s> ì b ẹ r ù   b a   à w ọ n   ọ m ọ   y i   ẹ b í   w ọ n   b ẹ   ọ b a   p e   e <pad> r é   ọ m ọ d é   l á s á n   n i   à w ọ n   ọ m ọ   y i   f i   s ọ   g b o <pad> g b o </s>
+<s> à w ọ n   ọ m ọ d e   m ẹ t a   y i   b ẹ r ẹ   s i   k ọ   o <pad> r i <pad> n   a <pad> r ò   b a <pad> y i </s>
+<s> è y i   t i   ó   n i   o <pad> h u <pad> n   l è   g u <pad> n   ọ p ẹ   d é   ì d í   ọ p ẹ   p ẹ l ú   ẹ k ú n </s>
+<s> a <pad> r i <pad> w o   s ọ   i <pad> n ú   a <pad> r á   ì l ú   d ù n </s>
+<s> n í g b à t í   ọ m ọ d é   k e <pad> j i   t i   o   n i   o <pad> h u <pad> n   l è   w ẹ   ò k u <pad> n   j a   g b ọ   a <pad> r i <pad> w o   ì d ù n   n ú   y i   e <pad> l e <pad> y i   k i   l á y à </s>
+<s> b i   t i   ẹ n i   à k ọ k ọ   ọ m ọ d é   k e <pad> j i   t i   ó   n i   o <pad> h u <pad> n   l è   w ẹ   ò k u <pad> n   j á   o   w ẹ   d é   o <pad> d i   k e <pad> j i   n i <pad> b i <pad> t i </s>
+<s> w ọ n   t i   f i   i <pad> j ó   à t i   a <pad> y ọ   p à d é   r ẹ </s>
+<s> e <pad> l e <pad> y i   l ó   f ú n   ọ m ọ d é   k ẹ t a   n i   ì g b o i <pad> y à   p e   o <pad> h u <pad> n   n a   l è   ṣ e   o <pad> h u <pad> n   t i   o <pad> h u <pad> n   t i   ṣ e   ì l é r í   r ẹ </s>
+<s> a <pad> r i <pad> w o   s ọ   ṣ ù g b ọ n   ì t ì j ú   b o   à j à p á </s>
+<s> ì w à   à t i   ì ṣ e   ọ d ọ   ì g b à l ó d é   k ò   f i   à ṣ à   à t i   è d è   y o <pad> r ù b á   h à n   r á r á </s>
+<s> a ṣ ọ   à l ò k ù   t i   g b ò d e   d i <pad> p ò   a ṣ ọ   ì b í l ẹ </s>
+<s> ọ p ọ l ọ p ọ   a ṣ ọ   à g b à w ọ   y i   k ò   w à   f ú n   a <pad> r a   à t i   l i <pad> l ò   n i   i <pad> l ẹ   a <pad> l á w ọ d ú d ú </s>
+<s> ọ d ọ   m i <pad> r a <pad> n   a   w ọ   a <pad> s ọ   à t i   b à t à   ò t ú t ù   n i <pad> n u   o o <pad> r u </s>
+<s> ọ p ọ   o <pad> l ù ṣ ọ à g ù n t à n   à t i   o <pad> n í h ì n r e <pad> r e   k i   w ọ   a ṣ ọ   ì b í l ẹ   w ọ n   a   d i   b i   ì r ẹ   p ẹ l ú   a ṣ ọ   ò t ú t ù </s>
+<s> è d è   ẹ n u   w ọ n   k ò   j ọ   ò y ì n b ó   k ò   j ọ   y o <pad> r ù b á   n í t o <pad> r í   à t i   f i   i <pad> p á   s ọ   è d è   g ẹ ẹ s i </s>
+<s> ò w e   y o <pad> r ù b á   t i   ó   n i   ṣ ò k ò t ò   à g b à w ọ   b i   k ò   ṣ o <pad> n i   l ẹ s ẹ   á   f ú n n i   n í t a <pad> n </s>
+<s> b i   a   b á   w o   ò w e   y i   à t i   t u <pad> n   ṣ ò k ò t ò   à g b à w ọ   ṣ e   l a <pad> t i   b á n i   m u   n i   ì n á w ó   p ú p ọ   t à b i   k i   ó </s>
+<s> m á   y ẹ n i </s>
+<s> b i   a   b á   f i   ò w e   y i   ṣ e   a <pad> k i <pad> y e <pad> s i   a ṣ ọ   à l ò k ù   t i   w ọ n   k ó   w ọ   ì l ú   n p a   ọ r ọ   i <pad> l ẹ   w a </s>
+<s> à w ọ n   t i   ó   r á n a ṣ ọ   à t i   à w ọ n   t i   ó   h u <pad> n   a ṣ ọ   ì b í l ẹ   k o   r i   i ṣ ẹ   ṣ e   t ó   n í t o <pad> r í   a ṣ ọ   à l ò k ù   t i </s>
+<s> à w ọ n   ọ d ọ   k ó   o <pad> w ó   l é </s>
+<s> a   l è   f i   ò w e   y i   b á   à w ọ n   t i   ó   n w ọ   a ṣ ọ a <pad> l a ṣ ọ   à t i   à w ọ n   t i   ó   f ẹ   g b à g b é   è d è   w ọ n   n í t o <pad> r í </s>
+<s> ò w e   y i   t ú n   b á   à w ọ n   ò ṣ è l ú   t i   ó   n l o   à ṣ à   ò ṣ è l ú   t i   ò k è ò k u <pad> n   l a i   w o   b i   w ọ n   t i   l è   t u <pad> n ṣ e </s>
+<s> l a <pad> t i   b á   ì l ú   w ọ n   m u </s>
+<s> a <pad> t u <pad> n s e   a ṣ ọ   à l ò k u   j u   à t i   r á n   a ṣ ọ   n i   t i <pad> t u <pad> n   l ọ </s>
+<s> k i   ò ṣ è l ú   b á   à w ọ n   a <pad> r á   ì l ú   j í r ò r ò   l a <pad> t i   ṣ e   ò f i <pad> n   à t i   à ṣ à   à t i   d a <pad> r i   ì l ú   d á r a   j u   p é   k i   á </s>
+<s> g b a   à ṣ à   a <pad> l á ṣ à   l ọ </s>
+<s> t à b i   g b a   o <pad> j ú   o <pad> w ó   f ú n   i ṣ ẹ   t i   w ọ n   ṣ e </s>
+<s> ò ṣ ì ṣ ẹ   t i   ó   ṣ i ṣ ẹ   f ú n   ọ p ọ l ọ p ọ   à k ó k ò   l ó r í   o <pad> w ó   k é k e <pad> r é   k ò   l è   b ọ   n i <pad> n u   ì ṣ ẹ   n í t o <pad> r í   ọ l ọ r ọ   k ò </s>
+<s> n i   ì t ì j ú   l a <pad> t i   j ẹ   ò ó g ù n   ò ṣ ì ṣ ẹ </s>
+<s> ọ p ọ   ò ṣ ì ṣ ẹ   a   f i   ì t ì j ú   g é   a <pad> r a   w ọ n   k ú r ú   n í p a   à t i   b è r è   ẹ t ọ   w ọ n </s>
+<s> ò ṣ ì ṣ ẹ   m í r à n   a   ṣ e   i ṣ ẹ   ọ f ẹ   f ú n   ọ l ọ r ọ   t à b i   k i   w ọ n   f ú n r a   w ọ n   g é   o <pad> w ó   i <pad> s e   w ọ n   k ú r u   l a <pad> t i   r i </s>
+<s> o <pad> j ú   r e <pad> r e   ọ l ọ r ọ   n í p a   è y i   w ọ n   á   p a   o <pad> w ó   f ú n   ọ l ọ r ọ   n i   ì p a <pad> r í   ọ d ú n </s>
+<s> ọ r ọ   y o <pad> r ù b á   t i   o   n i   ọ d á j ú   l ó   b i   o <pad> w ó   ì t ì j ú   l ó   b i   i <pad> g b è s è   ṣ e   l ó   l a <pad> t i   b a   o <pad> l o <pad> r o   t à b i   o </s>
+<s> n i   i <pad> l é i ṣ ẹ   t i   á   l o   g b o <pad> b o   ọ n à   l a <pad> t i   m a   g b a   ẹ g b ẹ ò ṣ ì ṣ ẹ   l á y è </s>
+<s> ọ l ọ r ọ   k ò   n i   ì t ì j ú   l a <pad> t i   l o   ò ṣ ì ṣ ẹ   f ú n   o <pad> w ó   k é k e <pad> r é </s>
+<s> a   l è   l o   ọ r ọ   y i   l a <pad> t i   g b a   ò ṣ ì ṣ ẹ   n i   ì y à n j ú   k i   w ọ n   m á   t a <pad> r a   w ọ n   n i   ọ p ọ   n í p a   b i   b è r è </s>
+<s> o <pad> w ó   t i   ó   y ẹ   f ú n   i ṣ ẹ   t i   w ọ n   ṣ e   à t i   p é   k i   ò ṣ ì ṣ ẹ   g b ì y à n j u   l a <pad> t i   k ọ   i ṣ ẹ   m ọ   i ṣ ẹ   l a <pad> t i </s>
+<s> w à   n i   i <pad> p ò   à t i   b è r è   o <pad> j ú   o <pad> w ó </s>
+<s> ọ p ọ   ẹ r a <pad> n k o   t i   ó   n i   ì w o   l ó r i   m a   n l o   l a <pad> t i   f i   g b è j à   a <pad> r a   w ọ n   t i   e <pad> w u   b á   d o <pad> j ú   k ọ   w ọ n </s>
+<s> n i   ì d à   ì w o   i <pad> g b i <pad> n   w à   f ú n   l a <pad> t i   f u <pad> r a   n i <pad> n ú   e <pad> w u   n í t o <pad> r í   n á à   b i   i <pad> g b i <pad> n   b á   r ò   p é   e <pad> w u   w a </s>
+<s> n i   à y í k á   i <pad> g b i <pad> n   à t i   ì w o   r ẹ   a   k ó   w ọ   k a <pad> r a u <pad> n   f ú n   à b ò </s>
+<s> f ú n   ẹ r a <pad> n k o   à t i   i <pad> g b i <pad> n   ì w o   t i   ó   l e   ẹ r a <pad> n k o   à t i   ì w o   r í r ọ   i <pad> g b i <pad> n   w à   f ú n   i ṣ ẹ   k a <pad> n   n a a   m e <pad> j e e <pad> j i   w à </s>
+<s> f ú n   à b ò   ṣ ù g b ọ n   f ú n   i <pad> w ú l ò   ọ t ọ t ọ </s>
+<s> ọ p ọ l ọ p ọ   y o <pad> r ù b á   l ó   n ṣ e   d á r a <pad> d á r a   n í   i <pad> l é   à t i   à j ò   t í   a   k ò   g b ọ   ì r ò y ì n   w ọ n </s>
+<s> y o <pad> r ù b á   n i   ẹ n i   j a <pad> l è   l ó   b ọ m ọ   j ẹ   ì r ò y ì n   i ṣ ẹ   r e <pad> r e   k i   t à n   b i   i <pad> r ú   ì r ò y ì n   i ṣ ẹ   i <pad> b i   t i   m i <pad> c h a e <pad> l   a <pad> d é b ọ l á j ọ </s>
+<s> à t i   m i <pad> c h a e <pad> l   a <pad> d é b ọ w á l é   t ó   k á r í   a <pad> y é </s>
+<s> ó   y ẹ   k i   ì j ọ b a   à t i   g b o <pad> g b o   y o <pad> r ù b á   p a   ẹ n u   p ọ   l a <pad> t i   b á   o <pad> n í ṣ ẹ   i <pad> b i   w i   n í t o <pad> r í   g ẹ g ẹ b í   ò w e   y o <pad> r ù b á   ẹ r ú </s>
+<s> k a <pad> n   l ó   m ú   n i   b u   i <pad> g b a   ẹ r ú </s>
+<s> à ṣ à   i <pad> l ẹ   y o <pad> r ù b á   t í t í   d i   à s ì k ò   y i   ọ p ọ l ọ p ọ   ọ k ù n r i <pad> n   m a   n n i   ì y à w ó   p ú p ọ   w ọ n   s i   m a   m b i   ọ m ọ   p ú p ọ   w í w ọ </s>
+<s> i <pad> r ú   a ṣ ọ   k a <pad> n   n a a   f u <pad> n   ṣ í ṣ e   m a   n f i   ẹ b i   h a <pad> n </s>
+<s> a ṣ ọ   ẹ b í   b ẹ r ẹ   n í p a   k i   ọ k ọ   à t i   ì y à w ó   d á   i <pad> r ú   a ṣ ọ   k a <pad> n   n i <pad> g b a   ì g b é y à w ó   à t i   w í w ọ   i <pad> r ú   a ṣ ọ   k a <pad> n   n a a </s>
+<s> l ẹ h i <pad> n   ì g b é y à w ó   l a <pad> t i   f i   h a <pad> n   w í p é   w ọ n   t i   d i   a <pad> r a   k a <pad> n </s>
+<s> b à b á   m a   n r a   a ṣ ọ   i <pad> r ú   k a <pad> n   n a a   f u <pad> n   à w ọ n   ọ m ọ   n í t o <pad> r í   ó   d í n   ì n á w ó   k ù   l á t i   r a   i <pad> r ú   a ṣ ọ </s>
+<s> k a <pad> n   n a a   f ú n   ọ m ọ   p ú p ọ   n í p a   r í r a   ì g à n   a ṣ ọ   j u   r í r a   n i   ọ p á </s>
+<s> a ṣ ọ   ẹ b í   t ú n   w a   f ú n   ẹ b í   à t i   ọ m ọ   o <pad> l o <pad> k u   ì y à w ó   ṣ í ṣ e   ẹ g b ẹ   ì l ú   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> n í g b à t í   w è r è   k o   t i   w ọ   à ṣ à   a ṣ ọ   ẹ b í   ẹ n i <pad> t í   o   ṣ e   ì y à w ó   ṣ e   ò k ú   s ọ   ọ m ọ   l ó r ú k ọ   à t i   ṣ i ṣ e   y o <pad> k u </s>
+<s> m a   n p e   a ṣ ọ   n i </s>
+<s> k ò   k a <pad> n   d a <pad> n d a <pad> n   k i   è n ì á   r a   a ṣ ọ   t u <pad> n t u <pad> n   f ú n   g b o <pad> g b o   ṣ í ṣ e   f ú n   à p ẹ r ẹ   a ṣ ọ   f u <pad> n f u <pad> n   n i   w ọ n   m a   s ọ   w í p é </s>
+<s> k i   à w ọ n   ẹ b í   à t i   ọ r ẹ   w ọ   f ú n   ò k ú   ṣ í ṣ e   a ṣ ọ   i <pad> b i <pad> l ẹ   b i   a ṣ ọ   ò f i   à t i   à d ì r ẹ   f ú n   ì g b é y à w ó </s>
+<s> ẹ b í   ì y à w ó   l e   s ọ   w í p é   k i   ẹ g b ẹ   w ọ   a ṣ ọ   a <pad> l á w ọ   e <pad> w é   l a <pad> t i   b a   o <pad> h u <pad> n   y ọ   a <pad> y ọ   ì g b é y à w ó   k i   ẹ b í   ọ k ọ </s>
+<s> n i   k i   à w ọ n   ẹ g b ẹ   w ọ   à d ì r ẹ   t i   w ọ n   t i   r a   t ẹ l ẹ   f ú n   ì g b é y à w ó </s>
+<s> l a <pad> t i   b i   o <pad> g o <pad> j i   ọ d u <pad> n   s ẹ h i <pad> n   l ẹ h i <pad> n   t i   ì l ú   t i   b ẹ r ẹ   s i   n a a   o <pad> w ó   e <pad> p o   à ṣ e <pad> j ù   t i   w ọ   à ṣ à   a ṣ ọ   ẹ b í </s>
+<s> r í r à </s>
+<s> à ṣ à   a ṣ ọ   ẹ b í   t i   k á á r i   ì l ú   k ọ j á   i <pad> l e   y o <pad> r ù b á   s i   g b o <pad> g b o   n à í j í r í à </s>
+<s> ọ p ọ l ọ p ọ   a   m a   j ẹ   g b è s è   n í t o <pad> r í   à t i   r a   a ṣ ọ   ẹ b í   p à t à k ì   n i   ì l ú ọ b a   t i   à w ọ n   m i <pad> r a <pad> n   t i   n ṣ i ṣ ẹ   à ṣ e <pad> k ú   l a <pad> t i </s>
+<s> k ó   i <pad> r ú   o <pad> w ó   b ẹ ẹ   s i   a ṣ ọ   ẹ b í   à w ọ n   m i <pad> r a <pad> n   á   k ó   o <pad> w ó   o ú n j ẹ   à t i   o <pad> w ó   i <pad> l é   ì w é   l ó r í   a ṣ ọ   ẹ b í </s>
+<s> ì l ú   ń b à j ẹ   s i   k ò   s í n á   k ò   s ó m i   ì ṣ ẹ   p ọ   a ṣ ọ   ẹ b í   k o   l e   m u   ì ṣ ẹ   k ú r ò   t à b i   s ọ   ẹ n i <pad> t í   o </s>
+<s> j ẹ   g b è s è   l á t i   r a   a ṣ ọ   ẹ b í   d i   è n ì y à n   n l a   n í t o <pad> r í   a ṣ ọ   n l a   k ọ   l è n ì y à n   n l a   y o <pad> r ù b á   n i   i <pad> l é   l ó k o </s>
+<s> ẹ   d í n   w è r è   a ṣ ọ   ẹ b í   k ù </s>
+<s> ọ r ọ   y o <pad> r ù b á   n í   ẹ n i   t ó   l ó r í   k ò   n í   f ì l à   ẹ n i   t ó   n í   f ì l à   k ò   l ó r í </s>
+<s> t a <pad> n i   e <pad> n i   ẹ n i   t ó   l ó r í   t i   k ò   n í   f i <pad> l a </s>
+<s> e <pad> n i <pad> t í   g b o <pad> g b o   à y è   w à   f ú n   l a <pad> t i   ṣ e   n k a <pad> n   n l a   b i   k a   k ọ   ẹ k ọ   ì j ì n l ẹ   l a <pad> t i   p è s è   à y è   à t i   o <pad> h u <pad> n   a <pad> m é y é d ẹ r ù n </s>
+<s> f ú n   ì l ú   à t i   a <pad> r á   ì l ú   t í   k ò   l ó   à y è   y i </s>
+<s> t a <pad> n i   ẹ n i   t í   ó   n i   f ì l à   t í   k ò   l ó r í </s>
+<s> e <pad> n i   t í   ì l ú   t à b í   ò b í   t i   p è s è   à y è   à t i   g b o <pad> g b o   o <pad> h u <pad> n   a <pad> m é y é d ẹ r ù n   f ú n   l á t i   l è   k ọ   ẹ k ọ   ì j ì n l ẹ   ṣ ù g b ọ n   t ó </s>
+<s> k ọ   l á t i   k ọ   ẹ k ọ   t à b i   k ó   k ọ   i ṣ ẹ   ọ w ọ </s>
+<s> k ò   s í   ẹ n i   t ó   l e   n i   f ì l à   l a i   l ó r í   n í t o <pad> r í   ọ l ọ r u <pad> n   d á   o <pad> r í   f ú n   g b o <pad> g b o   ẹ d á   a <pad> l à y è   ṣ ù g b ọ n   è n ì à   l è </s>
+<s> l ó r i   k ó   m á   n i   f ì l à   t í   ó   j ẹ   à t ọ w ọ d á   ọ m ọ   è n ì à </s>
+<s> f ú n   à p ẹ r ẹ   a i   l o   o <pad> r í   l a <pad> t i   p è s e   o <pad> h u <pad> n   a <pad> m é y é d ẹ r ù n   l ó   f a   s ú n   k ẹ r ẹ   f à   k ẹ r ẹ   ọ k ọ   n i   ì l ú   è k ó   n í t o <pad> r í </s>
+<s> b i   è k ó   b á   l o   ọ k ọ   o <pad> j ú   o <pad> m i   ọ k ọ   o <pad> j ú i <pad> r i <pad> n   p ẹ l ú   ọ k ọ   o <pad> r í   i <pad> l ẹ   l a <pad> t i   k ó   è n ì à   à t i   ẹ r u   l a <pad> t i   i <pad> b ì k a <pad> n </s>
+<s> d é   i <pad> b ì k e <pad> j ì   s ú n   k ẹ r ẹ   f à   k ẹ r ẹ   ọ k ọ   á   d í n   k ù   g i <pad> d i <pad> g i <pad> d i   à t i   w í p é   a   d í n   ì y à   à t i   à s ì k ò   t i   à w ọ n </s>
+<s> è r ò   n l o   l ó j ú   ọ n à   l ó j o <pad> j ú m ọ   k ù </s>
+<s> ẹ f i   o <pad> j ú   s ọ n a   l ọ s ọ s ẹ   f ú n   k í k ọ   n í p a   à w ọ n   n k a <pad> n   w ọ n y i   l é d è   y o <pad> r ù b á   à t i   ì t u <pad> m ọ   l é d è   g ẹ ẹ s ì   ì m ú l ò   ò w e   k í k ọ   è d è </s>
+<s> ì t à n   à t i   ì r ò y ì n   t í   a   l è   f i   k ọ g b ọ n   ẹ g b ẹ   à t i   o ú n j ẹ   y o <pad> r ù b á   n i   ì l ú   l o <pad> n d o <pad> n   n e <pad> w   y o <pad> r k   c h i <pad> c a <pad> g o   o <pad> r l a <pad> n d o   à t i </s>
+<s> b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> ẹ   b á   w a   s o <pad> w ọ p ọ   l á t i   r i   p é   è d è   w a   k ò   k ú   n í p a   k í k ọ   à t i   k í k à   è d è   y o <pad> r ù b á   l ó r í   ẹ r ọ   a <pad> y é l u <pad> j á r a </s>
+<s> ẹ   ṣ é   p ú p ọ   i <pad> l é   à t i   è d è   y o <pad> r ù b à   k ò   n í   p a <pad> r u <pad> n   o   l á g b á r a   è d ù m à r è   à ṣ ẹ </s>
+<s> ò w e   y o <pad> r ù b á   n i   i <pad> r e   k ì   í   d é   k á   m á   g b ọ   o <pad> h u <pad> n   g u <pad> d u <pad> g u <pad> d u   i <pad> g b e   a <pad> y ọ   t i   o   t i   j á d e   n i   g b o <pad> g b o </s>
+<s> à g b á y é   k ọ j á   g u <pad> d u <pad> g u <pad> d u   l a <pad> t i   à n á </s>
+<s> à w ọ n   o <pad> l ó g u <pad> n   t i   y i <pad> n   ọ k à n l é l ó g ú n   s ó k è   l a <pad> t i   k i   ọ m ọ   t i <pad> t u <pad> n   k á à b ọ   s i   a <pad> y é </s>
+<s> a   k í   b à b á   à t i   ì y á   ọ m ọ   à t i   g b o <pad> g b o   ẹ b í   p é   w ọ n   k ú   o <pad> r í i <pad> r e </s>
+<s> s ọ   a <pad> y a   ọ m ọ   r ẹ   d i   o <pad> r o <pad> g ú n </s>
+<s> g ẹ g ẹ   b i   a   t i   m ọ   i <pad> g b é y à w ó   i <pad> b i <pad> l ẹ   k ò   n i   k i   ọ k ù n r i <pad> n   m a   f ẹ   ì y à w ó   k e <pad> j i </s>
+<s> ó   j ẹ   è r è   i <pad> w à   b u <pad> r ú k ú   à t i   ì g b é r a <pad> g a </s>
+<s> ọ k ù n r i <pad> n   k a <pad> n   p ẹ l ú   ì y à w ó   p ú p ọ   w ọ p ọ   n i   i <pad> l ẹ   y o <pad> r ù b á </s>
+<s> à w ọ n   o <pad> b i <pad> n r i <pad> n   t i   ó   b á   f ẹ   ọ k ọ   k a <pad> n   n a a   n i   à   ń p è   n i   o <pad> r o <pad> g ú n </s>
+<s> ì w à   o <pad> r i ṣ i <pad> r i ṣ i   n i   ó   m a   ń h à n   n i   i <pad> l é   o <pad> l ó r o <pad> g ú n   à r ù n   ì y à w ó   t i   ó   ń j a <pad> l è   p u <pad> r ọ   ṣ e   à g b è r è   a <pad> l á i <pad> s à n   t i   ó </s>
+<s> ń ṣ e   ò f ó f ó   à t i   b ẹ ẹ b ẹ ẹ   l ọ   l è   m á   h à n   b i   ó   b á   j ẹ   o <pad> b i <pad> n r i <pad> n   k a <pad> n   p ẹ l ú   ọ k ọ   r ẹ   n i   ó </s>
+<s> ń g b e   g ẹ g ẹ   b i   t i   a <pad> y é   o <pad> d e   o <pad> n i </s>
+<s> b i   ì y à w ó   b á   t i   p é   m é j ì   m ẹ t a   b i   à r ù n   y i   b á   h à n   s i   ì y à w ó   k e <pad> j i   è é b ú   d é   p à t à k ì   n i   à s i <pad> k ò </s>
+<s> i <pad> j à </s>
+<s> n i   ẹ s i <pad> n   i <pad> b i <pad> l ẹ   o <pad> y e   ì y à w ó   t i   ọ k ù n r i <pad> n   l è   f ẹ   k o   n i <pad> y e   p à t à k ì   ọ b a   o <pad> l ó y è   ọ l ọ r ọ   à t i   a <pad> k i <pad> k a <pad> n j ú   n i   à w ù j ọ </s>
+<s> b i   à w ọ n   t i   ó   n i   i <pad> p ò   g i <pad> g a   t a <pad> b i   ò k ì k í   n i   à w ù j ọ   k ò   f ẹ   f ẹ   ì y à w ó   p ú p ọ   a <pad> r á   i <pad> l ú   á   f i </s>
+<s> o <pad> b i <pad> n r i <pad> n   t a   w ọ n   l ọ r ẹ </s>
+<s> ẹ s i <pad> n   i <pad> g b à l ó d é   p à t à k ì   ẹ s i <pad> n   i <pad> g b à g b ọ   t i   d i <pad> n   à ṣ à   i <pad> k ó b i <pad> n r i <pad> n j ọ   k ù </s>
+<s> ò f i <pad> n   ẹ l ẹ s i <pad> n   i <pad> g b à g b ọ   n i   ọ k ọ   k a <pad> n   à t i   a <pad> y a   k a <pad> n </s>
+<s> b i   o   t i   j ẹ   p é   ẹ s i <pad> n   m u <pad> s u <pad> l u <pad> m i   g b à   k i   ọ k ù n r i <pad> n   l è   f ẹ   ì y à w ó   t i <pad> t i   d é   m ẹ r i <pad> n   ọ p ọ l ọ p ọ   ọ k ù n r i <pad> n   m u <pad> s u <pad> l u <pad> m i </s>
+<s> i <pad> g b à l ó d é   ń s á   f ú n   k i <pad> k ó   ì y à w ó   j ọ </s>
+<s> f ẹ l á   k ú t i   f ẹ   ì y à w ó   m ẹ t a <pad> d i <pad> n l ọ g b ọ n   n i   ọ j ọ   k a <pad> n </s>
+<s> y o <pad> r ù b á   n i   ò r i ṣ à   ò k è   j ẹ   k i   n p é   m é j ì   o <pad> b i <pad> n r i <pad> n   k ò   d é   n ú </s>
+<s> i <pad> n ú   o <pad> b i <pad> n r i <pad> n   t i   w ọ n   f ẹ   ì y à w ó   t ẹ l é   k ò   l è   d ù n   d é   i <pad> n ú   n í t o <pad> r í   e <pad> y i   k ò   l è   f i   g b o <pad> g b o   ọ k à n   r ẹ </s>
+<s> t á n   ọ k ọ   r ẹ   m ọ   o <pad> w ú   j i <pad> j ẹ   á   b ẹ r ẹ </s>
+<s> ì y à w ó   k é k e <pad> r é   l è   d é   i <pad> l é   r i   à b ù k ù   ọ k ọ   t i   i <pad> y á l é   m ú   m ọ r a </s>
+<s> ọ p ọ l ọ p ọ   i <pad> l é   o <pad> l ó r o <pad> g ú n   k i <pad> k i   i <pad> j à   à t i   a <pad> r i <pad> w o   l a a <pad> r i <pad> n   à w ọ n   ì y à w ó   à t i   à w ọ n   ọ m ọ   n a a </s>
+<s> d i ẹ   n i <pad> n ú   ọ k ù n r i <pad> n   t i   ó   f ẹ   ì y à w ó   p ú p ọ   l ó   n i   i <pad> g b á d ù n </s>
+<s> ọ p ọ l ọ p ọ   ọ k ù n r i <pad> n   t i   ó   k ó   o <pad> b i <pad> n r i <pad> n   j ọ   n i   ó   ń s ọ   ẹ m i   w ọ n   n ù   n i   ọ j ọ   a i   p ẹ   n í t o <pad> r í   a i   n i </s>
+<s> i <pad> f ọ k à n b a <pad> l ẹ   à t i   à ì s à n   t i   b i   b á   o <pad> b i <pad> n r i <pad> n   p ú p ọ   l ò   p ọ   l è   f à </s>
+<s> n í t o <pad> r í   e <pad> y i   ọ k ù n r i <pad> n   t i   ó   b á   f ẹ   k ó   ì y à w ó   j ọ   n i <pad> l a <pad> t i   m ú r a   g i <pad> d i <pad> g i <pad> d i   f u <pad> n   o <pad> h u <pad> n   t i   ó   m a   g b ẹ h ì n   à ṣ à </s>
+<s> y i </s>
+<s> y o <pad> r ù b á   n i   ọ m ọ   ẹ n i   k ò   l è   b u <pad> r ú   t i <pad> t i   k á   f i   f ú n   ẹ k ù n   p a   j ẹ   k i   ṣ e   b i   t i   o <pad> b i <pad> n r i <pad> n   s u <pad> d a <pad> n </s>
+<s> m a <pad> r i a <pad> m   y a <pad> h i a   i <pad> b r a <pad> h i <pad> m   t i   w ọ n   g b é   s i   ẹ w ọ n   p ẹ l ú   o <pad> y ú n   l a <pad> t i   d ú r ó   d e   i <pad> d á j ọ   i <pad> k ú   l ẹ h i <pad> n   ọ m ọ   b i <pad> b i   n í t o <pad> r í </s>
+<s> ẹ s ì n </s>
+<s> o <pad> h u <pad> n   p ẹ l ú   ọ m ọ   t i   ó   t i   b i   t ẹ l ẹ   n i   w ọ n   g b é   j ù   s i   ẹ w ọ n   f ú n   ẹ s ù n   p é   k ò   y ẹ   k i </s>
+<s> ó   f ẹ   ì g b à g b ọ   l á b ẹ   ò f i <pad> n   s h a <pad> r i a </s>
+<s> l á b ẹ   ò f i <pad> n   y i   ọ k ù n r i <pad> n   ì m à l e   l è   f ẹ   o <pad> b i <pad> n r i <pad> n   n i   ẹ s ì n   m i <pad> r a <pad> n   ṣ ù g b ọ n   o <pad> b i <pad> n r i <pad> n   w ọ n   k ò   n i   ẹ t ọ   l a <pad> t i   f ẹ   ẹ n i </s>
+<s> t i   ó   b á   ṣ e   ẹ s ì n   m i <pad> r a <pad> n </s>
+<s> k ò   s i   b i   ẹ n i   t i   ó   f a   ọ m ọ   r ẹ   s i <pad> l ẹ   n í t o <pad> r í   ó   f ẹ   ẹ l ẹ s ì n   m i <pad> r a <pad> n   t i   l è   s ọ   p é   o <pad> h u <pad> n </s>
+<s> n i   ò t i <pad> t ọ   n i <pad> n ú   g b à w ì n   ì k à </s>
+<s> b a <pad> w o   n i   e <pad> n i a   ṣ e   l è   p a   ẹ n i <pad> k e <pad> j i   n í t o <pad> r í   ẹ s ì n </s>
+<s> ì k à   t i   w à   n i <pad> n ú   i <pad> r ú   à w ọ n   b a <pad> y i   k i   w ọ n   t o   g b a   ẹ s ì n   w ọ n   k a <pad> n   f i   ẹ s ì n   b o <pad> j ú   ṣ e   ì k à   n i </s>
+<s> à j à   n i   w ọ n   f i   ḿ b ọ   ò g ú n   k i   ṣ e   e <pad> n i a </s>
+<s> y o <pad> r ù b á   n i   a   k i   f i   ọ m ọ   ọ r ẹ   b ọ   ọ r ẹ   ò w e   y i   t ú m ọ   s i   p e   a <pad> b ò r i ṣ à   y o <pad> r ù b á   k ò   j ẹ   f a   ọ m ọ </s>
+<s> r ẹ   s i <pad> l ẹ   f ú n   i <pad> k ú   n í t o <pad> r í   ó   y à   k ú r ò   n i <pad> n ú   ẹ s i <pad> n   i <pad> b i <pad> l ẹ </s>
+<s> ì r ò y ì n   j a <pad> d e   p é   m a <pad> r i a <pad> m   y a <pad> h i a   i <pad> b r a <pad> h i <pad> m   t i   b i   ọ m ọ   s i   ẹ w ọ n   a   r i   n i <pad> n ú   ẹ b i   r ẹ   t i   o   k e   p e </s>
+<s> k i   w o <pad> n   f i   i <pad> k ú   s i <pad> s o   p á   t i   ó   b á   k ọ   p é   o <pad> h u <pad> n   k ó   p a <pad> d á   s i   ẹ s ì n   ì m à l e </s>
+<s> g b o <pad> g b o   à g b á y é   ḿ b ẹ   à w ọ n   ò ṣ è l ú   s u <pad> d a <pad> n   k i   w ọ n   t ú   o <pad> b i <pad> n r i <pad> n   à t i   à w ọ n   ọ m ọ   r ẹ   s i <pad> l ẹ   n í t o <pad> r í   i <pad> r ú   ẹ j ọ   o <pad> r ó   y i </s>
+<s> k ò   t ọ n à   n i   a <pad> y é   ò d e   ò n i </s>
+<s> ọ p ọ   t i   ó   n i   i <pad> p ò   n i   à w ù j ọ   n i   ó   f i   i <pad> w à   i <pad> k à   b a   i <pad> p ò   w ọ n   j ẹ </s>
+<s> ì r ò y ì n   b i   o <pad> l ó ò g b é   j i <pad> m m y   s a <pad> v i <pad> l e   t i   f i   i <pad> w à   b u <pad> r ú k ú   b a   i ṣ ẹ   r i <pad> b i <pad> r i <pad> b i   t i   ó   ṣ e   n í p a   p i   p a   o <pad> w ó   f ú n </s>
+<s> ọ r ẹ à á n ú   n i   ó   ń l ọ   l ọ w ọ l ọ w ọ </s>
+<s> n k a <pad> n k a <pad> n   l ọ   t i   a <pad> y é   b á   p a <pad> r ẹ   n i <pad> t o <pad> t ọ </s>
+<s> è k ó   j ẹ   o <pad> l ú   ì l ú   n à í j í r í à   f ú n   ọ p ọ l ọ p ọ   ọ d ú n   k i   w ọ n   t ó   s ọ   a <pad> b u <pad> j a   d i   o <pad> l ú   ì l ú   n à í j í r í à   ṣ ù g b ọ n   è k ó   ṣ i </s>
+<s> j ẹ   o <pad> l ú   ì l ú   f ú n   i ṣ ẹ   ọ r ọ   g b o <pad> g b o   n à í j í r í à </s>
+<s> n í t o <pad> r í   e <pad> y i   g b o <pad> g b o   ẹ y à   n à í j í r í à   à t i   à w ọ n   a <pad> r á   ì l ú   m i <pad> r a <pad> n   t i <pad> t i   d é   ò k è ò k u <pad> n   l ó   w à   n i   è k ó </s>
+<s> y o <pad> r ù b á   n i   è d è   t i   w ọ n   n s ọ   n i   ì g b o <pad> r o   è k ó   ṣ ù g b ọ n   ọ p ọ l ọ p ọ   g b ọ   è d è   g ẹ ẹ s i   p à t à k ì   à w ọ n   t i   k i   ṣ é   ọ m ọ </s>
+<s> y o <pad> r ù b á </s>
+<s> ẹ   w o   d í ẹ   n i   à w ọ n   ì ṣ e   à t i   ọ r ọ   n i   ì g b o <pad> r o   è k ó </s>
+<s> g ẹ g ẹ b i   à p è   j ú w e   ẹ r a <pad> n k o   a   f à y à   f à   j ẹ   ẹ r a <pad> n k o   t i   ó   n i   à w ọ   o <pad> m i <pad> r a <pad> n   n i   o <pad> r o   o <pad> m i <pad> r a <pad> n   n i   i <pad> k a <pad> r a <pad> w u <pad> n   w ọ n </s>
+<s> s i   ń y é   ẹ y i <pad> n </s>
+<s> f ú n   à p ẹ r ẹ   i <pad> r ú   à w ọ n   ẹ r a <pad> n   w ọ n y i   n i   e <pad> j ò   à j à p á   a <pad> l a <pad> n g b a   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> ẹ   w o   à w ò r á n   à t i   p i <pad> p e   i <pad> r ú   à w ọ n   ẹ r a <pad> n k o   w ọ n y i   n i   o <pad> j ú   e <pad> w é   y i </s>
+<s> n i   a <pad> s i <pad> k o   ọ d ú n   p à t à k ì   a <pad> s i <pad> k o   ọ d ú n   i <pad> r a <pad> n t i   ọ j ọ   i <pad> b i   j é s ù   b i   o ú n j ẹ   t i   p ọ   t ó   f ú n   ọ p ọ l ọ p ọ   t i   o   w a </s>
+<s> n i   ò k è o <pad> k u <pad> n   à t i   à w ọ n   d í ẹ   n i   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   b ẹ ẹ   n i   o   ṣ ọ w ọ n   t ó   f ú n   ọ p ọ l ọ p ọ   n i   à g b á y é </s>
+<s> ò w e   y o <pad> r ù b á   n i   ọ k á n j ú w à á   b u   ò k è l è   o <pad> j ú   r ẹ   à   l a <pad> m i </s>
+<s> b i   e <pad> n i a   ò   b á   n i   ọ k á n j ú w à   á   m ọ   i <pad> r ú   ò k è l è   t i   ó   l è   g b a   ọ n à   ọ f u <pad> n   r ẹ   ṣ ù g b ọ n   ọ k á n j ú w a   á </s>
+<s> b u   l a i   r o <pad> n u   p e   ò k è l è   t i   ó   j u   ọ n à   ọ f u <pad> n   l ọ   á   f a   ẹ k ú n </s>
+<s> ò w e   y i   b á   à w ọ n   t i   ó   ṣ e   j u <pad> r a   w ọ n   l ọ   t à b i   k i   ó   j ẹ   i <pad> g b è s è   l a <pad> t i   r a   ẹ b ù n   o ú n j ẹ   t i </s>
+<s> w ọ n   ò   n i   j ẹ   t á n   a ṣ ọ   b à t à   à t i   o <pad> r i ṣ i <pad> r i ṣ i   t i   w ọ n   r i   n i   ì p o <pad> l ó w ó   l a i   m ọ   p é   ọ d ú n   á   r é </s>
+<s> k ọ j á </s>
+<s> l ẹ h i <pad> n   ọ d ú n   ọ p ọ   a   f i   i <pad> g b è s è   b ẹ r ẹ   ọ d ú n   t i <pad> t u <pad> n   e <pad> y i   a   f a   ì r o <pad> r a   à t i   ọ r ọ   t i   ó   ṣ ò r o   s i </s>
+<s> a <pad> y é   i <pad> r ú   ẹ n i   b ẹ ẹ </s>
+<s> y o <pad> r ù b á   n i   á j ẹ   ì w ẹ h ì n   l ó   b a   ẹ l ẹ d ẹ   j ẹ   n í t o <pad> r í   e <pad> y i   ì k ì l ọ   f ú n   ẹ y i <pad> n   t i   ẹ   n i   ì f ẹ   à t i   g b é   è d è </s>
+<s> à t i   à ṣ à   y o <pad> r ù b á   l á r u <pad> g ẹ   p e   k i   ẹ   ṣ e   o <pad> h u <pad> n   g b o <pad> g b o   n i   ì w ọ n t ú n w ọ n s ì </s>
+<s> ẹ   k ú   ọ d ú n   o   ọ d ú n   t i <pad> t u <pad> n   t i   o   ḿ b ọ   l ọ n à   á   y a   a <pad> b o   f ú n   g b o <pad> g b o   w a </s>
+<s> l a <pad> t i   ọ j ọ   t i   a <pad> l á y é   t i   d á   a <pad> y é   n i   y o <pad> r ù b á   t i   n i   ì g b à g b ọ   n i <pad> n u   k i   a   g b a   à d ú r à   n í t o <pad> r í   p e   o <pad> h u <pad> n </s>
+<s> g b o <pad> g b o   f ẹ   à d ú r à   o <pad> h u <pad> n   t i   o   d á r a   f ẹ   à d ú r à   k i   ó   b à   l é   d á r a   s i   e <pad> y i   t i   k ò   d á r a   n a </s>
+<s> f ẹ   à d ú r à   k i   ó   b à   l é   y a <pad> n j ú </s>
+<s> b i   à w ọ n   ì g b à g b ọ   t à b i   i <pad> l é à d ú r à   a <pad> l á ṣ ọ   f u <pad> n f u <pad> n   t i   ń l o   à b ẹ l à   g b a   à d ú r à   a   n i   y o <pad> r ù b á   m a   ń l o   à w ọ n   o <pad> h u <pad> n   ọ g b i <pad> n </s>
+<s> b i   o <pad> r ó g b ó   o <pad> b ì   a <pad> t a <pad> r e   à t i   o <pad> y i <pad> n   n i <pad> b i   è t ò   ì g b é y à w ó   ì s ọ m ọ   l ó r ú k ọ   ì ṣ í l é   à j ọ d ú n   à t i   b ẹ ẹ b ẹ ẹ   l ọ </s>
+<s> ẹ   j ẹ   k i   a   ṣ e   a <pad> k i <pad> y e <pad> s i   b i   y o <pad> r ù b á   t i   ń l o   w ọ n   f ú n   à d ú r à   ọ p ọ l ọ p ọ   ì g b à   n i   a   k i   m ọ   ẹ n i </s>
+<s> t i   o   g b i <pad> n   i <pad> g i   o <pad> r ó g b ó   n í t o <pad> r í   i <pad> g i   r ẹ   l è   p é   i <pad> g b a   ọ d ú n   n í t o <pad> r í   e <pad> y i   y o <pad> r ù b á   m a   ń l o   l a <pad> t i   g b à d ú r à   n i <pad> b i </s>
+<s> ṣ i ṣ e   f ú n   ẹ m i   g i <pad> g u <pad> n   p e   w a   g b ó   w a   t ọ </s>
+<s> o <pad> b ì   w u <pad> l o   f ú n   ọ r ọ   a <pad> j é </s>
+<s> y o <pad> r ù b á   n i   ọ d ọ d ú n   l a   n r i   o <pad> r ó g b ó   ọ d ọ d ú n   l a   n r i   o <pad> b ì   l o <pad> r i   a <pad> t ẹ   n í t o <pad> r í   e <pad> y i   w ọ n   a   l o   f ú n   à d ú r à   p e </s>
+<s> o <pad> b ì   a   b i   i <pad> k u   à t i   p é   ẹ n i   n a   a   ṣ e   à m ọ d ú n </s>
+<s> ọ m ọ   p ọ   n i <pad> n u   a <pad> t a <pad> r e   n í t o <pad> r í   e <pad> y i   w ọ n   a   f i   g b a   à d ú r à   p à t à k ì   f ú n   ẹ n i   t i   o   n ṣ e   ì g b é y à w ó   p e   i <pad> l é </s>
+<s> w ọ n   á   k ú n   f ú n   ọ m ọ   t à b i   n i <pad> b i   ì s ọ m ọ   l ó r ú k ọ   p e   b i   w ọ n   ṣ e   b i   ọ m ọ   n a   i <pad> l é   t i <pad> r ẹ   n a   á </s>
+<s> k ú n   f ú n   ọ m ọ </s>
+<s> ò w e   y o <pad> r ù b á   n i   d í d ù n   l à   ḿ b á   l á f á r á   o <pad> y i <pad> n   n í t o <pad> r í   e <pad> y i   w ọ n   a   l o   o <pad> y i <pad> n   l a <pad> t i   g b a   à d ú r à   n i <pad> b i   ì g b é y à w ó   ì s ọ m ọ </s>
+<s> l ó r ú k ọ   à t i   ṣ i ṣ e   y o <pad> k u   p e   a <pad> y é   ẹ n i   t i   o   n ṣ e   n k a <pad> n   á   d ù n   b i   o <pad> y i <pad> n </s>
+<s> ò w e   y o <pad> r ù b á   t i   o   n i   k á   t ó   r i   e <pad> r i <pad> n   ó   d i <pad> g b ó   k á   t ó   r i   ẹ f ọ n   ó   d ọ d à n   k á   t ó   r i </s>
+<s> ẹ y ẹ   b i   ọ k i <pad> n   ó   d i   g b é r e   f i <pad> h a <pad> n   p é   k i   ṣ e   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   n i <pad> k a <pad> n   n i   i <pad> r ú   n e <pad> l s o <pad> n   m a <pad> n d e <pad> l a   t i   ṣ e </s>
+<s> ọ w ọ n   ṣ u <pad> g b ọ n   g b o <pad> g b o   à g b á y é </s>
+<s> m e <pad> l o   n i <pad> n u   o <pad> l o <pad> r i   ò ṣ è l ú   à t i   à w ọ n   ò ṣ è l ú   i <pad> l ẹ   a <pad> l á w ọ   d ú d ú   l ó   l è   ṣ e   b i   n e <pad> l s o <pad> n   m a <pad> n d e <pad> l a </s>
+<s> b i   w ọ n   d é   i <pad> p ò   g i <pad> g a   w ọ n   k i   f ẹ   k ú r ò   w ọ n   a   p a <pad> n i <pad> y a <pad> n   w ọ n   a   j a <pad> l è   w ọ n   a   t a   e <pad> n i a   w ọ n </s>
+<s> à t i   o <pad> r i ṣ i <pad> r i ṣ i   i <pad> w a   b u <pad> r ú k ú   m i <pad> r a <pad> n   l a <pad> t i   d i   i <pad> p ò   n a   m u </s>
+<s> n e <pad> l s o <pad> n   m a <pad> n d e <pad> l a   ṣ e   ẹ w ọ n   f ú n   ọ d ú n   m ẹ t a <pad> d i <pad> n l ọ g b ọ n   n í t o <pad> r í   ó   g b ì y à n j ú   l a <pad> t i   t ú   à w ọ n   e <pad> n i a   r ẹ   s í l ẹ   n i   o <pad> k o   ẹ r ú </s>
+<s> k ò   l o   i <pad> p ò   y i   l a <pad> t i   g b ẹ s a <pad> n   i ṣ ẹ   i <pad> b i   t i   à w ọ n   a <pad> l á w ọ   f u <pad> n f u <pad> n   ṣ e   s i   t à b i   i <pad> j i <pad> y a   r ẹ   n i   ẹ w ọ n </s>

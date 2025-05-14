@@ -1,0 +1,792 @@
+[
+  {
+    "filename": "200625-230031_yor_874_elicit_13",
+    "input": "yoruba ni eniti olorun ko dun ninu to nla suga jedijedi lo ma pa",
+    "output": "yorùbá ní ẹnití ọlọrun kò dùn nínú tó nla ṣúgà jẹdíjẹdí ló ma pá"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_1",
+    "input": "mi mo awon oruko wonyi a tun je ki ede yoruba ye awon ti o ni ife lati ko ede",
+    "output": "mí mọ awọn orúkọ wọnyi á tún jẹ ki èdè yorùbá yé àwọn ti ó ni ìfẹ lati kọ èdè"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_4",
+    "input": "le fi owo dipo fun iya agba ni abule ki won ra abo ewure lati sin fun iyawo",
+    "output": "lè fi owó dipò fún ìyá àgbà ni abúlé ki wọn ra abo ewúrẹ lati sin fún ìyàwó"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_36",
+    "input": "egberunmejilemetala",
+    "output": "ẹgbẹrúnméjìlémẹtàlá"
+  },
+  {
+    "filename": "200630-092358_yor_874_elicit_35",
+    "input": "aso fun omotuntun ti won na owo repete lati ko jade",
+    "output": "aṣọ fún ọmọtuntun ti wọn ná owó rẹpẹtẹ lati kó jade"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_23",
+    "input": "awon ti o ni a o fe iwe boko haram",
+    "output": "àwọn ti o ni a ò fẹ iwé boko haram"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_30",
+    "input": "ibinu erin a ja de idi ibi ti yio da le lori",
+    "output": "ibinu erin á jà dé idi ibi ti yio dà le lori"
+  },
+  {
+    "filename": "200625-232021_yor_874_elicit_13",
+    "input": "le fa ewu iyebiye nitori naa o dara ka ko ogbon lati odo agba",
+    "output": "lè fa ewu iyebíye nítorí náà ó dára ká kọ ọgbọn lati ọdọ àgbà"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_46",
+    "input": "o ni bi ojo ba pe bi yanibo ba ti gbo iro elede ko yi ohun pada ki o bere",
+    "output": "ó ni bi ọjọ bá pé bi yáníbo bá ti gbọ ìró ẹlẹdẹ kó yi ohun padà ki ó bẹrẹ"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_34",
+    "input": "iji naa ba ile ati ona je repete ni ilu ibadan",
+    "output": "ìjì naa ba ílé ati ọna jẹ rẹpẹtẹ ni ìlú ìbàdàn"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_13",
+    "input": "keji tabi ojo miran",
+    "output": "keji tàbi ọjọ miran"
+  },
+  {
+    "filename": "200630-003859_yor_874_elicit_25",
+    "input": "pin akara ko pin daradara",
+    "output": "pin àkàrà ko pin daradara"
+  },
+  {
+    "filename": "200625-221631_yor_874_elicit_9",
+    "input": "mu aye derun fun won",
+    "output": "mu ayé dẹrùn fún wọn"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_32",
+    "input": "awon eya wonyi ni eko ti olu ilu re je ikeja ekiti ti olu ilu re je adoekiti",
+    "output": "àwọn ẹyà wọnyi ni èkó ti olú ilú rẹ jẹ ìkẹjà èkiti ti olú ilú rẹ jẹ adóèkiti"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_18",
+    "input": "bi yoruba ti feran igbadun to be ni won feran owo sise ati eko kiko",
+    "output": "bi yorùbá ti fẹràn igbádùn tó bẹ ni wọn fẹràn òwò ṣiṣe àti ẹkọ kikọ"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_44",
+    "input": "won tu jade lati fi opo dibo ati boju to ibo won lati gbe gomina ogbeni rauf aregbesola pada",
+    "output": "wọn tú jáde lati fi ọpọ dibò àti bójú tó ibò wọn lati gbé góminà ọgbẹni rauf arẹgbẹṣọlá padà"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_44",
+    "input": "yoruba ni a jo je ko dun bi eni kan ko ri",
+    "output": "yorùbá ni à jọ jẹ kò dùn bi ẹni kan kò ri"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_1",
+    "input": "nitori ati te aiye lorun baba ati omo bo sile won bere si fi ese rin tele ketekete",
+    "output": "nítorí àti tẹ aiyé lọrun bàbá àti ọmọ bọ silẹ wọn bẹrẹ si fi ẹsẹ rin tẹlé kẹtẹkẹtẹ"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_41",
+    "input": "ajapa ati awon idile re jade nwon bo ohun ti nwon fi bora sile lati tun bere si ko akara",
+    "output": "àjàpá àti àwon idile rẹ jade nwọn bọ ohun ti nwọn fi bora silẹ lati tún bẹrẹ si kó àkàrà"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_31",
+    "input": "ohun funra re tele omo re iwin tun yoju awon mejeeji sa ere pada si ilu lai ranti gbe igba",
+    "output": "ohun fúnra rẹ tẹlé ọmọ rẹ iwin tún yọjú àwọn mejeeji sá eré padà si ìlú lai ranti gbé igbá"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_25",
+    "input": "ni iluoba bi oselu ba se ohun itiju bi agbere jale gba abetele bi won ba ka mo tabi ko",
+    "output": "ni ìlúọba bi òṣèlú bá ṣe ohun ìtìjú bi àgbèrè jalè gba àbẹtẹlẹ bi wọn bá ka mọ tàbí kó"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_43",
+    "input": "ti won ni",
+    "output": "ti wọn ni"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_36",
+    "input": "awon olonje yoruba ri oja ta",
+    "output": "awon olonje yorùbá ri oja ta"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_19",
+    "input": "ti a ba sakiyesi opo omo to dagba si eko ko mo wipe yoruba ni ju obe ata ati efo",
+    "output": "ti a ba ṣakiyesi ọpọ ọmọ to dagba si èkó ko mọ wipe yorùbá ni ju ọbẹ ata ati ẹfọ"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_36",
+    "input": "aja won ti pa obo nitori adajo ti so stuart hall si ewon osu medogun",
+    "output": "ajá wọn ti pa ọbọ nítorí adájọ ti sọ stuart hall si ẹwọn oṣù mẹdogún"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_8",
+    "input": "gbogbo ona yi ni yoruba ti lo lati de iluoba",
+    "output": "gbogbo ọnà yi ni yorùbá ti lọ lati dé ìlúọba"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_1",
+    "input": "gege bi iwadi ti o jade lehin iku oloogbe yi o lo ipo re ni awujo lati ba edegbeta obinrin",
+    "output": "gẹgẹ bi iwadi ti o jáde lẹhin ikú olóògbé yi ó lo ipò rẹ ni àwùjọ lati bá ẹdẹgbẹta obinrin"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_38",
+    "input": "ero ilu ko ni dibo fun iru eni bee",
+    "output": "èrò ilú kò ni dibò fún irú ẹni bẹẹ"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_18",
+    "input": "iyawo ohun lejaju ati beebee lo",
+    "output": "ìyàwó òhun lèjàjù àti bẹẹbẹẹ lọ"
+  },
+  {
+    "filename": "200625-221631_yor_874_elicit_35",
+    "input": "won se alaye alebu ti asa buruku yi je fun awon obinrin ti won ba dabe fun ara alebu bi",
+    "output": "wọn ṣe àlàyé àlébù tí àṣà burúkú yi jẹ fún àwọn obìnrin tí wọn bá dábẹ fún ara àlébù bi"
+  },
+  {
+    "filename": "200625-230031_yor_874_elicit_9",
+    "input": "sofo atunse fun ile iwosan lapapo ati beebee lo",
+    "output": "ṣófo àtúnṣe fún ilé ìwòsàn lapapọ àti bẹẹbẹẹ lọ"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_43",
+    "input": "omo ko pe ohun ko lo pelu obi ohun ti afesona ohun ko ba ni tele awon lo",
+    "output": "ọmọ kọ pé ohun kò lọ pẹlú òbi ohun ti àfẹsọnà ohun kò bá ni tẹlé àwọn lọ"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_44",
+    "input": "o le se nkan ti eni kan ko seri",
+    "output": "ó lè ṣe nkan ti ẹni kan kò ṣerí"
+  },
+  {
+    "filename": "200625-230031_yor_874_elicit_45",
+    "input": "gbogbo agbara to fi nje awon obinrin wonyi niya di ofo",
+    "output": "gbogbo agbára to fi njẹ àwọn obinrin wọnyi niya di òfo"
+  },
+  {
+    "filename": "200630-092358_yor_874_elicit_0",
+    "input": "a lero wipe awon ileise ti won pin ina pi pese fun a yo ilu kuro ninu okunkun nitori okunkun",
+    "output": "á lérò wípé awọn iléiṣẹ ti wọn pin iná pi pèsè fún a yọ ilú kúrò ninu òkùnkùn nítorí òkùnkùn"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_10",
+    "input": "kan naa fun omo pupo nipa rira igan aso ju rira ni opa",
+    "output": "kan naa fún ọmọ púpọ nípa ríra ìgàn aṣọ ju ríra ni ọpá"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_46",
+    "input": "agba ofifo ko ni nkan ninu tabi o ni nkan die iru agba yi bi o ti wu ki o",
+    "output": "àgbá òfìfo kò ni nkan ninú tàbi o ni nkan díẹ irú àgbá yi bi o ti wù ki ó"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_34",
+    "input": "oba pe awon orisa ilu lati se iwadi ohun ti o fe ba oro ilu je yi",
+    "output": "ọba pe awọn òrìṣà ìlú lati ṣe iwadi ohun ti ó fẹ ba ọrọ ìlú jẹ yi"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_32",
+    "input": "ajapa mo pe bi erin ba subu ko le dide nigbati ti ija bere ehin ni ajapa wa ti o",
+    "output": "àjàpá mọ pe bi erin bá subú kò lè dide nígbàtí ti ijà bẹrẹ ẹhin ni àjàpá wà ti o"
+  },
+  {
+    "filename": "200625-230031_yor_874_elicit_30",
+    "input": "abinibi ko da iwe kika duro o fi kun imo ni",
+    "output": "abínibí kò dá ìwè kíkà dúró ó fi kún ìmọ ni"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_46",
+    "input": "eko itan yi ni pe ojukokoro ko lere bo pe boya asiri ole a tu",
+    "output": "ẹkọ ìtàn yi ni pe ojúkòkòrò kò lérè bó pẹ bóyá àṣírí olè á tú"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_41",
+    "input": "itan ati iroyin ti a le fi kogbon egbe ati ounje yoruba ni ilu london new york chicago orlando ati",
+    "output": "ìtàn àti ìròyìn tí a lè fi kọgbọn ẹgbẹ àti oúnjẹ yorùbá ni ìlú london new york chicago orlando àti"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_27",
+    "input": "iyalenu ni wipe opo awon ti owa lokeokun ngbe ounje yoruba laruge ju awon ti owa ni ile lo pataki",
+    "output": "ìyàlẹnu ni wipe ọpọ awọn ti ówà lokeokun ngbe ounjẹ yorùbá larugẹ ju awọn ti ówà ni ilé lọ pàtàkì"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_41",
+    "input": "furnmilayo ransome kuti ati oloogbe margaret thatcher fihan wipe lehin obinrin to ba se orire okunrin wa nbe oko won",
+    "output": "fúrnmiláyọ ransome kútì àti olóògbé margaret thatcher fihàn wípé lẹhìn obìnrin tó bá ṣe orire ọkùnrin wa nbẹ ọkọ wọn"
+  },
+  {
+    "filename": "200630-092358_yor_874_elicit_36",
+    "input": "bawo ni a ti le se alaye pe ko si owo lati ran omo lo si ileiwe tabi bere pe",
+    "output": "bawo ni a ti lè ṣe àlàyé pé kò si owó lati rán ọmọ lọ si iléiwé tàbi bèrè pé"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_23",
+    "input": "ilu nbaje si ko sina ko somi ise po aso ebi ko le mu ise kuro tabi so eniti o",
+    "output": "ìlú ńbàjẹ si kò síná kò sómi ìṣẹ pọ aṣọ ẹbí ko le mu ìṣẹ kúrò tàbi sọ ẹnití o"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_42",
+    "input": "ariwo yi po to be ge ti atisun di ogun",
+    "output": "ariwo yi pọ to bẹ gẹ ti àtisùn di ogun"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_45",
+    "input": "lehin ti mofe ati ayanfe se iyawo tan won tele baba ati iya won lo si okeokun lati ma jo",
+    "output": "lẹhin ti mofẹ àti àyànfẹ ṣe ìyàwó tán wọn tẹlé bàbá àti ìyá wọn lọ si òkèokun lati má jọ"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_32",
+    "input": "nigbati won koko fi esun ese yi kan stuart hall o ni ko si nkan to jo bee sugbon pelu",
+    "output": "nígbàtí wọn kọkọ fi ẹsùn ẹṣẹ yi kan stuart hall ó ni kò si nkan tó jọ bẹẹ ṣùgbọn pẹlú"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_16",
+    "input": "yoruba ma nlo awon aroso itan wonyi lati ko awon omode ni eko",
+    "output": "yorùbá ma nlo àwọn àròsọ itàn wọnyi lati kọ àwọn ọmọdé ni ẹkọ"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_17",
+    "input": "won o ni je tan aso bata ati orisirisi ti won ri ni ipolowo lai mo pe odun a re",
+    "output": "wọn ò ni jẹ tán aṣọ bàtà àti oriṣiriṣi ti wọn ri ni ìpolówó lai mọ pé ọdún á ré"
+  },
+  {
+    "filename": "200625-221631_yor_874_elicit_13",
+    "input": "e je ki a fi owe yoruba to wipe ojo gbogbo ni tole ojo kan ni tolohun se ikilo fun",
+    "output": "ẹ jẹ ki a fi owé yorùbá to wipe ọjọ gbogbo ni tolè ọjọ kan ni tolóhun se ikilo fun"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_16",
+    "input": "ni opo odun sehin iresi ki se ounje ojojumo sugbon fun awon omo igbalode iresi buredi ati indomie ti di",
+    "output": "ni ọpọ ọdun sẹhin irẹsi ki ṣe ounjẹ ojojumọ ṣugbọn fun awọn ọmọ igbalode irẹsi burẹdi ati indomie ti di"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_28",
+    "input": "asa atowodowo owo ni a fi nje opolopo ounje yoruba nitori ko si sibi to dara to owo lati fi",
+    "output": "àṣà àtọwọdọwọ ọwọ ni a fi njẹ ọpọlọpọ oúnjẹ yorùbá nítorí kò si ṣíbí tó dára tó ọwọ lati fi"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_29",
+    "input": "ko gba itan omo re gbo nitori naa o gbe akara fun ni ojo keji ati ojo keta omo tun",
+    "output": "kò gba ìtàn ọmọ rẹ gbọ nítorí náà ó gbé àkàrà fún ni ọjọ keji ati ọjọ kẹta ọmọ tún"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_45",
+    "input": "ni ona jinjin si ibi ti isele ti sele",
+    "output": "ni ọnà jínjìn si ibi ti ìṣẹlẹ ti ṣẹlẹ"
+  },
+  {
+    "filename": "200630-003859_yor_874_elicit_9",
+    "input": "gbogbo omo yoruba ni o digba o digbose o darinako o doju ala ka to tun rira",
+    "output": "gbogbo ọmọ yorùbá ni ó dìgbà ó dìgbóṣe ó dàrìnàkò ó dojú àlá ká tó tún ríra"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_31",
+    "input": "ko si ina omi ileiwe fun omo alaini oju ona ti baje awon ara ilu nje iya opolopo odo jade",
+    "output": "kò si iná omi iléìwé fún ọmọ aláìní ojú ọnà ti bàjẹ awọn ará ilú njẹ ìyà ọpọlọpọ ọdọ jade"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_20",
+    "input": "owo ilu je ati awon iwa ibaje yoku",
+    "output": "owó ìlú jẹ àti awọn ìwà ìbàjẹ yoku"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_14",
+    "input": "awon to ngbe ilu nla bi ti eko ko ri aye lati se opolopo ounje ile wa eyi ko jeki",
+    "output": "awọn to ngbe ilu nla bi ti èkó ko ri aye lati se ọpọlọpọ ounjẹ ilẹ wa èyí ko jẹki"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_12",
+    "input": "ile oba ati ijoye ni a ti le ri esin nitori esin ko le rin ninu igbo kijikiji ti o",
+    "output": "ilé ọba àti ìjòyè ni a ti le ri ẹṣin nítorí ẹṣin kò lè rin ninu igbó kìjikìji ti o"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_7",
+    "input": "gbe ese le iyawo ara ilu fi ipa gba oko tabi ile ara ilu lai si eni ti o le",
+    "output": "gbé ẹsẹ lé ìyàwó ará ilú fi ipá gba oko tàbi ilẹ ará ilú lai si ẹni ti ó lè"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_12",
+    "input": "gbogbo agbaye ni yio se idajo fun iru oloro bee yio tun fi oju ba ileejo",
+    "output": "gbogbo àgbáyé ni yio ṣe idájọ fun irú ọlọrọ bẹẹ yio tun fi ojú ba iléẹjọ"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_33",
+    "input": "ogun ti olu ilu re je abeokuta ondo ti olu ilu re je akure osun ti olu",
+    "output": "ògùn ti olú ilú rẹ jẹ abẹòkúta ondo ti olú ilú rẹ jẹ àkúrẹ ọṣun ti olú"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_47",
+    "input": "ilu ti ko ni oorun to ile alawodudu nfi oorun pese ina monamona",
+    "output": "ìlú ti kò ni oòrùn tó ilẹ aláwọdúdú ńfi oòrùn pèsè iná monamona"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_3",
+    "input": "nitori eyi gbogbo eya naijiria ati awon ara ilu miran titi de okeokun lo wa ni eko",
+    "output": "nítorí eyi gbogbo ẹyà nàíjíríà àti àwọn ará ìlú miran titi dé òkèòkun ló wà ni èkó"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_15",
+    "input": "de ese re eleyi lo so amotekun di alami tototo lara titi di ojo oni",
+    "output": "dé ẹsẹ rẹ eleyi ló sọ àmọtékùn di alámì tótòtó lára titi di ọjọ oni"
+  },
+  {
+    "filename": "200625-232021_yor_874_elicit_25",
+    "input": "owe yi fi ere ifowosowopo laarin omode ati agba han nitori ko seni ti ko wulo",
+    "output": "òwe yi fi èrè ifọwọsowọpọ laarin ọmọdé àti àgbà han nítorí kò sẹni tí kò wúlò"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_2",
+    "input": "a lero wipe aworan ati pipe ti o wa ni abala awon oju iwe wonyi yio wulo",
+    "output": "a lérò wípé àwòrán àti pípè tí ó wà ni abala àwọn ojú ìwé wọnyi yio wúlò"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_1",
+    "input": "yoruba ni eni jale lo bomo je iroyin ise rere ki tan bi iru iroyin ise ibi ti michael adebolajo",
+    "output": "yorùbá ni ẹni jalè ló bọmọ jẹ ìròyìn iṣẹ rere ki tàn bi irú ìròyìn iṣẹ ibi ti michael adébọlájọ"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_33",
+    "input": "ibile onisowo oja ibile ati beebee lo lati polowo ise ona ati asa yoruba ni ajodun yi",
+    "output": "ìbìlẹ oníṣòwò ọjà ìbílẹ àti bẹẹbẹẹ lọ lati polówó iṣẹ ọnà àti àṣà yorùbá ni àjọdún yi"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_26",
+    "input": "ope pataki fun olorun",
+    "output": "ọpẹ pàtàkì fún ọlọrun"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_31",
+    "input": "ninu eya merindinlogoji orile ede naijiria eya mefa ni o wa ni ipinle yoruba lapapo",
+    "output": "ninú ẹyà mẹrindinlogoji orilẹ èdè nàíjíríà ẹyà mẹfà ni o wa ni ìpínlẹ yorùbá lápapọ"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_25",
+    "input": "nigbati eni to ni oruko ba nbaje bawo ni ajoji se le pe oruko na dada",
+    "output": "nígbàtí ẹni to ni orúkọ bá ńbàjẹ bawo ni àjòji ṣe lè pe orúkọ na dada"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_2",
+    "input": "ko oke aimoye owo lati se ajoyo idapo ti ara ilu ko kopa ninu re lo se pataki bi ko",
+    "output": "kó ọkẹ aimoye owó lati ṣe àjọyọ ìdàpọ ti ará ilú kò kópa ninu rẹ ló ṣe pàtàkì bi kò"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_40",
+    "input": "lo ngbe apoti ibo nitori won mo pe awon le fi eru de ipo",
+    "output": "ló ńgbé àpóti ibò nítorí wọn mọ pé àwọn lè fi èrú dé ipò"
+  },
+  {
+    "filename": "200630-092358_yor_874_elicit_10",
+    "input": "wiwo",
+    "output": "wíwọ"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_18",
+    "input": "opolopo ewu ti awon odo nla koja iba din ku bi awon olori ilu ba le fi iwa buruku sile",
+    "output": "ọpọlọpọ ewu ti awọn ọdọ nla kọjá iba din kù bi awọn olórí ìlú bá lè fi ìwà burúkú sílẹ"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_31",
+    "input": "bee",
+    "output": "bẹẹ"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_18",
+    "input": "koja",
+    "output": "kọjá"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_9",
+    "input": "lara iwa buruku yi lo nda ogun ati ote si ilu ati tembelekun awon odo",
+    "output": "lára ìwà burúkú yi ló ndá ogun àti ọtẹ si ìlú àti tẹmbẹlẹkun awọn ọdọ"
+  },
+  {
+    "filename": "200630-121116_yor_874_elicit_18",
+    "input": "yoruba ni orisa oke je ki npe meji obinrin ko de nu",
+    "output": "yorùbá ni òriṣà òkè jẹ ki npé méjì obinrin kò dé nú"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_16",
+    "input": "ni ojo kan gbogbo eranko pe ipade lati pari ija fun kolokolo ati kiniun",
+    "output": "ni ọjọ kan gbogbo ẹranko pe ìpàdé lati pari ìjà fún kọlọkọlọ àti kìnìún"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_29",
+    "input": "osese pe bi ina manamana ba se dede ounje yoruba yio gbayi si nitori awon obi ma le se orisirisi",
+    "output": "oṣeṣe pe bi iná manamana ba ṣe dédé ounjẹ yorùbá yio gbayi si nítorí awọn òbì ma le se oriṣiriṣi"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_23",
+    "input": "opolopo omo yoruba ti bere si tiju lati je oruko ti obi fi ede yoruba so won",
+    "output": "ọpọlọpọ ọmọ yorùbá ti bẹrẹ si tijú lati jẹ orúkọ ti òbí fi èdè yorùbá sọ wọn"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_5",
+    "input": "lehin pi po da ewura pi po yi sinu omi obe ti a ti se fun bi iseju medogun",
+    "output": "lẹhin pi pò dá ewùrà pi pò yi sinú omi ọbẹ ti a ti sè fún bi iṣẹjú mẹdogun"
+  },
+  {
+    "filename": "200630-121116_yor_874_elicit_29",
+    "input": "mariam yahia ibrahim ti won gbe si ewon pelu oyun lati duro de idajo iku lehin omo bibi nitori",
+    "output": "mariam yahia ibrahim ti wọn gbé si ẹwọn pẹlú oyún lati dúró de idájọ ikú lẹhin ọmọ bibi nítorí"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_8",
+    "input": "alaini omode arugbo oselu oba ati ijoye a ku ti asiko ba to nitori naa eni to sunkun sunkun fun",
+    "output": "aláìní ọmọdé arúgbó òṣèlú ọba àti ìjòyè á kú tí àsìkò bá tó nítorí náà ẹni to sunkun sunkun fún"
+  },
+  {
+    "filename": "200625-230031_yor_874_elicit_34",
+    "input": "ewedu je ikan ninu obe yoruba to wopo ni agbegbe oyo osun ogun gegebi ila ti wopo ni agbegbe ondo",
+    "output": "ewédú jẹ ikan nínú ọbẹ yorùbá tó wọpọ ni agbègbè ọyó ọsun ògùn gẹgẹbi ilá ti wọpọ ni agbègbè ondo"
+  },
+  {
+    "filename": "200629-232814_yor_874_elicit_45",
+    "input": "awon oyinbo gbe ede won ni aruge ni o mu ki idaji gbogbo enia ni agbaye ki o maa lo",
+    "output": "àwọn òyìnbó gbé èdè wọn ni arugẹ ni ó mú ki idaji gbogbo enia ni àgbáyé ki ó maa lo"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_35",
+    "input": "opo ara osun dibo ati boju to ibo won",
+    "output": "ọpọ ara ọṣun dibò àti bójú tó ibò wọn"
+  },
+  {
+    "filename": "200625-232021_yor_874_elicit_26",
+    "input": "omo iya meji ki rewele yoruba ma nlo oro yi nigbati omo iya meji ba ko agbako to la iku",
+    "output": "ọmọ ìyá méjì ki réwèlè yorùbá ma nlo ọrọ yi nígbàtí ọmọ ìyá méjì ba ko àgbákó tó la ikú"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_20",
+    "input": "ajapa wa ronu ogbon ti o le da lati pese akara fun ohun ati idile re",
+    "output": "àjàpá wá ronú ọgbọn ti ó lè dá lati pèsè àkàrà fún òhun àti idilé rẹ"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_44",
+    "input": "bi ounje ti po to latan fun oromodiye beni ewu po to",
+    "output": "bi ounjẹ ti pọ to latan fun oromọdiyẹ bẹni ewu pọ to"
+  },
+  {
+    "filename": "200629-205402_yor_874_elicit_32",
+    "input": "tabi gba oju owo fun ise ti won se",
+    "output": "tàbi gba ojú owó fún iṣẹ ti wọn ṣe"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_13",
+    "input": "tori ibaje ti o ma sele si iru oko be",
+    "output": "tori ibajẹ ti o ma ṣẹlẹ si irú oko bẹ"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_2",
+    "input": "e je ki o je ede yi ni awon omo wa yio ko gbo ti a o si ma ba",
+    "output": "ẹ jẹ ki ó jẹ èdè yi ni àwọn ọmọ wa yio kọ gbọ ti á o si má ba"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_35",
+    "input": "ege fi ara jo isu nitori awon mejeeji je ounje ti o wopo ni ile yoruba ti won nko ebe",
+    "output": "ẹgẹ fi ara jọ iṣu nítorí àwọn mejeeji jẹ oúnjẹ ti ó wọpọ ni ilẹ yorùbá ti wọn ńkọ ebè"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_9",
+    "input": "ara re eni to mbinu mbinu ara re nitori eni to ku ti lo",
+    "output": "ara rẹ ẹni tó mbinu mbinu ara rẹ nítorí ẹni tó kú ti lọ"
+  },
+  {
+    "filename": "200629-232814_yor_874_elicit_28",
+    "input": "nigba ti won de idi odo won bere si gbo orin ti aantere nko sugbon won o ri",
+    "output": "nigba ti wọn dé idi odò wọn bẹrẹ si gbọ orin ti ààntéré nkọ ṣùgbọn wọn ò ri"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_23",
+    "input": "bi alakara ba ti kiri koja ajapa a be si iwaju omo alakara won a ma ko orin bayi",
+    "output": "bi alákàrà ba ti kiri kọjá àjàpá a bẹ si iwájú ọmọ alákàrà wọn a ma ko orin bayi"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_38",
+    "input": "jo lati se ere lehin ise oojo baba ati iya won",
+    "output": "jọ lati ṣe eré lẹhin iṣẹ oojọ bàbá àti ìyá wọn"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_38",
+    "input": "elede ro pe ore ju owo lo o gba lati ya ajapa lowo nitori adehun re",
+    "output": "ẹlẹdẹ rò pé ọrẹ ju owó lọ ó gbà lati yá àjàpá lówó nítorí àdéhùn rẹ"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_44",
+    "input": "oru",
+    "output": "òru"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_46",
+    "input": "ko tan",
+    "output": "kò tán"
+  },
+  {
+    "filename": "200630-121116_yor_874_elicit_31",
+    "input": "ohun pelu omo ti o ti bi tele ni won gbe ju si ewon fun esun pe ko ye ki",
+    "output": "ohun pẹlú ọmọ ti ó ti bi tẹlẹ ni wọn gbé jù si ẹwọn fún ẹsùn pé kò yẹ ki"
+  },
+  {
+    "filename": "200625-232021_yor_874_elicit_22",
+    "input": "ni aye onikaluku lo ni ohun ti won le se",
+    "output": "ní ayé oníkálukú ló ní ohun tí wọn lè ṣe"
+  },
+  {
+    "filename": "200630-003859_yor_874_elicit_19",
+    "input": "ni owuro ojo kan baba beyiose so fun awon omo re pe ohun fe ji de ibikan",
+    "output": "ni òwúrọ ọjọ kan bàbá beyioṣe sọ fún àwọn ọmọ rẹ pé ohun fẹ ji dé ibikan"
+  },
+  {
+    "filename": "200629-205402_yor_874_elicit_24",
+    "input": "a le fi owe yi ba awon ti o nwo asoalaso ati awon ti o fe gbagbe ede won nitori",
+    "output": "a lè fi òwe yi bá àwọn ti ó nwọ aṣọalaṣọ àti àwọn ti ó fẹ gbàgbé èdè wọn nítorí"
+  },
+  {
+    "filename": "200625-221631_yor_874_elicit_38",
+    "input": "ijoba ti pese owo pupo lati fi opin si asa idabe ni iluoba",
+    "output": "ìjọba ti pèsè owó púpọ lati fi òpin sí àṣà ìdábẹ ní ìlúọba"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_36",
+    "input": "iya alakara tungbe akara fun omo re sugbon ohun ati osanyin tele",
+    "output": "ìyá alákàrà tungbe àkàrà fún ọmọ rẹ ṣùgbọn ohun àti ọsanyin tẹlé"
+  },
+  {
+    "filename": "200626-001537_yor_874_elicit_23",
+    "input": "ipinu oro yi",
+    "output": "ipinu ọrọ yi"
+  },
+  {
+    "filename": "200630-121116_yor_874_elicit_13",
+    "input": "esin igbalode pataki esin igbagbo ti din asa ikobinrinjo ku",
+    "output": "ẹsin igbàlódé pàtàkì ẹsin igbàgbọ ti din àṣà ikóbinrinjọ kù"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_16",
+    "input": "owe yi ba awon ti o se jura won lo tabi ki o je igbese lati ra ebun ounje ti",
+    "output": "òwe yi bá àwọn ti ó ṣe jura wọn lọ tàbi ki ó jẹ igbèsè lati ra ẹbùn oúnjẹ ti"
+  },
+  {
+    "filename": "200630-095103_yor_874_elicit_28",
+    "input": "a gbo ti igba owo buruku owo eru ti ilu to lagbara ra awon enia bi eni ra ohun ini",
+    "output": "á gbọ ti igbà òwò burúkú òwò ẹrú ti ilú tó lágbára ra àwọn enia bi ẹni ra ohun ini"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_11",
+    "input": "ki se ara ilu nikan lo le se idajo fun oba ti o ba hu iwa ika nipa riro loye",
+    "output": "ki ṣe ará ilú nikan ló lè ṣe ìdájọ fún ọba ti ó bá hu iwà ikà nípa rirọ lóyè"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_23",
+    "input": "fun eni ti o ba nse ise ti ko ni ere tabi ilosiwaju pe ki iru eni be gbiyanju ati",
+    "output": "fún ẹni ti ó ba ńṣe iṣẹ ti kò ni èrè tàbi ìlọsíwájú pé ki irú ẹni bẹ gbiyànjú àti"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_37",
+    "input": "bi eko ba lo oko oju omi oko ojuirin pelu oko ori ile lati ko enia ati eru lati ibikan",
+    "output": "bi èkó bá lo ọkọ ojú omi ọkọ ojúirin pẹlú ọkọ orí ilẹ lati kó ènìà àti ẹru lati ibìkan"
+  },
+  {
+    "filename": "200629-232814_yor_874_elicit_5",
+    "input": "ti iya ati baba so won a fun ni oruko ni ile oko",
+    "output": "ti ìyá ati bàbá sọ wọn a fun ni orúkọ ni ilé ọkọ"
+  },
+  {
+    "filename": "200630-110532_yor_874_elicit_3",
+    "input": "ni ketekete ki won ma fi ese rin",
+    "output": "ni kẹtẹkẹtẹ ki wọn ma fi ẹsẹ rin"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_38",
+    "input": "ni aiye atijo esin ati ketekete lo dabi oko igbalode ti won npe ni moto",
+    "output": "ni aiyé àtijọ ẹsin àti kẹtẹkẹtẹ ló dàbi ọkọ igbàlódé ti wọn ńpè ni mọtò"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_15",
+    "input": "alejo mo wipe yoruba ni orisirisi obe ounje ati ipanu",
+    "output": "àlejò mọ wipe yorùbá ni oriṣiriṣi ọbẹ ounjẹ ati ìpanu"
+  },
+  {
+    "filename": "200625-221631_yor_874_elicit_22",
+    "input": "titi di asiko yi iwe na ngbayi si ni nitori won ti tumo iwe yi si ede orisirisi",
+    "output": "títí di àsìkò yi ìwé na ngbayi si ni nítorí wọn ti túmọ ìwé yi sí èdè oriṣiriṣi"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_14",
+    "input": "a le je ifokore lasan awon miran le fi je eba",
+    "output": "a lè jẹ ìfọkọrẹ lásán àwọn miran lè fi jẹ ẹbà"
+  },
+  {
+    "filename": "200625-230031_yor_874_elicit_31",
+    "input": "yoruba ni ebe la mbe osika pe ki o tu ilu re se a be awon oselu ile yoruba ni",
+    "output": "yorùbá ní ẹbẹ la mbẹ òṣìkà pé kí ó tú ìlú rẹ ṣe a bẹ àwọn òṣèlú ilẹ yorùbá ni"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_33",
+    "input": "bi naijiria ti nse ajodun ketaleladota ni ojo kini osu kewa o ye ka gbe owe yoruba ti o ni",
+    "output": "bi nàíjíríà ti nṣe àjọdún kẹtaleladọta ni ọjọ kini oṣù kẹwa ó yẹ ká gbé òwe yorùbá ti ó ni"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_43",
+    "input": "ko si aye fun omo iru awon bayi lati mo won loju nitori won o si nile lati se ojuse",
+    "output": "kò sí àyè fún ọmọ irú àwọn bayi lati mọ wọn lójú nítorí wọn o si nílé lati ṣe ojuṣe"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_27",
+    "input": "e wo iroyin yi",
+    "output": "ẹ wo ìròyìn yi"
+  },
+  {
+    "filename": "200629-205402_yor_874_elicit_16",
+    "input": "opo olusoaguntan ati onihinrere ki wo aso ibile won a di bi ire pelu aso otutu",
+    "output": "ọpọ olùṣọàgùntàn àti oníhìnrere ki wọ aṣọ ìbílẹ wọn a di bi ìrẹ pẹlú aṣọ òtútù"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_15",
+    "input": "nse ayeye igbeyawo sugbon laye ode oni aye oto bi ile ilu papa isere ile alejo ati beebee lo ni",
+    "output": "nṣe ayẹyẹ ìgbéyàwó ṣùgbọn láyé òde òní àyè ọtọ bi ilé ìlú pápá ìṣeré ilé àlejò àti bẹẹbẹẹ lọ ni"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_34",
+    "input": "parapo tun ilu se",
+    "output": "parapọ tún ílú ṣe"
+  },
+  {
+    "filename": "200630-003859_yor_874_elicit_10",
+    "input": "o bi omo meta ti won jo ngbe nitori iyawo re ti ku",
+    "output": "o bi ọmọ mẹta ti wọn jọ ngbe nítorí ìyàwó rẹ ti kú"
+  },
+  {
+    "filename": "200625-215447_yor_874_elicit_6",
+    "input": "ede ti a ko sile ti a ko so ti a ko fi ko omo wa pipare ni yio pare",
+    "output": "èdè ti a kọ silẹ ti a ko sọ ti a ko fi kọ ọmọ wa piparẹ ni yio parẹ"
+  },
+  {
+    "filename": "200630-123859_yor_874_elicit_19",
+    "input": "awon eranko yoku se akiyesi wipe",
+    "output": "àwọn ẹranko yókù ṣe àkíyèsí wípé"
+  },
+  {
+    "filename": "200629-205402_yor_874_elicit_34",
+    "input": "ni itiju lati je oogun osise",
+    "output": "ni ìtìjú lati jẹ òógùn òṣìṣẹ"
+  },
+  {
+    "filename": "200629-222626_yor_874_elicit_22",
+    "input": "yi de oju iku",
+    "output": "yi dé ojú ikú"
+  },
+  {
+    "filename": "200630-112655_yor_874_elicit_2",
+    "input": "fo isu ewura kan",
+    "output": "fọ iṣu ewùrà kan"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_10",
+    "input": "e wo aworan ati pipe iru awon eranko wonyi ni oju ewe yi",
+    "output": "ẹ wo àwòrán àti pipe irú àwọn ẹranko wọnyi ni ojú ewé yi"
+  },
+  {
+    "filename": "200630-092358_yor_874_elicit_47",
+    "input": "bi omo ebi tabi alabagbe wonyi ba ni ojukokoro won a darapo mo ole lati gbe eru tabi owo pelu",
+    "output": "bi ọmọ ẹbi tabi alábagbe wọnyi bá ni ojúkòkòrò wọn á darapọ mọ olè lati gbé ẹrù tàbi owó pẹlú"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_22",
+    "input": "nitori inawo igbeyawo ile ayeye poju ile ikawe lo laye ode oni",
+    "output": "nítorí ìnáwó ìgbéyàwó ilé ayẹyẹ pọju ilé ìkàwé lọ láyé òde òní"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_6",
+    "input": "omo odun metadinladorun ni nigbati o dagbere fun aye ni osu kerin ojo kejo odun egberunmejilemetala",
+    "output": "ọmọ ọdún mẹtadinladọrun ni nígbàtí ó dágbére fún ayé ni oṣù kẹrin ọjọ kẹjọ ọdún ẹgbẹrúnméjìlémẹtàlá"
+  },
+  {
+    "filename": "200625-223759_yor_874_elicit_4",
+    "input": "egbaa le metala",
+    "output": "ẹgbaa le mẹtala"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_44",
+    "input": "awon enia ti o ri won ni baba iwo gun ketekete omo nrin ni ile",
+    "output": "àwọn enia ti o ri wọn ni bàbá iwọ gun kẹtẹkẹtẹ ọmọ ńrin ni ilẹ"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_6",
+    "input": "yanibo se alaye",
+    "output": "yáníbo ṣe àlàyé"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_5",
+    "input": "yoruba",
+    "output": "yorùbá"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_28",
+    "input": "ere iwa buruku lati odo oselu ti ran awon ara ilu",
+    "output": "èrè iwà burúkú lati ọdọ òṣèlú ti ran awọn ará ilu"
+  },
+  {
+    "filename": "200625-235253_yor_874_elicit_5",
+    "input": "asa ile yoruba titi di asiko yi opolopo okunrin ma nni iyawo pupo won si ma mbi omo pupo wiwo",
+    "output": "àṣà ilẹ yorùbá títí di àsìkò yi ọpọlọpọ ọkùnrin ma nni ìyàwó púpọ wọn si ma mbi ọmọ púpọ wíwọ"
+  },
+  {
+    "filename": "200625-232021_yor_874_elicit_14",
+    "input": "ologbon ma nlo ogbon ologbon lati yera fun isubu",
+    "output": "ọlọgbọn ma nlo ọgbọn ọlọgbọn lati yẹra fún ìṣubú"
+  },
+  {
+    "filename": "200629-230040_yor_874_elicit_10",
+    "input": "ebi tun le wo se fun oko iyawo lati gba idaji oye isu tabi eru lati bo ni asiri",
+    "output": "ẹbi tún lè wo ṣe fún ọkọ ìyàwó lati gba idaji oye iṣu tàbi ẹrù lati bo ni àṣiri"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_19",
+    "input": "ki won tu ilu se nipa si se idajo fun olori ti o ba se ise ibi bi ki ko",
+    "output": "ki wọn tu ìlú ṣe nípa ṣi ṣe ìdájọ fún olórí ti ó bá ṣe iṣẹ ibi bi ki kó"
+  },
+  {
+    "filename": "200630-001255_yor_874_elicit_37",
+    "input": "kun fun omo",
+    "output": "kún fún ọmọ"
+  },
+  {
+    "filename": "200630-121116_yor_874_elicit_8",
+    "input": "bi iyawo ba ti pe meji meta bi arun yi ba han si iyawo keji eebu de pataki ni asiko",
+    "output": "bi ìyàwó bá ti pé méjì mẹta bi àrùn yi bá hàn si ìyàwó keji èébú dé pàtàkì ni àsikò"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_25",
+    "input": "olori ilu ti a npe ni ijoba mba oro ilu je pelu iwa ibaje bi gbigba abetele ojukokoro riru ofin",
+    "output": "olórí ilú ti a npe ni ìjọba mba ọrọ ilú jẹ pẹlú iwà ibàjẹ bi gbigba àbẹtẹlẹ ojúkòkòrò rírú òfin"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_31",
+    "input": "o yan obinrin ti a npe ni ayanfe ni iyawo afesona",
+    "output": "ó yan obinrin ti à ńpè ni àyànfẹ ni ìyàwó àfẹsọnà"
+  },
+  {
+    "filename": "200629-232814_yor_874_elicit_23",
+    "input": "nigbati ebe po won gba nitori o ti dagba to lati wo ileoko won ti gbagbe ewo ti oloriawo so",
+    "output": "nígbàtí ẹbẹ pọ wọn gbà nítorí o ti dàgbà tó lati wọ iléọkọ wọn ti gbàgbé ewọ ti olóriawo sọ"
+  },
+  {
+    "filename": "200629-234938_yor_874_elicit_22",
+    "input": "orile ede yi gba ominira lati odo iluoba ni odun metaleladota sehin",
+    "output": "orílẹ èdè yi gba ominira lati ọdọ ilúọba ni ọdún mẹtàléladọta sẹhin"
+  },
+  {
+    "filename": "200630-101743_yor_874_elicit_43",
+    "input": "gege bi asa yoruba lati bu owo fun agba baba lo gun ketekete omo re bere si rin tele ketekete",
+    "output": "gẹgẹ bi àṣà yorùbá lati bu ọwọ fún àgbà bàbá ló gun kẹtẹkẹtẹ ọmọ rẹ bẹrẹ si rin tẹlé kẹtẹkẹtẹ"
+  },
+  {
+    "filename": "200630-115031_yor_874_elicit_13",
+    "input": "sugbon ni aye ode oni ojo kejo ni won so gbogbo omo loruko",
+    "output": "ṣùgbọn ni ayé òde òni ọjọ kẹjọ ni wọn sọ gbogbo ọmọ lórúkọ"
+  }
+]
